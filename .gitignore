@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+data/*.network-response
+data/lifesg_preschools.discovery.json
+data/lifesg_fees_warnings.txt
