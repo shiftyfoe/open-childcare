@@ -174,7 +174,7 @@ def run() -> None:
                 time.sleep(CRAWL_DELAY)
 
     write_dataset(OUT_PATH, results)
-    print(f"Saved {len(results)} centres to {OUT_PATH}")
+    print(f"Saved {len(results)} centres to {OUT_PATH.parent}/{OUT_PATH.stem}-latest.json")
 
 
 if __name__ == "__main__":

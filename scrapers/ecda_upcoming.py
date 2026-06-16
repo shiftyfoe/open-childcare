@@ -46,7 +46,7 @@ def run() -> None:
     rows = parse_table(resp.text)
 
     write_dataset(OUT_PATH, rows)
-    print(f"Saved {len(rows)} upcoming preschools to {OUT_PATH}")
+    print(f"Saved {len(rows)} upcoming preschools to {OUT_PATH.parent}/{OUT_PATH.stem}-latest.json")
 
 
 if __name__ == "__main__":

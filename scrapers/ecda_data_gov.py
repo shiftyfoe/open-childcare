@@ -123,7 +123,7 @@ def run() -> None:
 
     print(f"\nFetched {len(records)} records ({warn_count} with validation warnings)")
     write_dataset(OUT_PATH, records)
-    print(f"Saved to {OUT_PATH}")
+    print(f"Saved to {OUT_PATH.parent}/{OUT_PATH.stem}-latest.json")
 
 
 if __name__ == "__main__":

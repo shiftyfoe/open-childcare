@@ -27,7 +27,7 @@ def write_dataset(path: Path, data: list | dict) -> None:
     content = json.dumps(data, indent=2, ensure_ascii=False)
     dated = path.parent / f"{path.stem}-{today}.json"
     latest = path.parent / f"{path.stem}-latest.json"
-    for p in (path, dated, latest):
+    for p in (dated, latest):
         p.write_text(content)
 
 

@@ -151,7 +151,7 @@ def run() -> None:
         Path("data/lifesg_fees_warnings.txt").write_text("\n".join(warn_log))
 
     write_dataset(OUT_PATH, results)
-    console.print(f"Saved to {OUT_PATH}")
+    console.print(f"Saved to {OUT_PATH.parent}/{OUT_PATH.stem}-latest.json")
 
 
 if __name__ == "__main__":
