@@ -16,7 +16,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        scraper: [ecda_data_gov, ecda_upcoming, lifesg_fees, myfirstskool]
+        scraper: [ecda_data_gov, ecda_upcoming, lifesg_fees, myfirstskool, pcf_sparkletots]
 
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
@@ -56,6 +56,9 @@ jobs:
 
       - name: Install dependencies
         run: uv sync
+
+      - name: Geocode centres
+        run: uv run python -m scrapers.geocode
 
       - name: Merge datasets
         run: uv run python -m scrapers.merge
