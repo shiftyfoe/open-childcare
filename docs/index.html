@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SG Childcare Finder</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" crossorigin="">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" crossorigin="">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --blue: #1d4ed8; --blue-light: #dbeafe; --blue-dark: #1e3a8a;
+      --green: #059669; --red: #dc2626; --grey: #6b7280;
+      --bg: #f1f5f9; --card: #ffffff; --border: #e2e8f0;
+      --text: #1e293b; --muted: #64748b;
+    }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); height: 100vh; display: flex; flex-direction: column; }
+    /* Header */
+    header { background: var(--blue-dark); color: white; padding: 12px 20px; display: flex; align-items: center; gap: 16px; flex-shrink: 0; }
+    header h1 { font-size: 1.2rem; font-weight: 700; }
+    header p { font-size: 0.8rem; opacity: 0.75; }
+    .stats-bar { display: flex; gap: 24px; margin-left: auto; font-size: 0.78rem; }
+    .stat { text-align: center; }
+    .stat strong { display: block; font-size: 1.1rem; font-weight: 700; }
+    /* Filters */
+    #filters { background: var(--card); border-bottom: 1px solid var(--border); padding: 10px 20px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; flex-shrink: 0; }
+    #filters input, #filters select { height: 34px; padding: 0 10px; border: 1px solid var(--border); border-radius: 6px; font-size: 0.82rem; color: var(--text); background: white; }
+    #filters input { width: 220px; }
+    #filters select { min-width: 140px; }
+    #filters label { font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+    .filter-group { display: flex; align-items: center; gap: 6px; }
+    #result-count { margin-left: auto; font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+    /* Tabs */
+    #tab-bar { background: var(--card); border-bottom: 1px solid var(--border); display: flex; padding: 0 20px; flex-shrink: 0; }
+    .tab { padding: 10px 18px; font-size: 0.85rem; font-weight: 500; cursor: pointer; border-bottom: 2px solid transparent; color: var(--muted); }
+    .tab.active { color: var(--blue); border-bottom-color: var(--blue); }
+    /* Content */
+    #content { flex: 1; overflow: hidden; position: relative; }
+    .tab-pane { display: none; height: 100%; }
+    .tab-pane.active { display: flex; flex-direction: column; }
+    /* Map */
+    #map { flex: 1; }
+    #map-legend { position: absolute; bottom: 30px; right: 10px; z-index: 1000; background: white; border-radius: 8px; padding: 10px 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); font-size: 0.75rem; max-width: 200px; }
+    #map-legend h4 { font-size: 0.78rem; font-weight: 600; margin-bottom: 6px; }
+    .legend-item { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; }
+    .legend-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+    /* Directory */
+    #dir-wrap { flex: 1; overflow: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
+    thead th { position: sticky; top: 0; background: #f8fafc; border-bottom: 2px solid var(--border); padding: 8px 12px; text-align: left; font-weight: 600; color: var(--muted); white-space: nowrap; }
+    tbody tr:hover { background: #f8fafc; }
+    tbody td { padding: 7px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+    .badge { display: inline-block; padding: 2px 7px; border-radius: 10px; font-size: 0.72rem; font-weight: 500; white-space: nowrap; }
+    .badge-green { background: #dcfce7; color: #16a34a; }
+    .badge-grey { background: #f1f5f9; color: var(--grey); }
+    .badge-blue { background: var(--blue-light); color: var(--blue); }
+    .vac { display: inline-block; width: 26px; text-align: center; padding: 1px 3px; border-radius: 3px; font-size: 0.68rem; font-weight: 600; }
+    .vac-A { background: #dcfce7; color: #15803d; }
+    .vac-F { background: #fee2e2; color: #dc2626; }
+    .vac-N { background: #f1f5f9; color: #94a3b8; }
+    #dir-pagination { display: flex; align-items: center; gap: 8px; padding: 10px 20px; background: var(--card); border-top: 1px solid var(--border); font-size: 0.8rem; flex-shrink: 0; }
+    #dir-pagination button { padding: 4px 12px; border: 1px solid var(--border); border-radius: 5px; background: white; cursor: pointer; font-size: 0.8rem; }
+    #dir-pagination button:disabled { opacity: 0.4; cursor: default; }
+    #dir-pagination button:hover:not(:disabled) { background: var(--blue-light); }
+    /* Analytics */
+    #analytics { flex: 1; overflow: auto; padding: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .chart-card { background: var(--card); border-radius: 10px; border: 1px solid var(--border); padding: 16px; }
+    .chart-card h3 { font-size: 0.88rem; font-weight: 600; color: var(--muted); margin-bottom: 12px; }
+    .chart-wrap { position: relative; height: 280px; }
+    /* Popup */
+    .popup h4 { font-weight: 700; margin-bottom: 4px; font-size: 0.9rem; }
+    .popup .op { font-size: 0.75rem; color: var(--muted); margin-bottom: 6px; }
+    .popup .row { font-size: 0.78rem; margin-bottom: 3px; }
+    .popup .vacs { display: flex; gap: 4px; flex-wrap: wrap; margin: 6px 0; }
+    .popup .tags { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 6px; }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    #loading { position: fixed; inset: 0; background: rgba(255,255,255,0.9); display: flex; flex-direction: column; align-items: center; justify-content: center; z-index: 9999; gap: 12px; }
+    .spinner { width: 36px; height: 36px; border: 3px solid var(--border); border-top-color: var(--blue); border-radius: 50%; animation: spin 0.8s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @media (max-width: 768px) {
+      #analytics { grid-template-columns: 1fr; }
+      .stats-bar { display: none; }
+      header p { display: none; }
+      #filters input { width: 150px; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="loading">
+  <div class="spinner"></div>
+  <div style="color:var(--muted);font-size:0.85rem">Loading childcare data…</div>
+</div>
+
+<header>
+  <div>
+    <h1>SG Childcare Finder</h1>
+    <p>Singapore childcare &amp; preschool directory</p>
+  </div>
+  <div class="stats-bar" id="stats"></div>
+</header>
+
+<div id="filters">
+  <div class="filter-group">
+    <label for="q">Search</label>
+    <input type="text" id="q" placeholder="Centre name or address…">
+  </div>
+  <div class="filter-group">
+    <label for="f-org">Operator</label>
+    <select id="f-org"><option value="">All operators</option></select>
+  </div>
+  <div class="filter-group">
+    <label for="f-spark">SPARK</label>
+    <select id="f-spark">
+      <option value="">Any</option>
+      <option value="1">Certified</option>
+      <option value="0">Not certified</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <label for="f-level">Vacancy level</label>
+    <select id="f-level">
+      <option value="">Any level</option>
+      <option value="vi">Infant (0–18m)</option>
+      <option value="vpg">Playgroup (18–30m)</option>
+      <option value="vn1">Nursery 1 (2.5–3.5yr)</option>
+      <option value="vn2">Nursery 2 (3–4yr)</option>
+      <option value="vk1">K1 (4–5yr)</option>
+      <option value="vk2">K2 (5–6yr)</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <label for="f-subsidy">MSF subsidy</label>
+    <select id="f-subsidy">
+      <option value="">Any</option>
+      <option value="1">Eligible</option>
+    </select>
+  </div>
+  <span id="result-count"></span>
+</div>
+
+<div id="tab-bar">
+  <div class="tab active" data-tab="map">Map</div>
+  <div class="tab" data-tab="directory">Directory</div>
+  <div class="tab" data-tab="analytics">Analytics</div>
+</div>
+
+<div id="content">
+  <!-- MAP -->
+  <div class="tab-pane active" id="pane-map" style="position:relative">
+    <div id="map"></div>
+    <div id="map-legend">
+      <h4>Operator</h4>
+      <div id="legend-items"></div>
+    </div>
+  </div>
+
+  <!-- DIRECTORY -->
+  <div class="tab-pane" id="pane-directory">
+    <div id="dir-wrap">
+      <table id="dir-table">
+        <thead>
+          <tr>
+            <th>Centre</th>
+            <th>Operator</th>
+            <th>Postal</th>
+            <th>Hours (M–F)</th>
+            <th>Vacancies (current)</th>
+            <th>SPARK</th>
+            <th>MSF ceiling</th>
+          </tr>
+        </thead>
+        <tbody id="dir-body"></tbody>
+      </table>
+    </div>
+    <div id="dir-pagination">
+      <button id="btn-prev">← Prev</button>
+      <span id="page-info"></span>
+      <button id="btn-next">Next →</button>
+    </div>
+  </div>
+
+  <!-- ANALYTICS -->
+  <div class="tab-pane" id="pane-analytics">
+    <div id="analytics">
+      <div class="chart-card">
+        <h3>Centres by operator</h3>
+        <div class="chart-wrap"><canvas id="chart-org"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>Current vacancy rate by age group</h3>
+        <div class="chart-wrap"><canvas id="chart-vac"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>MSF subsidy eligibility by region</h3>
+        <div class="chart-wrap"><canvas id="chart-fees-region"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>MSF subsidy eligibility by operator</h3>
+        <div class="chart-wrap"><canvas id="chart-fees-org"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>SPARK accreditation</h3>
+        <div class="chart-wrap"><canvas id="chart-spark"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>Top areas by centre count</h3>
+        <div class="chart-wrap"><canvas id="chart-area"></canvas></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script>
+// ── Config ──────────────────────────────────────────────────────────────────
+const ORG_COLORS = {
+  'PCF Sparkletots Preschool Limited':  '#1d4ed8',
+  'NTUC First Campus Co-Operative Ltd': '#16a34a',
+  'MOE Kindergarten':                   '#dc2626',
+  'E-Bridge Pre-school Pte. Ltd.':      '#7c3aed',
+  'MY World Preschool Ltd':             '#0891b2',
+  'Skool4Kidz Pte Ltd':                 '#ea580c',
+  'Presbyterian Community Services':    '#92400e',
+  'Workplace':                          '#9d174d',
+  'Not-for-Profit Organisation':        '#374151',
+  'Private Operators':                  '#6b7280',
+};
+const ORG_SHORT = {
+  'PCF Sparkletots Preschool Limited':  'PCF Sparkletots',
+  'NTUC First Campus Co-Operative Ltd': 'My First Skool (NTUC)',
+  'MOE Kindergarten':                   'MOE Kindergarten',
+  'E-Bridge Pre-school Pte. Ltd.':      'E-Bridge',
+  'MY World Preschool Ltd':             'MY World',
+  'Skool4Kidz Pte Ltd':                 'Skool4Kidz',
+  'Presbyterian Community Services':    'Presbyterian CS',
+  'Workplace':                          'Workplace',
+  'Not-for-Profit Organisation':        'Not-for-Profit',
+  'Private Operators':                  'Private',
+};
+const VAC_LABELS = { vi:'Infant', vpg:'Playgroup', vn1:'Nursery 1', vn2:'Nursery 2', vk1:'K1', vk2:'K2' };
+
+// Postal sector → area (first 2 digits of 6-digit postal code)
+const SECTOR_AREA = {
+  '00':'Raffles Place','01':'Raffles Place','02':'Tanjong Pagar','03':'Queenstown',
+  '04':'Harbourfront','05':'Buona Vista','06':'City Hall','07':'Beach Road',
+  '08':'Little India','09':'Orchard','10':'Tanglin/Holland','11':'Novena',
+  '12':'Toa Payoh','13':'Macpherson','14':'Geylang','15':'Marine Parade',
+  '16':'Bedok','17':'Changi','18':'Tampines / Pasir Ris','19':'Serangoon/Hougang',
+  '20':'Bishan/Ang Mo Kio','21':'Upper Bukit Timah','22':'Jurong East',
+  '23':'Jurong West','24':'Choa Chu Kang','25':'Kranji/Woodgrove',
+  '26':'Upper Thomson','27':'Yishun/Sembawang','28':'Seletar',
+  '29':'Ang Mo Kio','30':'Woodlands','31':'Hougang','32':'Sengkang',
+  '33':'Punggol','34':'Toa Payoh North','35':'Ang Mo Kio','36':'Ang Mo Kio',
+  '37':'Clementi','38':'Paya Lebar','39':'Macpherson','40':'Boon Lay',
+  '41':'Jurong','42':'Kallang','43':'Queenstown','44':'Alexandra',
+  '45':'West Coast','46':'Pasir Panjang','47':'Clementi','48':'Telok Blangah',
+  '49':'Bukit Timah','50':'Bukit Timah','51':'Hillview','52':'Pasir Ris',
+  '53':'Tampines','54':'Sengkang','55':'Punggol','56':'Bishan',
+  '57':'Toa Payoh','58':'Bukit Batok','59':'Jurong West','60':'Jurong West',
+  '61':'Jurong East','62':'Pioneer','63':'Tuas','64':'Tengah',
+  '65':'Jurong West','66':'Jurong West','67':'Boon Lay','68':'Choa Chu Kang',
+  '69':'Yio Chu Kang','70':'Yishun','71':'Sembawang','72':'Admiralty',
+  '73':'Woodlands','75':'Woodlands','76':'Woodlands','77':'Woodlands',
+  '78':'Seletar','79':'Sengkang','80':'Tampines','81':'Pasir Ris','82':'Tampines',
+};
+
+function sectorArea(postal) {
+  const s = String(postal || '').slice(0, 2).padStart(2, '0');
+  return SECTOR_AREA[s] || `Postal ${s}`;
+}
+
+// ── State ────────────────────────────────────────────────────────────────────
+let allData = [];
+let filtered = [];
+let page = 0;
+const PAGE_SIZE = 50;
+let charts = {};
+let markers = null;
+let mapInited = false;
+let leafletMap = null;
+let chartsInited = false;
+
+// ── Filters ──────────────────────────────────────────────────────────────────
+function getFilters() {
+  return {
+    q: document.getElementById('q').value.toLowerCase().trim(),
+    org: document.getElementById('f-org').value,
+    spark: document.getElementById('f-spark').value,
+    level: document.getElementById('f-level').value,
+    subsidy: document.getElementById('f-subsidy').value,
+  };
+}
+
+function applyFilters() {
+  const f = getFilters();
+  filtered = allData.filter(c => {
+    if (f.q && !c.n.toLowerCase().includes(f.q) && !c.a.toLowerCase().includes(f.q)) return false;
+    if (f.org && c.o !== f.org) return false;
+    if (f.spark !== '' && String(c.sp) !== f.spark) return false;
+    if (f.level && c[f.level] !== 'A') return false;
+    if (f.subsidy === '1' && !c.fn) return false;
+    return true;
+  });
+  page = 0;
+  document.getElementById('result-count').textContent = `${filtered.length.toLocaleString()} centres`;
+  updateActiveTab();
+}
+
+// ── Map ──────────────────────────────────────────────────────────────────────
+function initMap() {
+  leafletMap = L.map('map', { preferCanvas: true }).setView([1.3521, 103.8198], 12);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(leafletMap);
+  markers = L.markerClusterGroup({ chunkedLoading: true, maxClusterRadius: 50 });
+  leafletMap.addLayer(markers);
+  buildLegend();
+  mapInited = true;
+}
+
+function buildLegend() {
+  const el = document.getElementById('legend-items');
+  Object.entries(ORG_SHORT).forEach(([full, short]) => {
+    const color = ORG_COLORS[full] || '#6b7280';
+    el.innerHTML += `<div class="legend-item"><div class="legend-dot" style="background:${color}"></div><span>${short}</span></div>`;
+  });
+}
+
+function vacLine(c) {
+  return Object.entries(VAC_LABELS).map(([k, lbl]) => {
+    const v = c[k];
+    const style = v === 'A' ? 'color:#16a34a;font-weight:600' : v === 'F' ? 'color:#dc2626' : 'color:#94a3b8';
+    const sym = v === 'A' ? '✓' : v === 'F' ? '✗' : '–';
+    return `<span style="${style}">${lbl}: ${sym}</span>`;
+  }).join(' &nbsp;');
+}
+
+function renderMap(data) {
+  if (!mapInited) initMap();
+  markers.clearLayers();
+  const geo = data.filter(c => c.lat && c.lng);
+  geo.forEach(c => {
+    const color = ORG_COLORS[c.o] || '#6b7280';
+    const dot = L.circleMarker([c.lat, c.lng], {
+      radius: 7, color: 'white', weight: 1.5,
+      fillColor: color, fillOpacity: 0.85,
+    });
+    const webLink = c.w ? `<a href="${c.w}" target="_blank" rel="noopener">Website</a>` : '';
+    const ceiling = c.fn ? `<div class="row">💰 MSF ceiling: $${c.fi?.toLocaleString()} (infant) · $${c.fn?.toLocaleString()} (non-infant)</div>` : '';
+    dot.bindPopup(`
+      <div class="popup" style="min-width:220px;max-width:280px">
+        <h4>${c.n}</h4>
+        <div class="op">${ORG_SHORT[c.o] || c.o}${c.sm && c.sm !== 'na' ? ' · ' + c.sm : ''}</div>
+        <div class="row">📍 ${c.a}</div>
+        ${c.wh ? `<div class="row">⏰ Mon–Fri ${c.wh}${c.sh && c.sh !== 'N/A' ? ' · Sat ' + c.sh : ''}</div>` : ''}
+        ${c.ph ? `<div class="row">📞 ${c.ph}</div>` : ''}
+        ${webLink ? `<div class="row">🌐 ${webLink}</div>` : ''}
+        <div class="vacs">${vacLine(c)}</div>
+        <div class="tags">
+          ${c.sp ? '<span class="badge badge-blue">SPARK ✓</span>' : '<span class="badge badge-grey">Non-SPARK</span>'}
+          ${c.eoh ? '<span class="badge badge-green">Extended hrs</span>' : ''}
+          ${c.tr ? '<span class="badge badge-green">Transport</span>' : ''}
+        </div>
+        ${ceiling}
+        ${c.fo && c.fo !== 'na' ? `<div class="row" style="margin-top:5px;font-size:0.72rem;color:var(--muted)">${c.fo}</div>` : ''}
+      </div>
+    `, { maxWidth: 300 });
+    markers.addLayer(dot);
+  });
+}
+
+// ── Directory ────────────────────────────────────────────────────────────────
+function vacBadges(c) {
+  return Object.entries(VAC_LABELS).map(([k, lbl]) => {
+    const v = c[k];
+    const cls = v === 'A' ? 'vac-A' : v === 'F' ? 'vac-F' : 'vac-N';
+    const label = lbl.replace('Nursery ', 'N').replace('Playgroup', 'PG').replace('Infant', 'Inf').replace('K1', 'K1').replace('K2', 'K2');
+    return `<span class="vac ${cls}" title="${lbl}">${label[0] === 'I' ? 'Inf' : label}</span>`;
+  }).join(' ');
+}
+
+function renderDirectory(data) {
+  const tbody = document.getElementById('dir-body');
+  const start = page * PAGE_SIZE;
+  const slice = data.slice(start, start + PAGE_SIZE);
+  tbody.innerHTML = slice.map(c => {
+    const website = c.w ? `<a href="${c.w}" target="_blank" rel="noopener">${c.n}</a>` : c.n;
+    return `<tr>
+      <td style="max-width:200px"><strong>${website}</strong><br><span style="color:var(--muted);font-size:0.72rem">${c.a}</span></td>
+      <td><span class="badge badge-grey" style="background:${ORG_COLORS[c.o]}22;color:${ORG_COLORS[c.o]}">${ORG_SHORT[c.o] || c.o}</span></td>
+      <td>${c.p}</td>
+      <td style="white-space:nowrap">${c.wh || '–'}</td>
+      <td style="white-space:nowrap">${vacBadges(c)}</td>
+      <td>${c.sp ? '<span class="badge badge-blue">SPARK</span>' : '<span style="color:var(--muted)">–</span>'}</td>
+      <td>${c.fn ? `<span style="color:var(--green);font-weight:600">$${c.fn}/mo</span>` : '<span style="color:var(--muted)">–</span>'}</td>
+    </tr>`;
+  }).join('');
+
+  const total = data.length;
+  const totalPages = Math.ceil(total / PAGE_SIZE);
+  document.getElementById('page-info').textContent = `Page ${page + 1} of ${totalPages} (${total.toLocaleString()} centres)`;
+  document.getElementById('btn-prev').disabled = page === 0;
+  document.getElementById('btn-next').disabled = page >= totalPages - 1;
+}
+
+document.getElementById('btn-prev').onclick = () => { page--; renderDirectory(filtered); document.getElementById('dir-wrap').scrollTop = 0; };
+document.getElementById('btn-next').onclick = () => { page++; renderDirectory(filtered); document.getElementById('dir-wrap').scrollTop = 0; };
+
+// ── Analytics ────────────────────────────────────────────────────────────────
+function renderAnalytics(data) {
+  // 1. Org distribution
+  const orgCounts = {};
+  data.forEach(c => { orgCounts[c.o] = (orgCounts[c.o] || 0) + 1; });
+  const orgSorted = Object.entries(orgCounts).sort((a, b) => b[1] - a[1]);
+  updateChart('chart-org', 'doughnut', {
+    labels: orgSorted.map(([o]) => ORG_SHORT[o] || o),
+    datasets: [{ data: orgSorted.map(([,n]) => n), backgroundColor: orgSorted.map(([o]) => ORG_COLORS[o] || '#6b7280'), borderWidth: 2, borderColor: '#fff' }]
+  }, { plugins: { legend: { position: 'right', labels: { font: { size: 11 }, boxWidth: 14 } } } });
+
+  // 2. Vacancy rate by level
+  const levels = ['vi','vpg','vn1','vn2','vk1','vk2'];
+  const vacPct = levels.map(k => {
+    const eligible = data.filter(c => c[k] !== 'N');
+    const avail = eligible.filter(c => c[k] === 'A');
+    return eligible.length ? Math.round(avail.length / eligible.length * 100) : 0;
+  });
+  updateChart('chart-vac', 'bar', {
+    labels: levels.map(k => VAC_LABELS[k]),
+    datasets: [{
+      label: '% with vacancies',
+      data: vacPct,
+      backgroundColor: '#1d4ed8cc',
+      borderRadius: 4,
+    }]
+  }, {
+    indexAxis: 'y',
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { min: 0, max: 100, ticks: { callback: v => v + '%' } },
+      y: { grid: { display: false } }
+    }
+  });
+
+  // 3. SPARK certification
+  const sparkY = data.filter(c => c.sp).length;
+  const sparkN = data.length - sparkY;
+  updateChart('chart-spark', 'doughnut', {
+    labels: ['SPARK Certified', 'Not Certified'],
+    datasets: [{ data: [sparkY, sparkN], backgroundColor: ['#1d4ed8', '#e2e8f0'], borderWidth: 2, borderColor: '#fff' }]
+  }, {
+    plugins: {
+      legend: { position: 'bottom', labels: { font: { size: 11 } } },
+      tooltip: { callbacks: { label: ctx => ` ${ctx.label}: ${ctx.raw} (${Math.round(ctx.raw/data.length*100)}%)` } }
+    }
+  });
+
+  // 4. MSF subsidy eligibility by region
+  const feeRegion = {};
+  data.forEach(c => { const a = sectorArea(c.p); if (!feeRegion[a]) feeRegion[a] = { total: 0, subsidy: 0 }; feeRegion[a].total++; if (c.fn) feeRegion[a].subsidy++; });
+  const feeRegionSorted = Object.entries(feeRegion)
+    .map(([a, v]) => ({ area: a, pct: v.total >= 10 ? Math.round(v.subsidy / v.total * 100) : 0, total: v.total }))
+    .filter(x => x.total >= 10)
+    .sort((a, b) => b.pct - a.pct).slice(0, 15);
+  updateChart('chart-fees-region', 'bar', {
+    labels: feeRegionSorted.map(x => x.area),
+    datasets: [{ label: '% eligible', data: feeRegionSorted.map(x => x.pct), backgroundColor: '#16a34acc', borderRadius: 4 }]
+  }, {
+    indexAxis: 'y',
+    plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => ` ${ctx.raw}% eligible (${feeRegionSorted[ctx.dataIndex].total} centres)` } } },
+    scales: { x: { min: 0, max: 100, ticks: { callback: v => v + '%' } }, y: { ticks: { font: { size: 10 } }, grid: { display: false } } }
+  });
+
+  // 5. MSF subsidy eligibility by operator
+  const feeOrg = {};
+  data.forEach(c => { if (!feeOrg[c.o]) feeOrg[c.o] = { total: 0, subsidy: 0 }; feeOrg[c.o].total++; if (c.fn) feeOrg[c.o].subsidy++; });
+  const feeOrgSorted = Object.entries(feeOrg)
+    .filter(([,v]) => v.total >= 5)
+    .sort((a, b) => b[1].subsidy / b[1].total - a[1].subsidy / a[1].total);
+  updateChart('chart-fees-org', 'bar', {
+    labels: feeOrgSorted.map(([o]) => ORG_SHORT[o] || o),
+    datasets: [
+      { label: 'MSF-eligible', data: feeOrgSorted.map(([,v]) => v.subsidy), backgroundColor: '#16a34a', borderRadius: 4 },
+      { label: 'Not eligible', data: feeOrgSorted.map(([,v]) => v.total - v.subsidy), backgroundColor: '#e2e8f0', borderRadius: 4 },
+    ]
+  }, {
+    indexAxis: 'y',
+    plugins: { legend: { position: 'bottom', labels: { font: { size: 10 }, boxWidth: 12 } } },
+    scales: { x: { stacked: true, grid: { display: false } }, y: { stacked: true, ticks: { font: { size: 10 } }, grid: { display: false } } }
+  });
+
+  // 6. Top areas
+  const areaCounts = {};
+  data.forEach(c => { const a = sectorArea(c.p); areaCounts[a] = (areaCounts[a] || 0) + 1; });
+  const areaSorted = Object.entries(areaCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
+  updateChart('chart-area', 'bar', {
+    labels: areaSorted.map(([a]) => a),
+    datasets: [{ label: 'Centres', data: areaSorted.map(([,n]) => n), backgroundColor: '#0891b2cc', borderRadius: 4 }]
+  }, {
+    indexAxis: 'y',
+    plugins: { legend: { display: false } },
+    scales: { x: { grid: { display: false } }, y: { ticks: { font: { size: 10 } }, grid: { display: false } } }
+  });
+}
+
+function updateChart(id, type, data, options = {}) {
+  const canvas = document.getElementById(id);
+  if (charts[id]) { charts[id].destroy(); }
+  charts[id] = new Chart(canvas, {
+    type,
+    data,
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      ...options,
+      plugins: { ...(options.plugins || {}) }
+    }
+  });
+}
+
+// ── Stats bar ────────────────────────────────────────────────────────────────
+function renderStats(data) {
+  const total = data.length;
+  const sparkPct = Math.round(data.filter(c => c.sp).length / total * 100);
+  const subsidyPct = Math.round(data.filter(c => c.fn).length / total * 100);
+  const vacInfPct = (() => {
+    const el = data.filter(c => c.vi !== 'N');
+    return el.length ? Math.round(el.filter(c => c.vi === 'A').length / el.length * 100) : 0;
+  })();
+  document.getElementById('stats').innerHTML = `
+    <div class="stat"><strong>${total.toLocaleString()}</strong>Centres</div>
+    <div class="stat"><strong>${sparkPct}%</strong>SPARK</div>
+    <div class="stat"><strong>${subsidyPct}%</strong>MSF eligible</div>
+    <div class="stat"><strong>${vacInfPct}%</strong>Infant vac.</div>
+  `;
+}
+
+// ── Tabs ──────────────────────────────────────────────────────────────────────
+function updateActiveTab() {
+  const active = document.querySelector('.tab.active')?.dataset.tab;
+  if (active === 'map') renderMap(filtered);
+  else if (active === 'directory') renderDirectory(filtered);
+  else if (active === 'analytics') renderAnalytics(filtered);
+}
+
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
+    tab.classList.add('active');
+    document.getElementById('pane-' + tab.dataset.tab).classList.add('active');
+    if (tab.dataset.tab === 'map' && !mapInited) initMap();
+    if (tab.dataset.tab === 'map') renderMap(filtered);
+    else if (tab.dataset.tab === 'directory') renderDirectory(filtered);
+    else if (tab.dataset.tab === 'analytics') renderAnalytics(filtered);
+  });
+});
+
+// ── Filters wiring ───────────────────────────────────────────────────────────
+['q','f-org','f-spark','f-level','f-subsidy'].forEach(id => {
+  document.getElementById(id).addEventListener('input', applyFilters);
+  document.getElementById(id).addEventListener('change', applyFilters);
+});
+
+// ── Load data ─────────────────────────────────────────────────────────────────
+(async () => {
+  try {
+    const res = await fetch('data/centres.json');
+    allData = await res.json();
+
+    // Populate org dropdown
+    const orgs = [...new Set(allData.map(c => c.o))].sort();
+    const sel = document.getElementById('f-org');
+    orgs.forEach(o => {
+      const opt = document.createElement('option');
+      opt.value = o; opt.textContent = ORG_SHORT[o] || o;
+      sel.appendChild(opt);
+    });
+
+    filtered = [...allData];
+    document.getElementById('result-count').textContent = `${filtered.length.toLocaleString()} centres`;
+    renderStats(allData);
+    initMap();
+    renderMap(filtered);
+
+    document.getElementById('loading').style.display = 'none';
+  } catch (e) {
+    document.getElementById('loading').innerHTML = `<div style="color:#dc2626;font-weight:600">Failed to load data</div><div style="color:var(--muted);font-size:0.8rem">${e.message}</div>`;
+  }
+})();
+</script>
+</body>
+</html>

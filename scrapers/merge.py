@@ -2,10 +2,14 @@
 Merges all scraped datasets into a single denormalized file.
 
 Spine: ecda_centres.json (one record per licensed centre)
-  + lifesg_fees.json    → joined on centre_code; added as nested fees: {IC: {min, max}, …}
-  + myfirstskool.json   → joined on postal_code; added as mfs_* fields
-  + pcf_sparkletots.json → joined on postal_code; added as pcf_* fields
-  + geocoded.json       → joined on postal_code; added as lat/lng fields
+  + lifesg_fees.json         → joined on centre_code; added as nested fees: {IC: {min, max}, …}
+  + myfirstskool.json        → joined on postal_code; added as mfs_* fields
+  + pcf_sparkletots.json     → joined on postal_code; added as pcf_* fields
+  + my_world_preschool.json  → joined on postal_code; added as myw_* fields
+  + ebridge.json             → joined on postal_code; added as eb_* fields
+  + skool4kidz.json          → joined on postal_code; added as s4k_* fields
+  + moe_kindergartens.json   → joined on postal_code; added as moe_* fields
+  + geocoded.json            → joined on postal_code; added as lat/lng fields
 
 Static enrichment:
   + MSF fee ceilings    → derived from scheme_type (Anchor/Partner Operator caps)
@@ -23,6 +27,10 @@ CENTRES_PATH = Path("data/ecda_centres-latest.json")
 FEES_PATH = Path("data/lifesg_fees-latest.json")
 MFS_PATH = Path("data/myfirstskool-latest.json")
 PCF_PATH = Path("data/pcf_sparkletots-latest.json")
+MYW_PATH = Path("data/my_world_preschool-latest.json")
+EB_PATH = Path("data/ebridge-latest.json")
+S4K_PATH = Path("data/skool4kidz-latest.json")
+MOE_PATH = Path("data/moe_kindergartens-latest.json")
 GEOCODED_PATH = Path("data/geocoded-latest.json")
 OUT_PATH = Path("data/merged.json")
 
@@ -41,6 +49,15 @@ MFS_FIELDS = ("url", "name", "principal", "programmes", "operating_hours",
 
 PCF_FIELDS = ("url", "name", "principal", "programme_type", "operating_hours",
               "phone", "email")
+
+MYW_FIELDS = ("name", "address", "phone", "email")
+
+EB_FIELDS = ("url", "name", "address", "operating_hours", "phone", "email")
+
+S4K_FIELDS = ("url", "name", "address")
+
+MOE_FIELDS = ("slug", "name", "area", "address", "phone", "email", "website",
+              "active", "is_enrolling")
 
 
 def load(path: Path) -> list[dict]:
@@ -102,10 +119,15 @@ def run() -> None:
     fees_index = build_fees_index(load(FEES_PATH))
     mfs_index = build_postal_index(load(MFS_PATH))
     pcf_index = build_postal_index(load(PCF_PATH))
+    myw_index = build_postal_index(load(MYW_PATH))
+    eb_index = build_postal_index(load(EB_PATH))
+    s4k_index = build_postal_index(load(S4K_PATH))
+    moe_index = build_postal_index(load(MOE_PATH))
     geo_index = build_geocode_index(load(GEOCODED_PATH))
 
     merged: list[dict] = []
-    fees_matched = mfs_matched = pcf_matched = geo_matched = 0
+    fees_matched = mfs_matched = pcf_matched = 0
+    myw_matched = eb_matched = s4k_matched = moe_matched = geo_matched = 0
 
     for centre in centres:
         record = dict(centre)
@@ -137,6 +159,42 @@ def run() -> None:
             for field in PCF_FIELDS:
                 record[f"pcf_{field}"] = None
 
+        myw = myw_index.get(postal)
+        if myw:
+            for field in MYW_FIELDS:
+                record[f"myw_{field}"] = myw.get(field)
+            myw_matched += 1
+        else:
+            for field in MYW_FIELDS:
+                record[f"myw_{field}"] = None
+
+        eb = eb_index.get(postal)
+        if eb:
+            for field in EB_FIELDS:
+                record[f"eb_{field}"] = eb.get(field)
+            eb_matched += 1
+        else:
+            for field in EB_FIELDS:
+                record[f"eb_{field}"] = None
+
+        s4k = s4k_index.get(postal)
+        if s4k:
+            for field in S4K_FIELDS:
+                record[f"s4k_{field}"] = s4k.get(field)
+            s4k_matched += 1
+        else:
+            for field in S4K_FIELDS:
+                record[f"s4k_{field}"] = None
+
+        moe = moe_index.get(postal)
+        if moe:
+            for field in MOE_FIELDS:
+                record[f"moe_{field}"] = moe.get(field)
+            moe_matched += 1
+        else:
+            for field in MOE_FIELDS:
+                record[f"moe_{field}"] = None
+
         geo = geo_index.get(postal)
         if geo:
             record["lat"] = geo.get("lat")
@@ -154,6 +212,10 @@ def run() -> None:
     print(f"Fees joined:         {fees_matched}/{len(merged)}")
     print(f"MFS joined:          {mfs_matched}/{len(merged)}")
     print(f"PCF joined:          {pcf_matched}/{len(merged)}")
+    print(f"MYW joined:          {myw_matched}/{len(merged)}")
+    print(f"E-Bridge joined:     {eb_matched}/{len(merged)}")
+    print(f"Skool4Kidz joined:   {s4k_matched}/{len(merged)}")
+    print(f"MOE KG joined:       {moe_matched}/{len(merged)}")
     print(f"Geocoded:            {geo_matched}/{len(merged)}")
     print(f"Fee ceilings (AOS):  {sum(1 for r in merged if r['fee_ceiling_infant'])}/{len(merged)}")
 
