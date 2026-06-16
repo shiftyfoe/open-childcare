@@ -2,7 +2,8 @@ import json
 from datetime import date
 from pathlib import Path
 
-import httpx
+from curl_cffi import requests
+from curl_cffi.requests.exceptions import ConnectionError as CffiConnectionError, HTTPError as CffiHTTPError
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
 BOT_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
@@ -13,12 +14,12 @@ DEFAULT_HEADERS = {
 }
 
 
-def make_client() -> httpx.Client:
-    return httpx.Client(
-        headers=DEFAULT_HEADERS,
-        follow_redirects=True,
-        timeout=30,
-    )
+def make_client() -> requests.Session:
+    session = requests.Session()
+    session.headers.update(DEFAULT_HEADERS)
+    session.timeout = 30
+    session.impersonate = "chrome124"
+    return session
 
 
 def write_dataset(path: Path, data: list | dict) -> None:
@@ -32,12 +33,12 @@ def write_dataset(path: Path, data: list | dict) -> None:
 
 
 @retry(
-    retry=retry_if_exception_type((httpx.HTTPStatusError, httpx.TransportError)),
+    retry=retry_if_exception_type((CffiHTTPError, CffiConnectionError)),
     wait=wait_exponential(multiplier=2, min=4, max=60),
     stop=stop_after_attempt(4),
     reraise=True,
 )
-def fetch(client: httpx.Client, url: str) -> httpx.Response:
-    resp = client.get(url)
+def fetch(session: requests.Session, url: str) -> requests.Response:
+    resp = session.get(url)
     resp.raise_for_status()
     return resp

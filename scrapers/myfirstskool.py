@@ -7,8 +7,8 @@ import time
 from pathlib import Path
 from dataclasses import dataclass, asdict
 
-import httpx
 from bs4 import BeautifulSoup
+from curl_cffi import requests
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeElapsedColumn
 
 from scrapers.utils import make_client, fetch, write_dataset
@@ -33,7 +33,7 @@ class Centre:
     mother_tongue: list[str]
 
 
-def get_centre_urls(client: httpx.Client) -> list[str]:
+def get_centre_urls(client: requests.Session) -> list[str]:
     resp = fetch(client, SITEMAP_URL)
     soup = BeautifulSoup(resp.text, "xml")
     return [loc.text.strip() for loc in soup.find_all("loc")]
