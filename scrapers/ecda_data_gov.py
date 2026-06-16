@@ -3,6 +3,18 @@ Fetches the official ECDA childcare centre dataset from data.gov.sg.
 Dataset: d_696c994c50745b079b3684f0e90ffc53
 API: https://data.gov.sg/api/action/datastore_search
 No authentication required. Open data, updated daily by ECDA.
+
+Fields captured (65 total):
+  Centre info: tp_code, centre_code, centre_name, organisation_code,
+    organisation_description, service_model, centre_contact_no,
+    centre_email_address, centre_address, postal_code, centre_website,
+    contactno_lifesg, emailaddress_lifesg, website_lifesg
+  Vacancies (current + next 6 months) per level: infant, pg, n1, n2, k1, k2
+    Values: "Available" | "Full" | "Not Applicable"
+  Features: food_offered, second_languages_offered, spark_certified,
+    weekday_full_day, saturday, extended_operating_hours, provision_of_transport
+  Admin: scheme_type, government_subsidy, gst_regisration, last_updated, remarks
+
 Output: data/ecda_centres.json
 """
 import json
@@ -17,14 +29,22 @@ API_BASE = "https://data.gov.sg/api/action/datastore_search"
 PAGE_SIZE = 100
 OUT_PATH = Path("data/ecda_centres.json")
 
+_VACANCY_LEVELS = ("infant", "pg", "n1", "n2", "k1", "k2")
+_VACANCY_MONTHS = ("current_month", "next_month", "third_month", "fourth_month", "fifth_month", "sixth_month", "seventh_month")
+
 EXPECTED_FIELDS = {
-    "centre_code", "centre_name", "centre_address", "postal_code",
-    "centre_contact_no", "centre_email_address", "centre_website",
+    "tp_code", "centre_code", "centre_name", "organisation_code",
+    "organisation_description", "service_model", "centre_contact_no",
+    "centre_email_address", "centre_address", "postal_code", "centre_website",
+    "food_offered", "second_languages_offered", "spark_certified",
+    "weekday_full_day", "saturday", "scheme_type", "extended_operating_hours",
+    "provision_of_transport", "government_subsidy", "gst_regisration",
+    "last_updated", "remarks", "contactno_lifesg", "emailaddress_lifesg", "website_lifesg",
+    *{f"{level}_vacancy_{month}" for level in _VACANCY_LEVELS for month in _VACANCY_MONTHS},
 }
 
 
 def validate_record(record: dict) -> list[str]:
-    """Return list of warnings if a record looks malformed."""
     warnings = []
     if not record.get("centre_code"):
         warnings.append("missing centre_code")
@@ -32,6 +52,8 @@ def validate_record(record: dict) -> list[str]:
         warnings.append("missing centre_name")
     if not record.get("postal_code"):
         warnings.append("missing postal_code")
+    if not record.get("last_updated"):
+        warnings.append("missing last_updated")
     return warnings
 
 
