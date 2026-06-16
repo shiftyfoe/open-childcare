@@ -17,12 +17,11 @@ Fields captured (65 total):
 
 Output: data/ecda_centres.json
 """
-import json
 from pathlib import Path
 
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeElapsedColumn
 
-from scrapers.utils import make_client, fetch
+from scrapers.utils import make_client, fetch, write_dataset
 
 RESOURCE_ID = "d_696c994c50745b079b3684f0e90ffc53"
 API_BASE = "https://data.gov.sg/api/action/datastore_search"
@@ -123,7 +122,7 @@ def run() -> None:
         print(f"WARNING: only fetched {len(records)}/{total} records (< 90%). Data may be incomplete.")
 
     print(f"\nFetched {len(records)} records ({warn_count} with validation warnings)")
-    OUT_PATH.write_text(json.dumps(records, indent=2, ensure_ascii=False))
+    write_dataset(OUT_PATH, records)
     print(f"Saved to {OUT_PATH}")
 
 

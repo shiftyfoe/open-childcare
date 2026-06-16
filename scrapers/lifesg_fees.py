@@ -9,7 +9,6 @@ The join key to ecda_centres.json is centre_code == LifeSG id field.
 
 Output: data/lifesg_fees.json
 """
-import json
 import re
 import time
 from pathlib import Path
@@ -17,7 +16,7 @@ from pathlib import Path
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeElapsedColumn
 from rich.console import Console
 
-from scrapers.utils import make_client, fetch
+from scrapers.utils import make_client, fetch, write_dataset
 
 API_URL = "https://www.life.gov.sg/coordinator/api/resources/v1"
 OUT_PATH = Path("data/lifesg_fees.json")
@@ -151,7 +150,7 @@ def run() -> None:
         console.print(f"[yellow]{len(warn_log)} warnings — see data/lifesg_fees_warnings.txt[/yellow]")
         Path("data/lifesg_fees_warnings.txt").write_text("\n".join(warn_log))
 
-    OUT_PATH.write_text(json.dumps(results, indent=2, ensure_ascii=False))
+    write_dataset(OUT_PATH, results)
     console.print(f"Saved to {OUT_PATH}")
 
 

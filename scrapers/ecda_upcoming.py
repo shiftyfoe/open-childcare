@@ -3,12 +3,11 @@ Scrapes the ECDA upcoming preschools table (static HTML, no JS needed).
 Source: https://www.ecda.gov.sg/parents/preschool-search/upcoming-preschools
 Output: data/ecda_upcoming.json
 """
-import json
 from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from scrapers.utils import make_client, fetch
+from scrapers.utils import make_client, fetch, write_dataset
 
 URL = "https://www.ecda.gov.sg/parents/preschool-search/upcoming-preschools"
 OUT_PATH = Path("data/ecda_upcoming.json")
@@ -46,7 +45,7 @@ def run() -> None:
     resp = fetch(client, URL)
     rows = parse_table(resp.text)
 
-    OUT_PATH.write_text(json.dumps(rows, indent=2, ensure_ascii=False))
+    write_dataset(OUT_PATH, rows)
     print(f"Saved {len(rows)} upcoming preschools to {OUT_PATH}")
 
 

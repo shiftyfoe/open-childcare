@@ -3,7 +3,6 @@ Scrapes all My First Skool centre pages using their published sitemap.
 robots.txt: allows all crawlers, crawl-delay 10s.
 Output: data/myfirstskool.json
 """
-import json
 import time
 from pathlib import Path
 from dataclasses import dataclass, asdict
@@ -12,7 +11,7 @@ import httpx
 from bs4 import BeautifulSoup
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeElapsedColumn
 
-from scrapers.utils import make_client, fetch
+from scrapers.utils import make_client, fetch, write_dataset
 
 SITEMAP_URL = "https://www.myfirstskool.com/centre-sitemap.xml"
 CRAWL_DELAY = 10  # seconds, as specified in robots.txt
@@ -174,7 +173,7 @@ def run() -> None:
             if i < len(urls) - 1:
                 time.sleep(CRAWL_DELAY)
 
-    OUT_PATH.write_text(json.dumps(results, indent=2, ensure_ascii=False))
+    write_dataset(OUT_PATH, results)
     print(f"Saved {len(results)} centres to {OUT_PATH}")
 
 

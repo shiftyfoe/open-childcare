@@ -1,3 +1,7 @@
+import json
+from datetime import date
+from pathlib import Path
+
 import httpx
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
@@ -15,6 +19,16 @@ def make_client() -> httpx.Client:
         follow_redirects=True,
         timeout=30,
     )
+
+
+def write_dataset(path: Path, data: list | dict) -> None:
+    """Write data to path, a dated archive, and a -latest copy."""
+    today = date.today().strftime("%Y-%m-%d")
+    content = json.dumps(data, indent=2, ensure_ascii=False)
+    dated = path.parent / f"{path.stem}-{today}.json"
+    latest = path.parent / f"{path.stem}-latest.json"
+    for p in (path, dated, latest):
+        p.write_text(content)
 
 
 @retry(
