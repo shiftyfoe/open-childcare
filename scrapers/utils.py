@@ -1,4 +1,5 @@
 import json
+import urllib.request
 from datetime import date
 from pathlib import Path
 
@@ -29,6 +30,16 @@ def make_client() -> requests.Session:
     session.timeout = 30
     session.impersonate = "chrome131"
     return session
+
+
+def fetch_plain(url: str, headers: dict | None = None) -> str:
+    """Fetch URL with stdlib urllib — avoids curl_cffi TLS fingerprint that some sites block."""
+    req_headers = {"User-Agent": BOT_UA, "Accept-Language": "en-SG,en;q=0.9"}
+    if headers:
+        req_headers.update(headers)
+    req = urllib.request.Request(url, headers=req_headers)
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        return resp.read().decode("utf-8")
 
 
 def write_dataset(path: Path, data: list | dict) -> None:

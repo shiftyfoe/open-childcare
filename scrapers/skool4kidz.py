@@ -1,26 +1,30 @@
 """
-Scrapes all Skool4Kidz centre pages via the page sitemap.
-Source: https://skool4kidz.com.sg/page-sitemap.xml → /our-centres/{slug}/
+Scrapes all Skool4Kidz centre pages via the WordPress REST API.
+Source: https://skool4kidz.com.sg/wp-json/wp/v2/pages?parent=157 (our-centres child pages)
+Uses stdlib urllib to avoid curl_cffi TLS fingerprint blocked by site's Cloudflare config.
+Addresses are in fusion-content-boxes with format "Blk N St Name S(XXXXXX)".
 robots.txt: allows all crawlers, no crawl-delay; using 2s to be polite.
-Fields: name (h1), address, postal_code (.fusion-content-boxes first box).
 Output: data/skool4kidz.json
 """
+import json
 import re
 import time
+import urllib.request
 from dataclasses import asdict, dataclass
 from pathlib import Path
 
 from bs4 import BeautifulSoup
-from curl_cffi import requests
 from rich.progress import BarColumn, Progress, SpinnerColumn, TextColumn, TimeElapsedColumn
 
-from scrapers.utils import fetch, make_client, write_dataset
+from scrapers.utils import fetch_plain, write_dataset
 
-SITEMAP_URL = "https://skool4kidz.com.sg/page-sitemap.xml"
+WP_API = "https://skool4kidz.com.sg/wp-json/wp/v2/pages"
+CENTRES_PARENT_ID = 157
 CRAWL_DELAY = 2
 OUT_PATH = Path("data/skool4kidz.json")
 
-_POSTAL_RE = re.compile(r"Singapore\s*[\(\s](\d{6})[\)\s]?", re.I)
+# Matches both "Singapore (570533)" and "S(570533)"
+_POSTAL_RE = re.compile(r"(?:Singapore\s*[\(\s]|S\()(\d{6})\)?", re.I)
 
 
 @dataclass
@@ -31,14 +35,23 @@ class Centre:
     postal_code: str | None
 
 
-def get_centre_urls(client: requests.Session) -> list[str]:
-    resp = fetch(client, SITEMAP_URL)
-    soup = BeautifulSoup(resp.text, "xml")
-    return [
-        loc.text.strip()
-        for loc in soup.find_all("loc")
-        if re.search(r"/our-centres/[^/]+/?$", loc.text)
-    ]
+def get_centre_urls() -> list[str]:
+    urls = []
+    page = 1
+    while True:
+        req = urllib.request.Request(
+            f"{WP_API}?parent={CENTRES_PARENT_ID}&per_page=100&page={page}&_fields=link",
+            headers={"User-Agent": "Mozilla/5.0"},
+        )
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read())
+        if not data:
+            break
+        urls.extend(r["link"] for r in data)
+        if len(data) < 100:
+            break
+        page += 1
+    return urls
 
 
 def parse_centre(url: str, html: str) -> Centre:
@@ -50,11 +63,10 @@ def parse_centre(url: str, html: str) -> Centre:
     address = postal_code = None
     for box in soup.select(".fusion-content-boxes"):
         text = box.get_text(" ", strip=True)
-        if "Singapore" in text and len(text) < 400:
+        m = _POSTAL_RE.search(text)
+        if m and len(text) < 400:
+            postal_code = m.group(1)
             address = " ".join(text.split())
-            m = _POSTAL_RE.search(address)
-            if m:
-                postal_code = m.group(1)
             break
 
     return Centre(url=url, name=name, address=address, postal_code=postal_code)
@@ -62,10 +74,9 @@ def parse_centre(url: str, html: str) -> Centre:
 
 def run() -> None:
     OUT_PATH.parent.mkdir(exist_ok=True)
-    client = make_client()
 
-    print("Fetching Skool4Kidz page sitemap...")
-    urls = get_centre_urls(client)
+    print("Fetching Skool4Kidz centre list from WP REST API...")
+    urls = get_centre_urls()
     print(f"Found {len(urls)} centre pages")
 
     results: list[dict] = []
@@ -81,8 +92,8 @@ def run() -> None:
 
         for i, url in enumerate(urls):
             try:
-                resp = fetch(client, url)
-                centre = parse_centre(url, resp.text)
+                html = fetch_plain(url)
+                centre = parse_centre(url, html)
                 results.append(asdict(centre))
             except Exception as e:
                 results.append({"url": url, "error": str(e)})
