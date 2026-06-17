@@ -1,4 +1,5 @@
 import json
+import os
 import urllib.request
 from datetime import date
 from pathlib import Path
@@ -32,6 +33,53 @@ def make_client() -> requests.Session:
     return session
 
 
+# --- Jina Reader fallback ---
+
+_jina_keys: list[str] = []
+_jina_key_idx: int = 0
+
+
+def _next_jina_key() -> str | None:
+    """Round-robin over keys from JINA_API_KEYS (comma-separated) or JINA_API_KEY."""
+    global _jina_keys, _jina_key_idx
+    if not _jina_keys:
+        raw = os.environ.get("JINA_API_KEYS") or os.environ.get("JINA_API_KEY") or ""
+        _jina_keys = [k.strip() for k in raw.split(",") if k.strip()]
+    if not _jina_keys:
+        return None
+    key = _jina_keys[_jina_key_idx % len(_jina_keys)]
+    _jina_key_idx += 1
+    return key
+
+
+class _JinaResponse:
+    """Minimal Response-like wrapper around a Jina Reader result."""
+
+    def __init__(self, text: str) -> None:
+        self._text = text
+
+    @property
+    def text(self) -> str:
+        return self._text
+
+    def json(self) -> dict:
+        return json.loads(self._text)
+
+
+def fetch_jina(url: str, api_key: str | None = None) -> _JinaResponse:
+    """Fetch URL via Jina Reader (r.jina.ai), returning an HTML response wrapper."""
+    jina_url = f"https://r.jina.ai/{url}"
+    headers: dict[str, str] = {"X-Return-Format": "html", "Accept": "text/html"}
+    key = api_key or _next_jina_key()
+    if key:
+        headers["Authorization"] = f"Bearer {key}"
+    req = urllib.request.Request(jina_url, headers=headers)
+    with urllib.request.urlopen(req, timeout=60) as resp:
+        return _JinaResponse(resp.read().decode("utf-8"))
+
+
+# --- Plain urllib fetch ---
+
 def fetch_plain(url: str, headers: dict | None = None) -> str:
     """Fetch URL with stdlib urllib — avoids curl_cffi TLS fingerprint that some sites block."""
     req_headers = {"User-Agent": BOT_UA, "Accept-Language": "en-SG,en;q=0.9"}
@@ -58,7 +106,13 @@ def write_dataset(path: Path, data: list | dict) -> None:
     stop=stop_after_attempt(4),
     reraise=True,
 )
-def fetch(session: requests.Session, url: str) -> requests.Response:
-    resp = session.get(url)
-    resp.raise_for_status()
-    return resp
+def fetch(session: requests.Session, url: str) -> requests.Response | _JinaResponse:
+    try:
+        resp = session.get(url)
+        resp.raise_for_status()
+        return resp
+    except CffiHTTPError as exc:
+        if exc.response is not None and exc.response.status_code == 403:
+            print(f"[jina fallback] 403 on {url}")
+            return fetch_jina(url)
+        raise
