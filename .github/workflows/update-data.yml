@@ -18,7 +18,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        scraper: [ecda_data_gov, ecda_upcoming, lifesg_fees, myfirstskool, pcf_sparkletots, my_world_preschool, ebridge, skool4kidz, moe_kindergartens]
+        scraper: [ecda_data_gov, ecda_upcoming, myfirstskool, pcf_sparkletots, my_world_preschool, ebridge, skool4kidz, moe_kindergartens]
 
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
@@ -39,8 +39,31 @@ jobs:
           name: data-${{ matrix.scraper }}
           path: data/
 
+  scrape-lifesg-fees:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+
+      - uses: astral-sh/setup-uv@f0ec1fc3b38f5e7cd731bb6ce540c5af426746bb  # v5.4.2
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run scraper
+        run: uv run python -m scrapers.lifesg_fees
+
+      - name: Upload data
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a  # v7.0.1
+        with:
+          name: data-lifesg_fees
+          path: data/
+
   commit:
-    needs: scrape
+    needs: [scrape, scrape-lifesg-fees]
     if: ${{ always() }}
     runs-on: ubuntu-latest
 
