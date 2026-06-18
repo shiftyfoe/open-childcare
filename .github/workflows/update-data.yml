@@ -106,7 +106,7 @@ jobs:
 
   deploy-pages:
     needs: commit
-    if: ${{ needs.commit.result == 'success' }}
+    if: always() && needs.commit.result == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
