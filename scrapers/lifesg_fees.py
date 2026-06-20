@@ -29,8 +29,11 @@ LEVELS = ["IC", "PG", "N1", "N2", "K1", "K2"]
 SEARCH_TERMS = list("abcdefghijklmnopqrstuvwxyz") + ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
 HEADERS = {
-    "accept": "application/json",
-    "referer": "https://www.life.gov.sg/listing/preschool/results",
+    "Accept": "application/json, text/plain, */*",
+    "Referer": "https://www.life.gov.sg/listing/preschool/results",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-Dest": "empty",
 }
 
 FEE_RE = re.compile(r"\$([\d,]+(?:\.\d+)?)\s*(?:-\s*\$([\d,]+(?:\.\d+)?))?")
@@ -54,7 +57,7 @@ def fetch_page(client, term: str, level: str, page: int) -> dict:
         f"&centreName={term}&preschoolLevel={level}"
         f"&preschoolEnrolmentMonth=0&page={page}&limit=10"
     )
-    resp = fetch(client, f"{API_URL}?{params}", )
+    resp = fetch(client, f"{API_URL}?{params}", jina_fallback=False)
     return resp.json()
 
 
@@ -74,6 +77,7 @@ def validate_response(data: dict, term: str, level: str, page: int) -> list[str]
 def run() -> None:
     OUT_PATH.parent.mkdir(exist_ok=True)
     client = make_client()
+    client.headers.update(HEADERS)
     console = Console()
 
     # (centre_code, level) → fee dict

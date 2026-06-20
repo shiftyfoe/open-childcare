@@ -3,6 +3,7 @@ Scrapes the ECDA upcoming preschools table (static HTML, no JS needed).
 Source: https://www.ecda.gov.sg/parents/preschool-search/upcoming-preschools
 Output: data/ecda_upcoming.json
 """
+import json
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -42,8 +43,16 @@ def run() -> None:
     client = make_client()
 
     print(f"Fetching {URL}")
-    resp = fetch(client, URL)
-    rows = parse_table(resp.text)
+    try:
+        resp = fetch(client, URL)
+        rows = parse_table(resp.text)
+    except Exception as e:
+        cached = OUT_PATH.parent / f"{OUT_PATH.stem}-latest.json"
+        if cached.exists():
+            print(f"WARNING: fetch failed ({e}) — reusing cached data from {cached.name}")
+            rows = json.loads(cached.read_text())
+        else:
+            raise
 
     write_dataset(OUT_PATH, rows)
     print(f"Saved {len(rows)} upcoming preschools to {OUT_PATH.parent}/{OUT_PATH.stem}-latest.json")
