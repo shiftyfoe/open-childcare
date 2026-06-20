@@ -29,7 +29,7 @@ def make_client() -> requests.Session:
     session = requests.Session()
     session.headers.update(DEFAULT_HEADERS)
     session.timeout = 30
-    session.impersonate = "chrome131"
+    session.impersonate = "chrome136"
     return session
 
 
@@ -106,13 +106,13 @@ def write_dataset(path: Path, data: list | dict) -> None:
     stop=stop_after_attempt(4),
     reraise=True,
 )
-def fetch(session: requests.Session, url: str) -> requests.Response | _JinaResponse:
+def fetch(session: requests.Session, url: str, *, jina_fallback: bool = True) -> requests.Response | _JinaResponse:
     try:
         resp = session.get(url)
         resp.raise_for_status()
         return resp
     except CffiHTTPError as exc:
-        if exc.response is not None and exc.response.status_code == 403:
+        if jina_fallback and exc.response is not None and exc.response.status_code == 403:
             print(f"[jina fallback] 403 on {url}")
             return fetch_jina(url)
         raise

@@ -1,22 +1,20 @@
 """
 Scrapes all Skool4Kidz centre pages via the WordPress REST API.
 Source: https://skool4kidz.com.sg/wp-json/wp/v2/pages?parent=157 (our-centres child pages)
-Uses stdlib urllib to avoid curl_cffi TLS fingerprint blocked by site's Cloudflare config.
+Uses curl_cffi with Chrome impersonation to bypass Cloudflare.
 Addresses are in fusion-content-boxes with format "Blk N St Name S(XXXXXX)".
 robots.txt: allows all crawlers, no crawl-delay; using 2s to be polite.
 Output: data/skool4kidz.json
 """
-import json
 import re
 import time
-import urllib.request
 from dataclasses import asdict, dataclass
 from pathlib import Path
 
 from bs4 import BeautifulSoup
 from rich.progress import BarColumn, Progress, SpinnerColumn, TextColumn, TimeElapsedColumn
 
-from scrapers.utils import fetch_plain, write_dataset
+from scrapers.utils import make_client, fetch, write_dataset
 
 WP_API = "https://skool4kidz.com.sg/wp-json/wp/v2/pages"
 CENTRES_PARENT_ID = 157
@@ -35,16 +33,12 @@ class Centre:
     postal_code: str | None
 
 
-def get_centre_urls() -> list[str]:
+def get_centre_urls(client) -> list[str]:
     urls = []
     page = 1
     while True:
-        req = urllib.request.Request(
-            f"{WP_API}?parent={CENTRES_PARENT_ID}&per_page=100&page={page}&_fields=link",
-            headers={"User-Agent": "Mozilla/5.0"},
-        )
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            data = json.loads(resp.read())
+        resp = fetch(client, f"{WP_API}?parent={CENTRES_PARENT_ID}&per_page=100&page={page}&_fields=link", jina_fallback=False)
+        data = resp.json()
         if not data:
             break
         urls.extend(r["link"] for r in data)
@@ -74,9 +68,10 @@ def parse_centre(url: str, html: str) -> Centre:
 
 def run() -> None:
     OUT_PATH.parent.mkdir(exist_ok=True)
+    client = make_client()
 
     print("Fetching Skool4Kidz centre list from WP REST API...")
-    urls = get_centre_urls()
+    urls = get_centre_urls(client)
     print(f"Found {len(urls)} centre pages")
 
     results: list[dict] = []
@@ -92,8 +87,8 @@ def run() -> None:
 
         for i, url in enumerate(urls):
             try:
-                html = fetch_plain(url)
-                centre = parse_centre(url, html)
+                resp = fetch(client, url)
+                centre = parse_centre(url, resp.text)
                 results.append(asdict(centre))
             except Exception as e:
                 results.append({"url": url, "error": str(e)})

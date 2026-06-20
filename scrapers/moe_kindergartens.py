@@ -1,9 +1,9 @@
 """
 Scrapes MOE Kindergarten data from the MOE SchoolFinder Next.js RSC endpoint.
 Source: https://www.moe.gov.sg/schoolfinder/moe%20kindergarten
-The RSC: 1 header requests the raw component payload instead of the full HTML page,
-bypassing Cloudflare's browser challenge. The payload contains all kindergartens
-as structured JSON embedded in the RSC stream.
+Uses curl_cffi with Chrome impersonation + RSC: 1 header to request the raw
+component payload instead of the full HTML page. The payload contains all
+kindergartens as structured JSON embedded in the RSC stream.
 Single HTTP request; no pagination.
 Output: data/moe_kindergartens.json
 """
@@ -11,7 +11,7 @@ import json
 from dataclasses import asdict, dataclass
 from pathlib import Path
 
-from scrapers.utils import fetch_plain, write_dataset
+from scrapers.utils import make_client, fetch, write_dataset
 
 URL = "https://www.moe.gov.sg/schoolfinder/moe%20kindergarten"
 OUT_PATH = Path("data/moe_kindergartens.json")
@@ -62,9 +62,12 @@ def _parse(raw: dict) -> Kindergarten:
 
 def run() -> None:
     OUT_PATH.parent.mkdir(exist_ok=True)
+    client = make_client()
+    client.headers["RSC"] = "1"
 
     print("Fetching MOE SchoolFinder RSC payload...")
-    text = fetch_plain(URL, headers={"RSC": "1"})
+    resp = fetch(client, URL, jina_fallback=False)
+    text = resp.text
 
     raw_schools = _extract_schools(text)
     if not raw_schools:

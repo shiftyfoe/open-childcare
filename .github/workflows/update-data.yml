@@ -32,12 +32,29 @@ jobs:
 
       - name: Run scraper
         run: uv run python -m scrapers.${{ matrix.scraper }}
+        env:
+          JINA_API_KEY: ${{ secrets.JINA_API_KEY }}
+
+      - name: Stage scraper output
+        if: success()
+        run: |
+          mkdir -p /tmp/new-data
+          git ls-files --others --exclude-standard data/ | while IFS= read -r f; do
+            cp "$f" /tmp/new-data/
+          done
+          git diff --name-only HEAD -- data/ | while IFS= read -r f; do
+            cp "$f" /tmp/new-data/
+          done
+          echo "Files staged for upload:"
+          ls /tmp/new-data/ || echo "(none)"
 
       - name: Upload data
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a  # v7.0.1
+        if: success()
         with:
           name: data-${{ matrix.scraper }}
-          path: data/
+          path: /tmp/new-data/
+          if-no-files-found: warn
 
   scrape-lifesg-fees:
     runs-on: ubuntu-latest
@@ -55,12 +72,29 @@ jobs:
 
       - name: Run scraper
         run: uv run python -m scrapers.lifesg_fees
+        env:
+          JINA_API_KEY: ${{ secrets.JINA_API_KEY }}
+
+      - name: Stage scraper output
+        if: success()
+        run: |
+          mkdir -p /tmp/new-data
+          git ls-files --others --exclude-standard data/ | while IFS= read -r f; do
+            cp "$f" /tmp/new-data/
+          done
+          git diff --name-only HEAD -- data/ | while IFS= read -r f; do
+            cp "$f" /tmp/new-data/
+          done
+          echo "Files staged for upload:"
+          ls /tmp/new-data/ || echo "(none)"
 
       - name: Upload data
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a  # v7.0.1
+        if: success()
         with:
           name: data-lifesg_fees
-          path: data/
+          path: /tmp/new-data/
+          if-no-files-found: warn
 
   commit:
     needs: [scrape, scrape-lifesg-fees]
@@ -75,6 +109,21 @@ jobs:
         with:
           path: data/
           merge-multiple: true
+
+      - name: Validate and repair key data files
+        run: |
+          python3 - <<'EOF'
+          import json, subprocess, sys
+          key_files = ["data/ecda_centres-latest.json"]
+          for f in key_files:
+              try:
+                  with open(f) as fp:
+                      json.load(fp)
+                  print(f"OK: {f}")
+              except (json.JSONDecodeError, FileNotFoundError) as e:
+                  print(f"Corrupted or missing: {f} ({e}) — restoring from git", file=sys.stderr)
+                  subprocess.run(["git", "checkout", "HEAD", "--", f], check=False)
+          EOF
 
       - uses: astral-sh/setup-uv@f0ec1fc3b38f5e7cd731bb6ce540c5af426746bb  # v5.4.2
         with:
