@@ -1,10 +1,5 @@
 [
   {
-    "postal_code": "000000",
-    "lat": null,
-    "lng": null
-  },
-  {
     "postal_code": "018916",
     "lat": 1.27977737342079,
     "lng": 103.851513251763,
@@ -9285,11 +9280,6 @@
     "building": "NIL"
   },
   {
-    "postal_code": "640991",
-    "lat": null,
-    "lng": null
-  },
-  {
     "postal_code": "641275",
     "lat": 1.35241293267711,
     "lng": 103.702221239788,
@@ -13968,5 +13958,23 @@
     "block": "88",
     "road": "PUNGGOL WAY",
     "building": "PUNGGOL COAST MALL"
+  },
+  {
+    "postal_code": "000000",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "postal_code": "570153",
+    "lat": 1.34608595890118,
+    "lng": 103.855078297214,
+    "block": "153",
+    "road": "BISHAN STREET 13",
+    "building": "NIL"
+  },
+  {
+    "postal_code": "640991",
+    "lat": null,
+    "lng": null
   }
 ]
