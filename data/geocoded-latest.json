@@ -13960,17 +13960,17 @@
     "building": "PUNGGOL COAST MALL"
   },
   {
-    "postal_code": "000000",
-    "lat": null,
-    "lng": null
-  },
-  {
     "postal_code": "570153",
     "lat": 1.34608595890118,
     "lng": 103.855078297214,
     "block": "153",
     "road": "BISHAN STREET 13",
     "building": "NIL"
+  },
+  {
+    "postal_code": "000000",
+    "lat": null,
+    "lng": null
   },
   {
     "postal_code": "640991",

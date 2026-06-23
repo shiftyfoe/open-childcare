@@ -652,7 +652,7 @@
   },
   {
     "centre_code": "PT8655",
-    "centre_name": "Josiah Montessori (Pasir Ris)",
+    "centre_name": "Josiah Montessori - Pasir Ris",
     "level": "PG",
     "fee_min": 1080.0,
     "fee_max": 2000.0
@@ -757,7 +757,7 @@
   },
   {
     "centre_code": "PT8744",
-    "centre_name": "JOSIAH MONTESSORI KINDER-CARE",
+    "centre_name": "Josiah Montessori - Changi Business Park",
     "level": "PG",
     "fee_min": 45.0,
     "fee_max": 2180.0
@@ -3052,6 +3052,13 @@
     "fee_max": 910.0
   },
   {
+    "centre_code": "PT9952",
+    "centre_name": "MULBERRY LEARNING @ TENGAH",
+    "level": "PG",
+    "fee_min": 1900.0,
+    "fee_max": 2100.0
+  },
+  {
     "centre_code": "PT9953",
     "centre_name": "Ace @ Work Childcare Pte Ltd (ATPCC)",
     "level": "PG",
@@ -3535,13 +3542,6 @@
     "fee_max": 1080.0
   },
   {
-    "centre_code": "ST0008",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
-    "level": "PG",
-    "fee_min": 422.63,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0011",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ TAMPINES WEST BLK 942 (EY)",
     "level": "PG",
@@ -3794,6 +3794,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0122",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
+    "level": "PG",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0126",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CHUA CHU KANG BLK 19 (CC)",
     "level": "PG",
@@ -3803,6 +3810,13 @@
   {
     "centre_code": "ST0127",
     "centre_name": "PCF Sparkletots Preschool @ Punggol Shore Blk 622C (CC)",
+    "level": "PG",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0128",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
     "level": "PG",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -3824,13 +3838,6 @@
   {
     "centre_code": "ST0133",
     "centre_name": "PCF Sparkletots Preschool @ Nee Soon South Blk 879 (EY)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0140",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 262A (CC)",
     "level": "PG",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -3922,13 +3929,6 @@
   {
     "centre_code": "ST0188",
     "centre_name": "PCF Sparkletots Preschool @ Punggol Shore (EY)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0189",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
     "level": "PG",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -4123,13 +4123,6 @@
     "fee_max": 364.0
   },
   {
-    "centre_code": "ST0280",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 231 (DS)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0281",
     "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 206A (EY)",
     "level": "PG",
@@ -4149,13 +4142,6 @@
     "level": "PG",
     "fee_min": 150.0,
     "fee_max": 364.0
-  },
-  {
-    "centre_code": "ST0285",
-    "centre_name": "PCF Sparkletots Preschool @ Serangoon Blk 125 (CC)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
   },
   {
     "centre_code": "ST0286",
@@ -4347,13 +4333,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0358",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol Coast Blk 105D (DS)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0359",
     "centre_name": "PCF Sparkletots Preschool @ Punggol Shore Blk 174D (DS)",
     "level": "PG",
@@ -4373,27 +4352,6 @@
     "level": "PG",
     "fee_min": 150.0,
     "fee_max": 364.0
-  },
-  {
-    "centre_code": "ST0363",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0364",
-    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 416A (DS)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0365",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol West Blk 308B (DS)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
   },
   {
     "centre_code": "ST0367",
@@ -4452,13 +4410,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0384",
-    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0385",
     "centre_name": "PCF Sparkletots Preschool @ Kolam Ayer Blk 52 (CC)",
     "level": "PG",
@@ -4466,29 +4417,8 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0391",
-    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 402 (EY)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0394",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol North Blk 402 (EY)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0395",
     "centre_name": "PCF Sparkletots Preschool @ Queenstown Blk 30A (CC)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0397",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol North Blk 410A (EY)",
     "level": "PG",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -5488,6 +5418,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0008",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
+    "level": "PG",
+    "fee_min": 422.63,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0009",
     "centre_name": "PCF Sparkletots Preschool @ Bishan East-Sin Ming Blk 178 (CC)",
     "level": "PG",
@@ -5670,13 +5607,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0119",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
-    "level": "PG",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0124",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ ZHENGHUA BLK 632A (CC)",
     "level": "PG",
@@ -5695,6 +5625,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ WOODLANDS BLK 604 (CC)",
     "level": "PG",
     "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0140",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 262A (CC)",
+    "level": "PG",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -5859,6 +5796,20 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0280",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 231 (DS)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0285",
+    "centre_name": "PCF Sparkletots Preschool @ Serangoon Blk 125 (CC)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0307",
     "centre_name": "PCF Sparkletots Preschool @ Pioneer Blk 642 (EY)",
     "level": "PG",
@@ -5950,6 +5901,20 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0358",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol Coast Blk 105D (DS)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0365",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol West Blk 308B (DS)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0369",
     "centre_name": "PCF Sparkletots Preschool @ Brickland Blk 801 (DS)",
     "level": "PG",
@@ -5978,6 +5943,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0384",
+    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0387",
     "centre_name": "PCF Sparkletots Preschool @ Teck Ghee Blk 227 (EY)",
     "level": "PG",
@@ -5994,6 +5966,13 @@
   {
     "centre_code": "ST0389",
     "centre_name": "PCF Sparkletots Preschool @ Potong Pasir Blk 101 (EY)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0391",
+    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 402 (EY)",
     "level": "PG",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -7371,13 +7350,6 @@
     "fee_max": 1600.0
   },
   {
-    "centre_code": "PT9952",
-    "centre_name": "MULBERRY LEARNING @ TENGAH",
-    "level": "PG",
-    "fee_min": 1900.0,
-    "fee_max": 2100.0
-  },
-  {
     "centre_code": "RC0640",
     "centre_name": "GREEN PASTURES CHILD CENTRE",
     "level": "PG",
@@ -7728,6 +7700,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0119",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
+    "level": "PG",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0121",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MARSILING BLK 12 (CC)",
     "level": "PG",
@@ -7735,22 +7714,8 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0122",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
-    "level": "PG",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0125",
     "centre_name": "PCF Sparkletots Preschool @ Woodgrove Blk 571B (CC)",
-    "level": "PG",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0128",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
     "level": "PG",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -7928,6 +7893,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MACPHERSON BLK 54 (CC)",
     "level": "PG",
     "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0189",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
+    "level": "PG",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -8197,6 +8169,20 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0363",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0364",
+    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 416A (DS)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0366",
     "centre_name": "PCF Sparkletots Preschool @ Bedok Reservoir-Punggol Blk 475C (DS)",
     "level": "PG",
@@ -8239,8 +8225,22 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0394",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol North Blk 402 (EY)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0396",
     "centre_name": "PCF Sparkletots Preschool @ Mountbatten Blk 92 (CC)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0397",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol North Blk 410A (EY)",
     "level": "PG",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -9933,13 +9933,6 @@
     "fee_max": 1175.0
   },
   {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "PG",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
-  },
-  {
     "centre_code": "SK0037",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "PG",
@@ -10246,6 +10239,13 @@
     "level": "PG",
     "fee_min": 460.0,
     "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "PG",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",
@@ -12433,7 +12433,7 @@
   },
   {
     "centre_code": "PT8655",
-    "centre_name": "Josiah Montessori (Pasir Ris)",
+    "centre_name": "Josiah Montessori - Pasir Ris",
     "level": "N1",
     "fee_min": 1080.0,
     "fee_max": 1950.0
@@ -12531,7 +12531,7 @@
   },
   {
     "centre_code": "PT8744",
-    "centre_name": "JOSIAH MONTESSORI KINDER-CARE",
+    "centre_name": "Josiah Montessori - Changi Business Park",
     "level": "N1",
     "fee_min": 45.0,
     "fee_max": 2130.0
@@ -14175,13 +14175,6 @@
     "fee_max": 2150.0
   },
   {
-    "centre_code": "PT9672",
-    "centre_name": "Singapore Hokkien Huay Kuan Preschool",
-    "level": "N1",
-    "fee_min": 1100.0,
-    "fee_max": 1400.0
-  },
-  {
     "centre_code": "PT9678",
     "centre_name": "LITTLE OAKS MONTESSORI PLAYGROUP PTE LTD",
     "level": "N1",
@@ -14826,6 +14819,13 @@
     "fee_max": 910.0
   },
   {
+    "centre_code": "PT9952",
+    "centre_name": "MULBERRY LEARNING @ TENGAH",
+    "level": "N1",
+    "fee_min": 1900.0,
+    "fee_max": 2100.0
+  },
+  {
     "centre_code": "PT9953",
     "centre_name": "Ace @ Work Childcare Pte Ltd (ATPCC)",
     "level": "N1",
@@ -15365,13 +15365,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0008",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
-    "level": "N1",
-    "fee_min": 422.63,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0017",
     "centre_name": "PCF Sparkletots Preschool @ Pasir Ris East Blk 412 (CC)",
     "level": "N1",
@@ -15575,13 +15568,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0089",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 298B (CC)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0092",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ QUEENSTOWN BLK 145 (CC)",
     "level": "N1",
@@ -15752,13 +15738,6 @@
   {
     "centre_code": "ST0188",
     "centre_name": "PCF Sparkletots Preschool @ Punggol Shore (EY)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0189",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
     "level": "N1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -16233,25 +16212,11 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0358",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol Coast Blk 105D (DS)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0359",
     "centre_name": "PCF Sparkletots Preschool @ Punggol Shore Blk 174D (DS)",
     "level": "N1",
     "fee_min": 610.0,
     "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0360",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol West Blk 271A (KN)",
-    "level": "N1",
-    "fee_min": 150.0,
-    "fee_max": 364.0
   },
   {
     "centre_code": "ST0361",
@@ -16268,22 +16233,8 @@
     "fee_max": 364.0
   },
   {
-    "centre_code": "ST0363",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0364",
     "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 416A (DS)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0365",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol West Blk 308B (DS)",
     "level": "N1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -16331,20 +16282,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0384",
-    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0391",
-    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 402 (EY)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0394",
     "centre_name": "PCF Sparkletots Preschool @ Punggol North Blk 402 (EY)",
     "level": "N1",
@@ -16354,13 +16291,6 @@
   {
     "centre_code": "ST0395",
     "centre_name": "PCF Sparkletots Preschool @ Queenstown Blk 30A (CC)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0397",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol North Blk 410A (EY)",
     "level": "N1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -17311,6 +17241,13 @@
     "fee_max": 994.0
   },
   {
+    "centre_code": "PT9672",
+    "centre_name": "Singapore Hokkien Huay Kuan Preschool",
+    "level": "N1",
+    "fee_min": 1100.0,
+    "fee_max": 1400.0
+  },
+  {
     "centre_code": "PT9696",
     "centre_name": "KIDSCAMPUS (CHANGI SIMEI) PTE LTD",
     "level": "N1",
@@ -17549,6 +17486,13 @@
     "fee_max": 400.0
   },
   {
+    "centre_code": "RC1820",
+    "centre_name": "EN-NAEEM MOSQUE KINDERGARTEN",
+    "level": "N1",
+    "fee_min": 260.0,
+    "fee_max": 370.0
+  },
+  {
     "centre_code": "RC1875",
     "centre_name": "Jurong Calvary Kindergarten",
     "level": "N1",
@@ -17582,6 +17526,13 @@
     "level": "N1",
     "fee_min": 80.0,
     "fee_max": 1080.0
+  },
+  {
+    "centre_code": "ST0008",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
+    "level": "N1",
+    "fee_min": 422.63,
+    "fee_max": 1172.0
   },
   {
     "centre_code": "ST0009",
@@ -17731,6 +17682,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0089",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 298B (CC)",
+    "level": "N1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0099",
     "centre_name": "PCF Sparkletots Preschool@ Pioneer Blk 991 (CC)",
     "level": "N1",
@@ -17780,8 +17738,8 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0119",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
+    "centre_code": "ST0122",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
     "level": "N1",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -17791,6 +17749,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CHUA CHU KANG BLK 19 (CC)",
     "level": "N1",
     "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0128",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
+    "level": "N1",
+    "fee_min": 460.0,
     "fee_max": 1172.0
   },
   {
@@ -18095,6 +18060,34 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0358",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol Coast Blk 105D (DS)",
+    "level": "N1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0360",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol West Blk 271A (KN)",
+    "level": "N1",
+    "fee_min": 150.0,
+    "fee_max": 364.0
+  },
+  {
+    "centre_code": "ST0363",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
+    "level": "N1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0365",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol West Blk 308B (DS)",
+    "level": "N1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0366",
     "centre_name": "PCF Sparkletots Preschool @ Bedok Reservoir-Punggol Blk 475C (DS)",
     "level": "N1",
@@ -18130,6 +18123,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0384",
+    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
+    "level": "N1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0389",
     "centre_name": "PCF Sparkletots Preschool @ Potong Pasir Blk 101 (EY)",
     "level": "N1",
@@ -18139,6 +18139,13 @@
   {
     "centre_code": "ST0392",
     "centre_name": "PCF Sparkletots Preschool @ Zhenghua Blk 645 (EY)",
+    "level": "N1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0397",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol North Blk 410A (EY)",
     "level": "N1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -19481,13 +19488,6 @@
     "fee_max": 1600.0
   },
   {
-    "centre_code": "PT9952",
-    "centre_name": "MULBERRY LEARNING @ TENGAH",
-    "level": "N1",
-    "fee_min": 1900.0,
-    "fee_max": 2100.0
-  },
-  {
     "centre_code": "RC0640",
     "centre_name": "GREEN PASTURES CHILD CENTRE",
     "level": "N1",
@@ -19619,13 +19619,6 @@
     "level": "N1",
     "fee_min": 300.0,
     "fee_max": 300.0
-  },
-  {
-    "centre_code": "RC1820",
-    "centre_name": "EN-NAEEM MOSQUE KINDERGARTEN",
-    "level": "N1",
-    "fee_min": 260.0,
-    "fee_max": 370.0
   },
   {
     "centre_code": "RC1821",
@@ -19908,17 +19901,17 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0119",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
+    "level": "N1",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0121",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MARSILING BLK 12 (CC)",
     "level": "N1",
     "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0122",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
-    "level": "N1",
-    "fee_min": 460.0,
     "fee_max": 1172.0
   },
   {
@@ -19931,13 +19924,6 @@
   {
     "centre_code": "ST0125",
     "centre_name": "PCF Sparkletots Preschool @ Woodgrove Blk 571B (CC)",
-    "level": "N1",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0128",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
     "level": "N1",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -20101,6 +20087,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MACPHERSON BLK 54 (CC)",
     "level": "N1",
     "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0189",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
+    "level": "N1",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -20421,6 +20414,13 @@
   {
     "centre_code": "ST0390",
     "centre_name": "PCF Sparkletots Preschool @ Nee Soon Link Blk 476 (CC)",
+    "level": "N1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0391",
+    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 402 (EY)",
     "level": "N1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -22155,13 +22155,6 @@
     "fee_max": 1175.0
   },
   {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "N1",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
-  },
-  {
     "centre_code": "SK0037",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "N1",
@@ -22440,6 +22433,13 @@
     "level": "N1",
     "fee_min": 460.0,
     "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "N1",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",
@@ -24634,7 +24634,7 @@
   },
   {
     "centre_code": "PT8655",
-    "centre_name": "Josiah Montessori (Pasir Ris)",
+    "centre_name": "Josiah Montessori - Pasir Ris",
     "level": "N2",
     "fee_min": 1080.0,
     "fee_max": 1900.0
@@ -24725,7 +24725,7 @@
   },
   {
     "centre_code": "PT8744",
-    "centre_name": "JOSIAH MONTESSORI KINDER-CARE",
+    "centre_name": "Josiah Montessori - Changi Business Park",
     "level": "N2",
     "fee_min": 45.0,
     "fee_max": 2080.0
@@ -27013,6 +27013,13 @@
     "fee_max": 910.0
   },
   {
+    "centre_code": "PT9952",
+    "centre_name": "MULBERRY LEARNING @ TENGAH",
+    "level": "N2",
+    "fee_min": 1900.0,
+    "fee_max": 2100.0
+  },
+  {
     "centre_code": "PT9953",
     "centre_name": "Ace @ Work Childcare Pte Ltd (ATPCC)",
     "level": "N2",
@@ -27503,13 +27510,6 @@
     "fee_max": 1080.0
   },
   {
-    "centre_code": "ST0008",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
-    "level": "N2",
-    "fee_min": 422.63,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0017",
     "centre_name": "PCF Sparkletots Preschool @ Pasir Ris East Blk 412 (CC)",
     "level": "N2",
@@ -27549,13 +27549,6 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MOULMEIN-CAIRNHILL Blk 50 (CC)",
     "level": "N2",
     "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0045",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 270 (CC)",
-    "level": "N2",
-    "fee_min": 442.94,
     "fee_max": 1172.0
   },
   {
@@ -27629,13 +27622,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0079",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 290A (CC)",
-    "level": "N2",
-    "fee_min": 442.94,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0085",
     "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 123A (CC)",
     "level": "N2",
@@ -27647,13 +27633,6 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KEAT HONG BLK 435 (CC)",
     "level": "N2",
     "fee_min": 424.57,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0089",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 298B (CC)",
-    "level": "N2",
-    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -27673,13 +27652,6 @@
   {
     "centre_code": "ST0094",
     "centre_name": "PCF Sparkletots Preschool @ Yuhua Blk 208 (CC)",
-    "level": "N2",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0095",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SERANGOON BLK 141 (CC)",
     "level": "N2",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -27850,13 +27822,6 @@
     "centre_name": "PCF Sparkletots Preschool @ Punggol Shore (EY)",
     "level": "N2",
     "fee_min": 150.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0189",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
-    "level": "N2",
-    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -28287,13 +28252,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0358",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol Coast Blk 105D (DS)",
-    "level": "N2",
-    "fee_min": 150.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0359",
     "centre_name": "PCF Sparkletots Preschool @ Punggol Shore Blk 174D (DS)",
     "level": "N2",
@@ -28320,20 +28278,6 @@
     "level": "N2",
     "fee_min": 150.0,
     "fee_max": 364.0
-  },
-  {
-    "centre_code": "ST0363",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
-    "level": "N2",
-    "fee_min": 150.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0364",
-    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 416A (DS)",
-    "level": "N2",
-    "fee_min": 150.0,
-    "fee_max": 1172.0
   },
   {
     "centre_code": "ST0365",
@@ -28378,13 +28322,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0384",
-    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
-    "level": "N2",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0391",
     "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 402 (EY)",
     "level": "N2",
@@ -28403,13 +28340,6 @@
     "centre_name": "PCF Sparkletots Preschool @ Queenstown Blk 30A (CC)",
     "level": "N2",
     "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0397",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol North Blk 410A (EY)",
-    "level": "N2",
-    "fee_min": 150.0,
     "fee_max": 1172.0
   },
   {
@@ -29589,6 +29519,13 @@
     "fee_max": 1300.0
   },
   {
+    "centre_code": "RC1820",
+    "centre_name": "EN-NAEEM MOSQUE KINDERGARTEN",
+    "level": "N2",
+    "fee_min": 260.0,
+    "fee_max": 370.0
+  },
+  {
     "centre_code": "RC1822",
     "centre_name": "Bethesda Ang Mo Kio Kindergarten",
     "level": "N2",
@@ -29649,6 +29586,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CASHEW BLK 183 (CC)",
     "level": "N2",
     "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0008",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
+    "level": "N2",
+    "fee_min": 422.63,
     "fee_max": 1172.0
   },
   {
@@ -29729,6 +29673,13 @@
     "fee_max": 1139.19
   },
   {
+    "centre_code": "ST0045",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 270 (CC)",
+    "level": "N2",
+    "fee_min": 442.94,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0048",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ JURONG CENTRAL BLK 404 (CC)",
     "level": "N2",
@@ -29792,6 +29743,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0079",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 290A (CC)",
+    "level": "N2",
+    "fee_min": 442.94,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0080",
     "centre_name": "PCF Sparkletots Preschool @ Jurong Spring-Gek Poh Blk 455 (CC)",
     "level": "N2",
@@ -29815,6 +29773,13 @@
   {
     "centre_code": "ST0087",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ JURONG CENTRAL BLK 403 (CC)",
+    "level": "N2",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0095",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SERANGOON BLK 141 (CC)",
     "level": "N2",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -29876,8 +29841,15 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0119",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
+    "centre_code": "ST0122",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
+    "level": "N2",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0128",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
     "level": "N2",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -30219,6 +30191,27 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0358",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol Coast Blk 105D (DS)",
+    "level": "N2",
+    "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0363",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
+    "level": "N2",
+    "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0364",
+    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 416A (DS)",
+    "level": "N2",
+    "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0369",
     "centre_name": "PCF Sparkletots Preschool @ Brickland Blk 801 (DS)",
     "level": "N2",
@@ -30247,6 +30240,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0384",
+    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
+    "level": "N2",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0387",
     "centre_name": "PCF Sparkletots Preschool @ Teck Ghee Blk 227 (EY)",
     "level": "N2",
@@ -30258,6 +30258,13 @@
     "centre_name": "PCF Sparkletots Preschool @ Potong Pasir Blk 101 (EY)",
     "level": "N2",
     "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0397",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol North Blk 410A (EY)",
+    "level": "N2",
+    "fee_min": 150.0,
     "fee_max": 1172.0
   },
   {
@@ -31633,13 +31640,6 @@
     "fee_max": 1600.0
   },
   {
-    "centre_code": "PT9952",
-    "centre_name": "MULBERRY LEARNING @ TENGAH",
-    "level": "N2",
-    "fee_min": 1900.0,
-    "fee_max": 2100.0
-  },
-  {
     "centre_code": "RC0030",
     "centre_name": "BETHEL DAY CARE CENTRE",
     "level": "N2",
@@ -31792,13 +31792,6 @@
     "level": "N2",
     "fee_min": 300.0,
     "fee_max": 300.0
-  },
-  {
-    "centre_code": "RC1820",
-    "centre_name": "EN-NAEEM MOSQUE KINDERGARTEN",
-    "level": "N2",
-    "fee_min": 260.0,
-    "fee_max": 370.0
   },
   {
     "centre_code": "RC1821",
@@ -32088,6 +32081,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0089",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 298B (CC)",
+    "level": "N2",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0091",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ EUNOS BLK 620 (CC)",
     "level": "N2",
@@ -32130,6 +32130,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0119",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
+    "level": "N2",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0121",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MARSILING BLK 12 (CC)",
     "level": "N2",
@@ -32137,22 +32144,8 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0122",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
-    "level": "N2",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0125",
     "centre_name": "PCF Sparkletots Preschool @ Woodgrove Blk 571B (CC)",
-    "level": "N2",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0128",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
     "level": "N2",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -32330,6 +32323,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MACPHERSON BLK 54 (CC)",
     "level": "N2",
     "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0189",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
+    "level": "N2",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -34363,13 +34363,6 @@
     "fee_max": 1175.0
   },
   {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "N2",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
-  },
-  {
     "centre_code": "SK0038",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "N2",
@@ -34669,6 +34662,13 @@
     "level": "N2",
     "fee_min": 460.0,
     "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "N2",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",
@@ -37052,7 +37052,7 @@
   },
   {
     "centre_code": "PT8655",
-    "centre_name": "Josiah Montessori (Pasir Ris)",
+    "centre_name": "Josiah Montessori - Pasir Ris",
     "level": "K1",
     "fee_min": 1080.0,
     "fee_max": 1900.0
@@ -37136,7 +37136,7 @@
   },
   {
     "centre_code": "PT8744",
-    "centre_name": "JOSIAH MONTESSORI KINDER-CARE",
+    "centre_name": "Josiah Montessori - Changi Business Park",
     "level": "K1",
     "fee_min": 45.0,
     "fee_max": 2080.0
@@ -38514,13 +38514,6 @@
     "fee_max": 1200.0
   },
   {
-    "centre_code": "PT9582",
-    "centre_name": "Catholic Kindergarten",
-    "level": "K1",
-    "fee_min": 320.87,
-    "fee_max": 708.65
-  },
-  {
     "centre_code": "PT9583",
     "centre_name": "QUAYSIDE ISLE PREPARATORY SCHOOL",
     "level": "K1",
@@ -39277,6 +39270,13 @@
     "fee_max": 910.0
   },
   {
+    "centre_code": "PT9952",
+    "centre_name": "MULBERRY LEARNING @ TENGAH",
+    "level": "K1",
+    "fee_min": 1900.0,
+    "fee_max": 2100.0
+  },
+  {
     "centre_code": "PT9953",
     "centre_name": "Ace @ Work Childcare Pte Ltd (ATPCC)",
     "level": "K1",
@@ -39760,13 +39760,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0008",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
-    "level": "K1",
-    "fee_min": 422.63,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0009",
     "centre_name": "PCF Sparkletots Preschool @ Bishan East-Sin Ming Blk 178 (CC)",
     "level": "K1",
@@ -39823,6 +39816,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0046",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PAYA LEBAR BLK 221 (CC)",
+    "level": "K1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0052",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ BUKIT TIMAH BLK 305 (CC)",
     "level": "K1",
@@ -39872,22 +39872,8 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0079",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 290A (CC)",
-    "level": "K1",
-    "fee_min": 442.94,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0087",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ JURONG CENTRAL BLK 403 (CC)",
-    "level": "K1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0089",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 298B (CC)",
     "level": "K1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -39909,13 +39895,6 @@
   {
     "centre_code": "ST0094",
     "centre_name": "PCF Sparkletots Preschool @ Yuhua Blk 208 (CC)",
-    "level": "K1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0095",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SERANGOON BLK 141 (CC)",
     "level": "K1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -39956,6 +39935,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0122",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
+    "level": "K1",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0124",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ ZHENGHUA BLK 632A (CC)",
     "level": "K1",
@@ -39965,6 +39951,13 @@
   {
     "centre_code": "ST0127",
     "centre_name": "PCF Sparkletots Preschool @ Punggol Shore Blk 622C (CC)",
+    "level": "K1",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0128",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
     "level": "K1",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -40044,13 +40037,6 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MACPHERSON BLK 54 (CC)",
     "level": "K1",
     "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0189",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
-    "level": "K1",
-    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -40208,25 +40194,11 @@
     "fee_max": 364.0
   },
   {
-    "centre_code": "ST0280",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 231 (DS)",
-    "level": "K1",
-    "fee_min": 150.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0284",
     "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 292B (KN)",
     "level": "K1",
     "fee_min": 150.0,
     "fee_max": 364.0
-  },
-  {
-    "centre_code": "ST0285",
-    "centre_name": "PCF Sparkletots Preschool @ Serangoon Blk 125 (CC)",
-    "level": "K1",
-    "fee_min": 150.0,
-    "fee_max": 1172.0
   },
   {
     "centre_code": "ST0286",
@@ -40418,13 +40390,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0360",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol West Blk 271A (KN)",
-    "level": "K1",
-    "fee_min": 150.0,
-    "fee_max": 364.0
-  },
-  {
     "centre_code": "ST0362",
     "centre_name": "PCF Sparkletots Preschool @ Tampines Central Blk 868A (KN)",
     "level": "K1",
@@ -40462,13 +40427,6 @@
   {
     "centre_code": "ST0382",
     "centre_name": "PCF Sparkletots Preschool @ Radin Mas (CC)",
-    "level": "K1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0384",
-    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
     "level": "K1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -41468,6 +41426,13 @@
     "fee_max": 1500.0
   },
   {
+    "centre_code": "PT9582",
+    "centre_name": "Catholic Kindergarten",
+    "level": "K1",
+    "fee_min": 320.87,
+    "fee_max": 708.65
+  },
+  {
     "centre_code": "PT9613",
     "centre_name": "Paper Scissors Stone Montessori Kindergarten",
     "level": "K1",
@@ -41790,6 +41755,13 @@
     "fee_max": 400.0
   },
   {
+    "centre_code": "RC1820",
+    "centre_name": "EN-NAEEM MOSQUE KINDERGARTEN",
+    "level": "K1",
+    "fee_min": 260.0,
+    "fee_max": 370.0
+  },
+  {
     "centre_code": "RC1822",
     "centre_name": "Bethesda Ang Mo Kio Kindergarten",
     "level": "K1",
@@ -41853,6 +41825,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0008",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
+    "level": "K1",
+    "fee_min": 422.63,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0019",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ NEE SOON SOUTH BLK 781 (CC)",
     "level": "K1",
@@ -41890,13 +41869,6 @@
   {
     "centre_code": "ST0043",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MOULMEIN-CAIRNHILL Blk 50 (CC)",
-    "level": "K1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0046",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PAYA LEBAR BLK 221 (CC)",
     "level": "K1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -41965,6 +41937,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0079",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 290A (CC)",
+    "level": "K1",
+    "fee_min": 442.94,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0080",
     "centre_name": "PCF Sparkletots Preschool @ Jurong Spring-Gek Poh Blk 455 (CC)",
     "level": "K1",
@@ -41972,17 +41951,24 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0085",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 123A (CC)",
-    "level": "K1",
-    "fee_min": 441.92,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0086",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KEAT HONG BLK 435 (CC)",
     "level": "K1",
     "fee_min": 424.57,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0089",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 298B (CC)",
+    "level": "K1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0095",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SERANGOON BLK 141 (CC)",
+    "level": "K1",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -42021,13 +42007,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0119",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
-    "level": "K1",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0126",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CHUA CHU KANG BLK 19 (CC)",
     "level": "K1",
@@ -42039,13 +42018,6 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ WOODLANDS BLK 604 (CC)",
     "level": "K1",
     "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0140",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 262A (CC)",
-    "level": "K1",
-    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -42210,6 +42182,20 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0280",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 231 (DS)",
+    "level": "K1",
+    "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0285",
+    "centre_name": "PCF Sparkletots Preschool @ Serangoon Blk 125 (CC)",
+    "level": "K1",
+    "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0287",
     "centre_name": "PCF Sparkletots Preschool @ Seletar-Serangoon Blk 518 (DS)",
     "level": "K1",
@@ -42315,8 +42301,22 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0360",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol West Blk 271A (KN)",
+    "level": "K1",
+    "fee_min": 150.0,
+    "fee_max": 364.0
+  },
+  {
     "centre_code": "ST0361",
     "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 987C (DS)",
+    "level": "K1",
+    "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0363",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
     "level": "K1",
     "fee_min": 150.0,
     "fee_max": 1172.0
@@ -42343,6 +42343,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0384",
+    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
+    "level": "K1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0405",
     "centre_name": "PCF Sparkletots Preschool @ Brickland Blk 308B (CC)",
     "level": "K1",
@@ -42362,13 +42369,6 @@
     "level": "K1",
     "fee_min": 650.0,
     "fee_max": 1200.0
-  },
-  {
-    "centre_code": "WP0660",
-    "centre_name": "THE LITTLE SKOOL-HOUSE INTERNATIONAL PTE LTD",
-    "level": "K1",
-    "fee_min": 650.0,
-    "fee_max": 2020.0
   },
   {
     "centre_code": "WP1102",
@@ -43918,13 +43918,6 @@
     "fee_max": 1600.0
   },
   {
-    "centre_code": "PT9952",
-    "centre_name": "MULBERRY LEARNING @ TENGAH",
-    "level": "K1",
-    "fee_min": 1900.0,
-    "fee_max": 2100.0
-  },
-  {
     "centre_code": "RC0030",
     "centre_name": "BETHEL DAY CARE CENTRE",
     "level": "K1",
@@ -44091,13 +44084,6 @@
     "level": "K1",
     "fee_min": 330.0,
     "fee_max": 380.0
-  },
-  {
-    "centre_code": "RC1820",
-    "centre_name": "EN-NAEEM MOSQUE KINDERGARTEN",
-    "level": "K1",
-    "fee_min": 260.0,
-    "fee_max": 370.0
   },
   {
     "centre_code": "RC1821",
@@ -44380,6 +44366,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0085",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 123A (CC)",
+    "level": "K1",
+    "fee_min": 441.92,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0091",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ EUNOS BLK 620 (CC)",
     "level": "K1",
@@ -44436,6 +44429,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0119",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
+    "level": "K1",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0121",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MARSILING BLK 12 (CC)",
     "level": "K1",
@@ -44443,22 +44443,8 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0122",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
-    "level": "K1",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0125",
     "centre_name": "PCF Sparkletots Preschool @ Woodgrove Blk 571B (CC)",
-    "level": "K1",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0128",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
     "level": "K1",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -44489,6 +44475,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CLEMENTI BLK 420A (CC)",
     "level": "K1",
     "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0140",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 262A (CC)",
+    "level": "K1",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -44627,6 +44620,13 @@
   {
     "centre_code": "ST0185",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ TAMPINES WEST BLK 887 (CC)",
+    "level": "K1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0189",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
     "level": "K1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -44821,13 +44821,6 @@
     "fee_max": 364.0
   },
   {
-    "centre_code": "ST0363",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
-    "level": "K1",
-    "fee_min": 150.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0366",
     "centre_name": "PCF Sparkletots Preschool @ Bedok Reservoir-Punggol Blk 475C (DS)",
     "level": "K1",
@@ -44938,6 +44931,13 @@
     "level": "K1",
     "fee_min": 650.0,
     "fee_max": 650.0
+  },
+  {
+    "centre_code": "WP0660",
+    "centre_name": "THE LITTLE SKOOL-HOUSE INTERNATIONAL PTE LTD",
+    "level": "K1",
+    "fee_min": 650.0,
+    "fee_max": 2020.0
   },
   {
     "centre_code": "WP0733",
@@ -46508,13 +46508,6 @@
     "fee_max": 1175.0
   },
   {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "K1",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
-  },
-  {
     "centre_code": "SK0038",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "K1",
@@ -46842,6 +46835,13 @@
     "level": "K1",
     "fee_min": 460.0,
     "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "K1",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",
@@ -49043,7 +49043,7 @@
   },
   {
     "centre_code": "PT8655",
-    "centre_name": "Josiah Montessori (Pasir Ris)",
+    "centre_name": "Josiah Montessori - Pasir Ris",
     "level": "K2",
     "fee_min": 1080.0,
     "fee_max": 1900.0
@@ -49148,7 +49148,7 @@
   },
   {
     "centre_code": "PT8744",
-    "centre_name": "JOSIAH MONTESSORI KINDER-CARE",
+    "centre_name": "Josiah Montessori - Changi Business Park",
     "level": "K2",
     "fee_min": 45.0,
     "fee_max": 2080.0
@@ -51142,6 +51142,13 @@
     "fee_max": 910.0
   },
   {
+    "centre_code": "PT9952",
+    "centre_name": "MULBERRY LEARNING @ TENGAH",
+    "level": "K2",
+    "fee_min": 1900.0,
+    "fee_max": 2100.0
+  },
+  {
     "centre_code": "PT9953",
     "centre_name": "Ace @ Work Childcare Pte Ltd (ATPCC)",
     "level": "K2",
@@ -51632,13 +51639,6 @@
     "fee_max": 1080.0
   },
   {
-    "centre_code": "ST0008",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
-    "level": "K2",
-    "fee_min": 422.63,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0017",
     "centre_name": "PCF Sparkletots Preschool @ Pasir Ris East Blk 412 (CC)",
     "level": "K2",
@@ -51695,10 +51695,10 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0045",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 270 (CC)",
+    "centre_code": "ST0046",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PAYA LEBAR BLK 221 (CC)",
     "level": "K2",
-    "fee_min": 442.94,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -51765,13 +51765,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0089",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 298B (CC)",
-    "level": "K2",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0092",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ QUEENSTOWN BLK 145 (CC)",
     "level": "K2",
@@ -51781,13 +51774,6 @@
   {
     "centre_code": "ST0094",
     "centre_name": "PCF Sparkletots Preschool @ Yuhua Blk 208 (CC)",
-    "level": "K2",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0095",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SERANGOON BLK 141 (CC)",
     "level": "K2",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -51895,13 +51881,6 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CHUA CHU KANG BLK 123 (CC)",
     "level": "K2",
     "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0189",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
-    "level": "K2",
-    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -52045,25 +52024,11 @@
     "fee_max": 364.0
   },
   {
-    "centre_code": "ST0280",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 231 (DS)",
-    "level": "K2",
-    "fee_min": 150.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0284",
     "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 292B (KN)",
     "level": "K2",
     "fee_min": 150.0,
     "fee_max": 364.0
-  },
-  {
-    "centre_code": "ST0285",
-    "centre_name": "PCF Sparkletots Preschool @ Serangoon Blk 125 (CC)",
-    "level": "K2",
-    "fee_min": 150.0,
-    "fee_max": 1172.0
   },
   {
     "centre_code": "ST0286",
@@ -52227,13 +52192,6 @@
     "fee_max": 364.0
   },
   {
-    "centre_code": "ST0364",
-    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 416A (DS)",
-    "level": "K2",
-    "fee_min": 150.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0365",
     "centre_name": "PCF Sparkletots Preschool @ Punggol West Blk 308B (DS)",
     "level": "K2",
@@ -52257,13 +52215,6 @@
   {
     "centre_code": "ST0382",
     "centre_name": "PCF Sparkletots Preschool @ Radin Mas (CC)",
-    "level": "K2",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0384",
-    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
     "level": "K2",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -53606,6 +53557,13 @@
     "fee_max": 1300.0
   },
   {
+    "centre_code": "RC1820",
+    "centre_name": "EN-NAEEM MOSQUE KINDERGARTEN",
+    "level": "K2",
+    "fee_min": 260.0,
+    "fee_max": 370.0
+  },
+  {
     "centre_code": "RC1822",
     "centre_name": "Bethesda Ang Mo Kio Kindergarten",
     "level": "K2",
@@ -53662,6 +53620,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0008",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 194 (CC)",
+    "level": "K2",
+    "fee_min": 422.63,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0009",
     "centre_name": "PCF Sparkletots Preschool @ Bishan East-Sin Ming Blk 178 (CC)",
     "level": "K2",
@@ -53697,10 +53662,10 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0046",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PAYA LEBAR BLK 221 (CC)",
+    "centre_code": "ST0045",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 270 (CC)",
     "level": "K2",
-    "fee_min": 610.0,
+    "fee_min": 442.94,
     "fee_max": 1172.0
   },
   {
@@ -53734,13 +53699,6 @@
   {
     "centre_code": "ST0078",
     "centre_name": "PCF Sparkletots Preschool @ Bishan East-Sin Ming Blk 181 (CC)",
-    "level": "K2",
-    "fee_min": 441.92,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0085",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 123A (CC)",
     "level": "K2",
     "fee_min": 441.92,
     "fee_max": 1172.0
@@ -53781,8 +53739,8 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0119",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
+    "centre_code": "ST0128",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
     "level": "K2",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -53792,13 +53750,6 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ WOODLANDS BLK 604 (CC)",
     "level": "K2",
     "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0140",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 262A (CC)",
-    "level": "K2",
-    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -53998,6 +53949,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0280",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 231 (DS)",
+    "level": "K2",
+    "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0287",
     "centre_name": "PCF Sparkletots Preschool @ Seletar-Serangoon Blk 518 (DS)",
     "level": "K2",
@@ -54110,15 +54068,15 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0358",
-    "centre_name": "PCF Sparkletots Preschool @ Punggol Coast Blk 105D (DS)",
+    "centre_code": "ST0363",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
     "level": "K2",
     "fee_min": 150.0,
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0363",
-    "centre_name": "PCF Sparkletots Preschool @ Sengkang West Blk 330A (DS)",
+    "centre_code": "ST0364",
+    "centre_name": "PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 416A (DS)",
     "level": "K2",
     "fee_min": 150.0,
     "fee_max": 1172.0
@@ -54128,6 +54086,13 @@
     "centre_name": "PCF Sparkletots Preschool @ Nee Soon Central Blk 671 (DS)",
     "level": "K2",
     "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0384",
+    "centre_name": "PCF Sparkletots Preschool @ Jalan Kayu Blk 455 (CC)",
+    "level": "K2",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -55986,13 +55951,6 @@
     "fee_max": 1600.0
   },
   {
-    "centre_code": "PT9952",
-    "centre_name": "MULBERRY LEARNING @ TENGAH",
-    "level": "K2",
-    "fee_min": 1900.0,
-    "fee_max": 2100.0
-  },
-  {
     "centre_code": "RC0030",
     "centre_name": "BETHEL DAY CARE CENTRE",
     "level": "K2",
@@ -56159,13 +56117,6 @@
     "level": "K2",
     "fee_min": 300.0,
     "fee_max": 300.0
-  },
-  {
-    "centre_code": "RC1820",
-    "centre_name": "EN-NAEEM MOSQUE KINDERGARTEN",
-    "level": "K2",
-    "fee_min": 260.0,
-    "fee_max": 370.0
   },
   {
     "centre_code": "RC1821",
@@ -56497,6 +56448,20 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0085",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang East Blk 123A (CC)",
+    "level": "K2",
+    "fee_min": 441.92,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0089",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 298B (CC)",
+    "level": "K2",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0091",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ EUNOS BLK 620 (CC)",
     "level": "K2",
@@ -56508,6 +56473,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PIONEER BLK 694 (CC)",
     "level": "K2",
     "fee_min": 442.94,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0095",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SERANGOON BLK 141 (CC)",
+    "level": "K2",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -56574,6 +56546,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0119",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT BLK 525 (CC)",
+    "level": "K2",
+    "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0121",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ MARSILING BLK 12 (CC)",
     "level": "K2",
@@ -56583,13 +56562,6 @@
   {
     "centre_code": "ST0125",
     "centre_name": "PCF Sparkletots Preschool @ Woodgrove Blk 571B (CC)",
-    "level": "K2",
-    "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0128",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC)",
     "level": "K2",
     "fee_min": 460.0,
     "fee_max": 1172.0
@@ -56620,6 +56592,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CLEMENTI BLK 420A (CC)",
     "level": "K2",
     "fee_min": 460.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0140",
+    "centre_name": "PCF Sparkletots Preschool @ Sengkang North Blk 262A (CC)",
+    "level": "K2",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -56770,6 +56749,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0189",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL WEST BLK 222 (CC)",
+    "level": "K2",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0190",
     "centre_name": "PCF Sparkletots Preschool @ Bukit Batok East Blk 293 (CC)",
     "level": "K2",
@@ -56903,6 +56889,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0285",
+    "centre_name": "PCF Sparkletots Preschool @ Serangoon Blk 125 (CC)",
+    "level": "K2",
+    "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0309",
     "centre_name": "PCF Sparkletots Preschool @ Nanyang Blk 934 (DS)",
     "level": "K2",
@@ -56982,6 +56975,13 @@
   {
     "centre_code": "ST0349",
     "centre_name": "PCF Sparkletots Preschool @ Chong Pang Blk 122 (CC)",
+    "level": "K2",
+    "fee_min": 150.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0358",
+    "centre_name": "PCF Sparkletots Preschool @ Punggol Coast Blk 105D (DS)",
     "level": "K2",
     "fee_min": 150.0,
     "fee_max": 1172.0
@@ -58667,13 +58667,6 @@
     "fee_max": 1175.0
   },
   {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "K2",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
-  },
-  {
     "centre_code": "SK0038",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "K2",
@@ -58973,6 +58966,13 @@
     "level": "K2",
     "fee_min": 460.0,
     "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "K2",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",
