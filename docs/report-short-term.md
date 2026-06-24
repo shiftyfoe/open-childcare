@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Short-Term (1–3 Months)
 
-_Updated: 23 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
+_Updated: 24 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
 
 ## Legend
 

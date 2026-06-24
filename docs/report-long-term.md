@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Long-Term (6–7 Months)
 
-_Updated: 23 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
+_Updated: 24 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
 
 ## Legend
 
