@@ -66,14 +66,20 @@ def run() -> None:
     client.headers["RSC"] = "1"
 
     print("Fetching MOE SchoolFinder RSC payload...")
-    resp = fetch(client, URL, jina_fallback=False)
-    text = resp.text
+    try:
+        resp = fetch(client, URL, jina_fallback=False)
+        raw_schools = _extract_schools(resp.text)
+        if not raw_schools:
+            raise RuntimeError("Could not find schools data — RSC payload format may have changed")
+        results = [asdict(_parse(s)) for s in raw_schools]
+    except Exception as e:
+        cached = OUT_PATH.parent / f"{OUT_PATH.stem}-latest.json"
+        if cached.exists():
+            print(f"WARNING: fetch failed ({e}) — reusing cached data from {cached.name}")
+            results = json.loads(cached.read_text())
+        else:
+            raise
 
-    raw_schools = _extract_schools(text)
-    if not raw_schools:
-        raise RuntimeError("Could not find schools data — RSC payload format may have changed")
-
-    results = [asdict(_parse(s)) for s in raw_schools]
     write_dataset(OUT_PATH, results)
     matched = sum(1 for r in results if r.get("postal_code"))
     print(f"Saved {len(results)} kindergartens ({matched} with postal code)")
