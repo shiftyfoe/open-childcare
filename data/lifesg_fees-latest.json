@@ -525,13 +525,6 @@
     "fee_max": 1100.0
   },
   {
-    "centre_code": "PT8531",
-    "centre_name": "PRE-SCHOOL BY-THE-PARK (DUNEARN) PTE LTD",
-    "level": "PG",
-    "fee_min": 150.0,
-    "fee_max": 1893.0
-  },
-  {
     "centre_code": "PT8534",
     "centre_name": "Little Explorers Cove @ Boon Lay",
     "level": "PG",
@@ -1589,13 +1582,6 @@
     "fee_max": 1000.0
   },
   {
-    "centre_code": "PT9265",
-    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
-    "level": "PG",
-    "fee_min": 800.0,
-    "fee_max": 880.0
-  },
-  {
     "centre_code": "PT9270",
     "centre_name": "Heartyland Pte Ltd",
     "level": "PG",
@@ -1820,6 +1806,13 @@
     "fee_max": 1800.0
   },
   {
+    "centre_code": "PT9373",
+    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
+    "level": "PG",
+    "fee_min": 200.0,
+    "fee_max": 1360.0
+  },
+  {
     "centre_code": "PT9380",
     "centre_name": "Kinderland Preschool @ Loyang Point",
     "level": "PG",
@@ -1960,13 +1953,6 @@
     "fee_max": 1600.0
   },
   {
-    "centre_code": "PT9440",
-    "centre_name": "Sunflower Preschool @ Sembawang Pte. Ltd.",
-    "level": "PG",
-    "fee_min": 490.0,
-    "fee_max": 1000.0
-  },
-  {
     "centre_code": "PT9442",
     "centre_name": "CHILDCARE @ THE ENRICHMENT PTE LTD",
     "level": "PG",
@@ -2007,6 +1993,13 @@
     "level": "PG",
     "fee_min": 100.0,
     "fee_max": 2180.0
+  },
+  {
+    "centre_code": "PT9451",
+    "centre_name": "KIDSCAMPUS JW PTE LTD",
+    "level": "PG",
+    "fee_min": 200.0,
+    "fee_max": 1200.0
   },
   {
     "centre_code": "PT9452",
@@ -4662,6 +4655,13 @@
     "fee_max": 1630.0
   },
   {
+    "centre_code": "PT8531",
+    "centre_name": "PRE-SCHOOL BY-THE-PARK (DUNEARN) PTE LTD",
+    "level": "PG",
+    "fee_min": 150.0,
+    "fee_max": 1893.0
+  },
+  {
     "centre_code": "PT8617",
     "centre_name": "CHERIE HEARTS KIDZ CAMPUS PTE. LTD.",
     "level": "PG",
@@ -5122,6 +5122,13 @@
     "level": "PG",
     "fee_min": 1210.0,
     "fee_max": 1500.0
+  },
+  {
+    "centre_code": "PT9440",
+    "centre_name": "Sunflower Preschool @ Sembawang Pte. Ltd.",
+    "level": "PG",
+    "fee_min": 490.0,
+    "fee_max": 1000.0
   },
   {
     "centre_code": "PT9463",
@@ -6643,6 +6650,13 @@
     "fee_max": 2200.0
   },
   {
+    "centre_code": "PT9265",
+    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
+    "level": "PG",
+    "fee_min": 800.0,
+    "fee_max": 880.0
+  },
+  {
     "centre_code": "PT9267",
     "centre_name": "MULBERRY LEARNING CENTRE CENTRAL PTE LTD",
     "level": "PG",
@@ -6704,13 +6718,6 @@
     "level": "PG",
     "fee_min": 490.0,
     "fee_max": 1194.3
-  },
-  {
-    "centre_code": "PT9373",
-    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
-    "level": "PG",
-    "fee_min": 200.0,
-    "fee_max": 1360.0
   },
   {
     "centre_code": "PT9375",
@@ -6830,13 +6837,6 @@
     "level": "PG",
     "fee_min": 150.0,
     "fee_max": 1230.0
-  },
-  {
-    "centre_code": "PT9451",
-    "centre_name": "KIDSCAMPUS JW PTE LTD",
-    "level": "PG",
-    "fee_min": 200.0,
-    "fee_max": 1200.0
   },
   {
     "centre_code": "PT9460",
@@ -8337,6 +8337,13 @@
     "fee_max": 1900.0
   },
   {
+    "centre_code": "PT9954",
+    "centre_name": "Marist Preschool Pte Ltd",
+    "level": "PG",
+    "fee_min": 1467.89,
+    "fee_max": 2000.0
+  },
+  {
     "centre_code": "TP0502",
     "centre_name": "Skool4Kidz @ Bishan Ridges",
     "level": "PG",
@@ -9611,13 +9618,6 @@
     "fee_max": 1080.0
   },
   {
-    "centre_code": "YM0203",
-    "centre_name": "MY WORLD PRESCHOOL LTD.",
-    "level": "PG",
-    "fee_min": 50.0,
-    "fee_max": 1080.0
-  },
-  {
     "centre_code": "YM0204",
     "centre_name": "MY WORLD PRESCHOOL LTD.",
     "level": "PG",
@@ -10332,6 +10332,13 @@
     "fee_max": 1080.0
   },
   {
+    "centre_code": "YM0203",
+    "centre_name": "MY WORLD PRESCHOOL LTD.",
+    "level": "PG",
+    "fee_min": 50.0,
+    "fee_max": 1080.0
+  },
+  {
     "centre_code": "PT3300",
     "centre_name": "LITTLE GREENHOUSE @ S553 PTE LTD",
     "level": "PG",
@@ -10437,6 +10444,13 @@
     "fee_max": 1380.0
   },
   {
+    "centre_code": "PT9224",
+    "centre_name": "Oxford Explorers @ Sennett Pte Ltd",
+    "level": "PG",
+    "fee_min": 1540.0,
+    "fee_max": 1850.0
+  },
+  {
     "centre_code": "PT9703",
     "centre_name": "The Little House (Montessori) Pte Ltd",
     "level": "PG",
@@ -10463,13 +10477,6 @@
     "level": "PG",
     "fee_min": 50.0,
     "fee_max": 1280.0
-  },
-  {
-    "centre_code": "PT9224",
-    "centre_name": "Oxford Explorers @ Sennett Pte Ltd",
-    "level": "PG",
-    "fee_min": 1540.0,
-    "fee_max": 1850.0
   },
   {
     "centre_code": "PT9315",
@@ -13342,13 +13349,6 @@
     "fee_max": 1000.0
   },
   {
-    "centre_code": "PT9265",
-    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
-    "level": "N1",
-    "fee_min": 800.0,
-    "fee_max": 880.0
-  },
-  {
     "centre_code": "PT9270",
     "centre_name": "Heartyland Pte Ltd",
     "level": "N1",
@@ -13566,6 +13566,13 @@
     "fee_max": 1194.3
   },
   {
+    "centre_code": "PT9373",
+    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
+    "level": "N1",
+    "fee_min": 200.0,
+    "fee_max": 1360.0
+  },
+  {
     "centre_code": "PT9380",
     "centre_name": "Kinderland Preschool @ Loyang Point",
     "level": "N1",
@@ -13699,6 +13706,13 @@
     "fee_max": 1500.0
   },
   {
+    "centre_code": "PT9440",
+    "centre_name": "Sunflower Preschool @ Sembawang Pte. Ltd.",
+    "level": "N1",
+    "fee_min": 490.0,
+    "fee_max": 1000.0
+  },
+  {
     "centre_code": "PT9442",
     "centre_name": "CHILDCARE @ THE ENRICHMENT PTE LTD",
     "level": "N1",
@@ -13739,6 +13753,13 @@
     "level": "N1",
     "fee_min": 100.0,
     "fee_max": 2180.0
+  },
+  {
+    "centre_code": "PT9451",
+    "centre_name": "KIDSCAMPUS JW PTE LTD",
+    "level": "N1",
+    "fee_min": 200.0,
+    "fee_max": 1200.0
   },
   {
     "centre_code": "PT9452",
@@ -13844,6 +13865,13 @@
     "level": "N1",
     "fee_min": 1250.0,
     "fee_max": 1850.0
+  },
+  {
+    "centre_code": "PT9478",
+    "centre_name": "KIDSCAMPUS WEST COAST PTE LTD",
+    "level": "N1",
+    "fee_min": 150.0,
+    "fee_max": 1150.0
   },
   {
     "centre_code": "PT9479",
@@ -14194,6 +14222,13 @@
     "level": "N1",
     "fee_min": 760.0,
     "fee_max": 760.0
+  },
+  {
+    "centre_code": "PT9696",
+    "centre_name": "KIDSCAMPUS (CHANGI SIMEI) PTE LTD",
+    "level": "N1",
+    "fee_min": 200.0,
+    "fee_max": 1250.0
   },
   {
     "centre_code": "PT9698",
@@ -17108,13 +17143,6 @@
     "fee_max": 1651.38
   },
   {
-    "centre_code": "PT9440",
-    "centre_name": "Sunflower Preschool @ Sembawang Pte. Ltd.",
-    "level": "N1",
-    "fee_min": 490.0,
-    "fee_max": 1000.0
-  },
-  {
     "centre_code": "PT9449",
     "centre_name": "Learning Vision Sengkang General Hospital",
     "level": "N1",
@@ -17141,13 +17169,6 @@
     "level": "N1",
     "fee_min": 650.0,
     "fee_max": 1680.0
-  },
-  {
-    "centre_code": "PT9478",
-    "centre_name": "KIDSCAMPUS WEST COAST PTE LTD",
-    "level": "N1",
-    "fee_min": 150.0,
-    "fee_max": 1150.0
   },
   {
     "centre_code": "PT9481",
@@ -17246,13 +17267,6 @@
     "level": "N1",
     "fee_min": 1100.0,
     "fee_max": 1400.0
-  },
-  {
-    "centre_code": "PT9696",
-    "centre_name": "KIDSCAMPUS (CHANGI SIMEI) PTE LTD",
-    "level": "N1",
-    "fee_min": 200.0,
-    "fee_max": 1250.0
   },
   {
     "centre_code": "PT9699",
@@ -18774,6 +18788,13 @@
     "fee_max": 2200.0
   },
   {
+    "centre_code": "PT9265",
+    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
+    "level": "N1",
+    "fee_min": 800.0,
+    "fee_max": 880.0
+  },
+  {
     "centre_code": "PT9267",
     "centre_name": "MULBERRY LEARNING CENTRE CENTRAL PTE LTD",
     "level": "N1",
@@ -18849,13 +18870,6 @@
     "level": "N1",
     "fee_min": 150.0,
     "fee_max": 1650.0
-  },
-  {
-    "centre_code": "PT9373",
-    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
-    "level": "N1",
-    "fee_min": 200.0,
-    "fee_max": 1360.0
   },
   {
     "centre_code": "PT9374",
@@ -18968,13 +18982,6 @@
     "level": "N1",
     "fee_min": 150.0,
     "fee_max": 1230.0
-  },
-  {
-    "centre_code": "PT9451",
-    "centre_name": "KIDSCAMPUS JW PTE LTD",
-    "level": "N1",
-    "fee_min": 200.0,
-    "fee_max": 1200.0
   },
   {
     "centre_code": "PT9460",
@@ -20515,6 +20522,13 @@
     "level": "N1",
     "fee_min": 650.0,
     "fee_max": 1900.0
+  },
+  {
+    "centre_code": "PT9954",
+    "centre_name": "Marist Preschool Pte Ltd",
+    "level": "N1",
+    "fee_min": 1467.89,
+    "fee_max": 2000.0
   },
   {
     "centre_code": "TP0502",
@@ -22631,6 +22645,13 @@
     "fee_max": 1380.0
   },
   {
+    "centre_code": "PT9224",
+    "centre_name": "Oxford Explorers @ Sennett Pte Ltd",
+    "level": "N1",
+    "fee_min": 1540.0,
+    "fee_max": 1850.0
+  },
+  {
     "centre_code": "PT9824",
     "centre_name": "Little Oxford @ SK48 Pte. Ltd.",
     "level": "N1",
@@ -22650,13 +22671,6 @@
     "level": "N1",
     "fee_min": 50.0,
     "fee_max": 1280.0
-  },
-  {
-    "centre_code": "PT9224",
-    "centre_name": "Oxford Explorers @ Sennett Pte Ltd",
-    "level": "N1",
-    "fee_min": 1540.0,
-    "fee_max": 1850.0
   },
   {
     "centre_code": "PT9315",
@@ -25543,13 +25557,6 @@
     "fee_max": 2470.0
   },
   {
-    "centre_code": "PT9265",
-    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
-    "level": "N2",
-    "fee_min": 800.0,
-    "fee_max": 880.0
-  },
-  {
     "centre_code": "PT9270",
     "centre_name": "Heartyland Pte Ltd",
     "level": "N2",
@@ -25760,6 +25767,13 @@
     "fee_max": 1800.0
   },
   {
+    "centre_code": "PT9373",
+    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
+    "level": "N2",
+    "fee_min": 200.0,
+    "fee_max": 1360.0
+  },
+  {
     "centre_code": "PT9380",
     "centre_name": "Kinderland Preschool @ Loyang Point",
     "level": "N2",
@@ -25919,6 +25933,13 @@
     "level": "N2",
     "fee_min": 100.0,
     "fee_max": 2180.0
+  },
+  {
+    "centre_code": "PT9451",
+    "centre_name": "KIDSCAMPUS JW PTE LTD",
+    "level": "N2",
+    "fee_min": 200.0,
+    "fee_max": 1200.0
   },
   {
     "centre_code": "PT9452",
@@ -30919,6 +30940,13 @@
     "fee_max": 2200.0
   },
   {
+    "centre_code": "PT9265",
+    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
+    "level": "N2",
+    "fee_min": 800.0,
+    "fee_max": 880.0
+  },
+  {
     "centre_code": "PT9267",
     "centre_name": "MULBERRY LEARNING CENTRE CENTRAL PTE LTD",
     "level": "N2",
@@ -30980,13 +31008,6 @@
     "level": "N2",
     "fee_min": 150.0,
     "fee_max": 1650.0
-  },
-  {
-    "centre_code": "PT9373",
-    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
-    "level": "N2",
-    "fee_min": 200.0,
-    "fee_max": 1360.0
   },
   {
     "centre_code": "PT9375",
@@ -31099,13 +31120,6 @@
     "level": "N2",
     "fee_min": 150.0,
     "fee_max": 1230.0
-  },
-  {
-    "centre_code": "PT9451",
-    "centre_name": "KIDSCAMPUS JW PTE LTD",
-    "level": "N2",
-    "fee_min": 200.0,
-    "fee_max": 1200.0
   },
   {
     "centre_code": "PT9453",
@@ -32751,6 +32765,13 @@
     "level": "N2",
     "fee_min": 650.0,
     "fee_max": 1900.0
+  },
+  {
+    "centre_code": "PT9954",
+    "centre_name": "Marist Preschool Pte Ltd",
+    "level": "N2",
+    "fee_min": 1467.89,
+    "fee_max": 2000.0
   },
   {
     "centre_code": "TP0502",
@@ -34853,6 +34874,13 @@
     "fee_max": 1130.0
   },
   {
+    "centre_code": "PT9224",
+    "centre_name": "Oxford Explorers @ Sennett Pte Ltd",
+    "level": "N2",
+    "fee_min": 1540.0,
+    "fee_max": 1850.0
+  },
+  {
     "centre_code": "PT9671",
     "centre_name": "House on the Hill Pte. Ltd.",
     "level": "N2",
@@ -34886,13 +34914,6 @@
     "level": "N2",
     "fee_min": 1580.0,
     "fee_max": 1580.0
-  },
-  {
-    "centre_code": "PT9224",
-    "centre_name": "Oxford Explorers @ Sennett Pte Ltd",
-    "level": "N2",
-    "fee_min": 1540.0,
-    "fee_max": 1850.0
   },
   {
     "centre_code": "PT9315",
@@ -37905,13 +37926,6 @@
     "fee_max": 1000.0
   },
   {
-    "centre_code": "PT9265",
-    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
-    "level": "K1",
-    "fee_min": 800.0,
-    "fee_max": 880.0
-  },
-  {
     "centre_code": "PT9270",
     "centre_name": "Heartyland Pte Ltd",
     "level": "K1",
@@ -38101,6 +38115,13 @@
     "fee_max": 1800.0
   },
   {
+    "centre_code": "PT9373",
+    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
+    "level": "K1",
+    "fee_min": 200.0,
+    "fee_max": 1360.0
+  },
+  {
     "centre_code": "PT9380",
     "centre_name": "Kinderland Preschool @ Loyang Point",
     "level": "K1",
@@ -38255,6 +38276,13 @@
     "fee_max": 2180.0
   },
   {
+    "centre_code": "PT9451",
+    "centre_name": "KIDSCAMPUS JW PTE LTD",
+    "level": "K1",
+    "fee_min": 200.0,
+    "fee_max": 1200.0
+  },
+  {
     "centre_code": "PT9453",
     "centre_name": "MAPLEBEAR ELITE PRESCHOOL PTE LTD",
     "level": "K1",
@@ -38337,6 +38365,13 @@
     "level": "K1",
     "fee_min": 1250.0,
     "fee_max": 1850.0
+  },
+  {
+    "centre_code": "PT9478",
+    "centre_name": "KIDSCAMPUS WEST COAST PTE LTD",
+    "level": "K1",
+    "fee_min": 150.0,
+    "fee_max": 1150.0
   },
   {
     "centre_code": "PT9480",
@@ -40810,6 +40845,13 @@
     "fee_max": 2470.0
   },
   {
+    "centre_code": "PT8707",
+    "centre_name": "The Schoolhouse Alexandra",
+    "level": "K1",
+    "fee_min": 1400.0,
+    "fee_max": 2370.0
+  },
+  {
     "centre_code": "PT8723",
     "centre_name": "RAFFLES HOUSE @ PAYA LEBAR PRIVATE LIMITED",
     "level": "K1",
@@ -41347,13 +41389,6 @@
     "level": "K1",
     "fee_min": 1050.0,
     "fee_max": 1950.0
-  },
-  {
-    "centre_code": "PT9478",
-    "centre_name": "KIDSCAMPUS WEST COAST PTE LTD",
-    "level": "K1",
-    "fee_min": 150.0,
-    "fee_max": 1150.0
   },
   {
     "centre_code": "PT9479",
@@ -42770,13 +42805,6 @@
     "fee_max": 2600.0
   },
   {
-    "centre_code": "PT8707",
-    "centre_name": "The Schoolhouse Alexandra",
-    "level": "K1",
-    "fee_min": 1400.0,
-    "fee_max": 2370.0
-  },
-  {
     "centre_code": "PT8713",
     "centre_name": "NURTURESTARS PTE. LTD.",
     "level": "K1",
@@ -43162,6 +43190,13 @@
     "fee_max": 2470.0
   },
   {
+    "centre_code": "PT9265",
+    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
+    "level": "K1",
+    "fee_min": 800.0,
+    "fee_max": 880.0
+  },
+  {
     "centre_code": "PT9267",
     "centre_name": "MULBERRY LEARNING CENTRE CENTRAL PTE LTD",
     "level": "K1",
@@ -43237,13 +43272,6 @@
     "level": "K1",
     "fee_min": 150.0,
     "fee_max": 1650.0
-  },
-  {
-    "centre_code": "PT9373",
-    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
-    "level": "K1",
-    "fee_min": 200.0,
-    "fee_max": 1360.0
   },
   {
     "centre_code": "PT9374",
@@ -43377,13 +43405,6 @@
     "level": "K1",
     "fee_min": 150.0,
     "fee_max": 1230.0
-  },
-  {
-    "centre_code": "PT9451",
-    "centre_name": "KIDSCAMPUS JW PTE LTD",
-    "level": "K1",
-    "fee_min": 200.0,
-    "fee_max": 1200.0
   },
   {
     "centre_code": "PT9460",
@@ -44966,6 +44987,13 @@
     "level": "K1",
     "fee_min": 650.0,
     "fee_max": 1900.0
+  },
+  {
+    "centre_code": "PT9954",
+    "centre_name": "Marist Preschool Pte Ltd",
+    "level": "K1",
+    "fee_min": 1467.89,
+    "fee_max": 2000.0
   },
   {
     "centre_code": "TP0502",
@@ -49826,13 +49854,6 @@
     "fee_max": 1000.0
   },
   {
-    "centre_code": "PT9265",
-    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
-    "level": "K2",
-    "fee_min": 800.0,
-    "fee_max": 880.0
-  },
-  {
     "centre_code": "PT9270",
     "centre_name": "Heartyland Pte Ltd",
     "level": "K2",
@@ -50015,6 +50036,13 @@
     "fee_max": 1800.0
   },
   {
+    "centre_code": "PT9373",
+    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
+    "level": "K2",
+    "fee_min": 200.0,
+    "fee_max": 1360.0
+  },
+  {
     "centre_code": "PT9380",
     "centre_name": "Kinderland Preschool @ Loyang Point",
     "level": "K2",
@@ -50148,6 +50176,13 @@
     "fee_max": 2180.0
   },
   {
+    "centre_code": "PT9451",
+    "centre_name": "KIDSCAMPUS JW PTE LTD",
+    "level": "K2",
+    "fee_min": 200.0,
+    "fee_max": 1200.0
+  },
+  {
     "centre_code": "PT9453",
     "centre_name": "MAPLEBEAR ELITE PRESCHOOL PTE LTD",
     "level": "K2",
@@ -50223,6 +50258,13 @@
     "level": "K2",
     "fee_min": 1250.0,
     "fee_max": 1850.0
+  },
+  {
+    "centre_code": "PT9478",
+    "centre_name": "KIDSCAMPUS WEST COAST PTE LTD",
+    "level": "K2",
+    "fee_min": 150.0,
+    "fee_max": 1150.0
   },
   {
     "centre_code": "PT9480",
@@ -55139,6 +55181,13 @@
     "fee_max": 2470.0
   },
   {
+    "centre_code": "PT9265",
+    "centre_name": "MY TALENT CHILDCARE CENTRE PTE. LTD.",
+    "level": "K2",
+    "fee_min": 800.0,
+    "fee_max": 880.0
+  },
+  {
     "centre_code": "PT9267",
     "centre_name": "MULBERRY LEARNING CENTRE CENTRAL PTE LTD",
     "level": "K2",
@@ -55207,13 +55256,6 @@
     "level": "K2",
     "fee_min": 150.0,
     "fee_max": 1650.0
-  },
-  {
-    "centre_code": "PT9373",
-    "centre_name": "ALORA CHILDCARE (LENG KEE) PTE LTD",
-    "level": "K2",
-    "fee_min": 200.0,
-    "fee_max": 1360.0
   },
   {
     "centre_code": "PT9375",
@@ -55335,13 +55377,6 @@
     "fee_max": 1230.0
   },
   {
-    "centre_code": "PT9451",
-    "centre_name": "KIDSCAMPUS JW PTE LTD",
-    "level": "K2",
-    "fee_min": 200.0,
-    "fee_max": 1200.0
-  },
-  {
     "centre_code": "PT9452",
     "centre_name": "Small Wonder Preschool Pioneer",
     "level": "K2",
@@ -55382,13 +55417,6 @@
     "level": "K2",
     "fee_min": 1050.0,
     "fee_max": 1950.0
-  },
-  {
-    "centre_code": "PT9478",
-    "centre_name": "KIDSCAMPUS WEST COAST PTE LTD",
-    "level": "K2",
-    "fee_min": 150.0,
-    "fee_max": 1150.0
   },
   {
     "centre_code": "PT9486",
@@ -57139,6 +57167,13 @@
     "level": "K2",
     "fee_min": 120.0,
     "fee_max": 1900.0
+  },
+  {
+    "centre_code": "PT9954",
+    "centre_name": "Marist Preschool Pte Ltd",
+    "level": "K2",
+    "fee_min": 1467.89,
+    "fee_max": 2000.0
   },
   {
     "centre_code": "TP0502",

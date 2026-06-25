@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Long-Term (6–7 Months)
 
-_Updated: 24 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
+_Updated: 25 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
 
 ## Legend
 
@@ -17,37 +17,37 @@ _Updated: 24 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. Ne
 ## Central Region
 
 ### Infant Care (0–18 months)
-_114 of 177 centres projected to have availability by Nov 2026._
+_115 of 177 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
-| PCF Sparkletots Preschool @ Moulmein-Cairnhill Blk 10 (DS) | ANC | ✓ | — | ⚠️ | ✅ | ✅ | 62972135 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| MY FIRST SKOOL | ANC | ✓ | — | ⚠️ | ⚠️ | ⚠️ | 66349989 · [↗](https://www.myfirstskool.com/wel-lifesg) |
-| PCF Sparkletots Preschool @ Toa Payoh East Blk 261A (EY) | ANC | ✓ | — | ❌ | ⚠️ | ⚠️ | 62641961 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF SPARKLETOTS PRESCHOOL @ QUEENSTOWN BLK 78B (CC) | ANC | ✓ | — | ⚠️ | ⚠️ | ⚠️ | 64740931 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF SPARKLETOTS PRESCHOOL @ QUEENSTOWN BLK 53A (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 64751912 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF Sparkletots Preschool @ Potong Pasir Blk 101 (EY) | ANC | ✓ | — | ⚠️ | ⚠️ | ⚠️ | 69729842 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF SPARKLETOTS PRESCHOOL @ ULU PANDAN BLK 15 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 67625650 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF SPARKLETOTS PRESCHOOL @ HENDERSON-DAWSON BLK 59 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 64795402 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF Sparkletots Preschool @ Tanjong Pagar-Tiong Bahru Blk 125 (CC) | ANC | ✓ | — | ❌ | ⚠️ | ⚠️ | 62708485 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF Sparkletots Preschool @ Queenstown Blk 30A (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 60180207 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_201 of 370 centres projected to have availability by Nov 2026._
+_205 of 370 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| PCF Sparkletots Preschool @ Queenstown Blk 3 (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 62720556 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Macpherson Blk 31 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 67467077 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Queenstown Blk 3 (KN) | ANC | ✓ | $364 | ✅ | ✅ | ❌ | 62720556 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | MY WORLD PRESCHOOL LTD | ANC | ✓ | ~~$1,080~~ ≤$800 | ⚠️ | ❌ | ✅ | 62913166 · [↗](https://www.myworld.org.sg) |
 | MY WORLD PRESCHOOL LTD. | ANC | ✓ | ~~$1,080~~ ≤$800 | ⚠️ | ⚠️ | ⚠️ | 62590071 · [↗](https://www.myworld.org.sg) |
-| PCF Sparkletots Preschool @ Marymount Blk 257 (CC) | ANC | ✓ | ~~$1,172~~ ≤$800 | ✅ | ⚠️ | ⚠️ | 64584348 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF Sparkletots Preschool @ Potong Pasir Blk 101 (EY) | ANC | ✓ | ~~$1,172~~ ≤$800 | ⚠️ | ⚠️ | ⚠️ | 69729842 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_196 of 370 centres projected to have availability by Nov 2026._
+_200 of 370 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| PCF Sparkletots Preschool @ Queenstown Blk 3 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 62720556 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Potong Pasir Blk 14 (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 62827433 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Macpherson Blk 31 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 67467077 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Queenstown Blk 3 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ❌ | 62720556 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | MY WORLD PRESCHOOL LTD | ANC | ✓ | ~~$1,080~~ ≤$800 | ⚠️ | ⚠️ | ⚠️ | 62913166 · [↗](https://www.myworld.org.sg) |
 | MY WORLD PRESCHOOL LTD. | ANC | ✓ | ~~$1,080~~ ≤$800 | ❌ | ❌ | ✅ | 62711216 · [↗](https://www.myworld.org.sg) |
 
@@ -70,11 +70,11 @@ _78 of 124 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
-| PCF SPARKLETOTS PRESCHOOL @ FENGSHAN BLK 184 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 62429044 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF SPARKLETOTS PRESCHOOL @ FENGSHAN BLK 115 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 64430230 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF SPARKLETOTS PRESCHOOL @ FENGSHAN BLK 108 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 64432502 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF Sparkletots Preschool @ Tampines West Blk 140 (DS) | ANC | ✓ | — | ✅ | ✅ | ✅ | 67821177 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF Sparkletots Preschool @ Tampines West Blk 151 (EY) | ANC | ✓ | — | ❌ | ⚠️ | ⚠️ | 67856155 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Tampines Central Blk 878 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 67858586 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| Skool4Kidz Preschool | ANC | ✓ | — | ❌ | ⚠️ | ⚠️ | 68536469 · [↗](https://skool4kidz.com.sg/) |
+| PCF Sparkletots Preschool @ Pasir Ris West Blk 650 (EY) | ANC | ✓ | — | ⚠️ | ⚠️ | ⚠️ | 65853071 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF SPARKLETOTS PRESCHOOL @ FENGSHAN BLK 184 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 62429044 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)
@@ -82,23 +82,23 @@ _147 of 261 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| PCF Sparkletots Preschool @ Tampines Central Blk 868A (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 63416820 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Kaki Bukit Blk 519 (KN) | ANC | ✓ | $364 | ✅ | ⚠️ | ⚠️ | 64495242 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Changi Blk 216 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 65840236 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Eunos Blk 616 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 62420636 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Tampines North Blk 483 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 67853919 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Changi Simei Blk 131 (KN) | ANC | ✓ | $364 | ✅ | ⚠️ | ⚠️ | 67825618 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_142 of 263 centres projected to have availability by Nov 2026._
+_143 of 263 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| PCF Sparkletots Preschool @ Tampines Central Blk 868A (KN) | ANC | ✓ | $364 | ✅ | ⚠️ | ⚠️ | 63416820 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF Sparkletots Preschool @ Tampines Central Blk 856 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 67894598 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Kaki Bukit Blk 519 (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 64495242 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Changi Blk 216 (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 65840236 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Eunos Blk 616 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 62420636 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Tampines North Blk 483 (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 67853919 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Changi Simei Blk 131 (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 67825618 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Upcoming New Centres Pipeline
@@ -119,11 +119,11 @@ _98 of 134 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| PCF Sparkletots Preschool @ Nee Soon Central Blk 646 (DS) | ANC | ✓ | — | ✅ | ✅ | ✅ | 62571146 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| PCF Sparkletots Preschool @ Nee Soon Central Blk 723 (CC) | ANC | ✓ | — | ⚠️ | ⚠️ | ⚠️ | 67560735 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | Skool4Kidz Preschool | ANC | ✓ | — | ⚠️ | ⚠️ | ❌ | 62575404 · [↗](https://skool4kidz.com.sg/) |
 | PCF SPARKLETOTS PRESCHOOL @ ADMIRALTY BLK 585 (CC) | ANC | ✓ | — | ⚠️ | ⚠️ | ⚠️ | 64625772 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | MY FIRST SKOOL | ANC | ✓ | — | ⚠️ | ✅ | ✅ | 66349989 · [↗](https://www.myfirstskool.com/yc4-lifesg) |
-| MY FIRST SKOOL | ANC | ✓ | — | ❌ | ⚠️ | ✅ | 66349989 · [↗](https://www.myfirstskool.com/alc-lifesg) |
-| Skool4kidz Preschool | ANC | ✓ | — | ✅ | ✅ | ✅ | 63689244 · [↗](https://skool4kidz.com.sg/) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)
@@ -164,38 +164,38 @@ _New centres starting fresh — register as soon as registration opens to skip e
 ## North-East Region
 
 ### Infant Care (0–18 months)
-_156 of 204 centres projected to have availability by Nov 2026._
+_157 of 204 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| PCF SPARKLETOTS PRESCHOOL @ KEBUN BARU BLK 180 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 65549509 · [↗](https://www.pcf.org.sg/sparkletots/) |
+| Skool4Kidz Preschool | ANC | ✓ | — | ✅ | ✅ | ✅ | 62802272 · [↗](https://skool4kidz.com.sg/) |
+| PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 999 (DS) | ANC | ✓ | — | ✅ | ✅ | ✅ | 69685760 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 68344796 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF SPARKLETOTS PRESCHOOL @ BEDOK RESERVOIR-PUNGGOL BLK 470C (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 63416906 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Bedok Reservoir-Punggol Blk 508 (CC) | ANC | ✓ | — | ❌ | ⚠️ | ❌ | 63869844 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Jalan Kayu Blk 469B (EY) | ANC | ✓ | — | ✅ | ✅ | ✅ | 64436772 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Jalan Kayu Blk 443 (EY) | ANC | ✓ | — | ✅ | ✅ | ✅ | 66366816 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_245 of 325 centres projected to have availability by Nov 2026._
+_246 of 325 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| PCF Sparkletots Preschool @ Serangoon Blk 226 (KN) | ANC | ✓ | $364 | ✅ | ⚠️ | ⚠️ | 62846683 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Sengkang North Blk 292B (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 68755725 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Punggol West Blk 271A (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 67020790 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Sengkang East Blk 143 (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 63889486 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Serangoon Blk 226 (KN) | ANC | ✓ | $364 | ✅ | ⚠️ | ⚠️ | 62846683 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | MY WORLD PRESCHOOL LTD | ANC | ✓ | ~~$1,080~~ ≤$800 | ⚠️ | ✅ | ✅ | 66773496 · [↗](https://www.myworld.org.sg) |
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_227 of 326 centres projected to have availability by Nov 2026._
+_229 of 326 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| PCF Sparkletots Preschool @ Serangoon Blk 226 (KN) | ANC | ✓ | $364 | ✅ | ⚠️ | ⚠️ | 62846683 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Sengkang North Blk 292B (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 68755725 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Punggol West Blk 271A (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | ⚠️ | 67020790 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Sengkang East Blk 143 (KN) | ANC | ✓ | $364 | ✅ | ✅ | ✅ | 63889486 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF Sparkletots Preschool @ Serangoon Blk 226 (KN) | ANC | ✓ | $364 | ✅ | ⚠️ | ⚠️ | 62846683 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | MY WORLD PRESCHOOL LTD | ANC | ✓ | ~~$1,080~~ ≤$800 | ✅ | ✅ | ✅ | 66773496 · [↗](https://www.myworld.org.sg) |
 
 
@@ -214,7 +214,7 @@ _New centres starting fresh — register as soon as registration opens to skip e
 ## West Region
 
 ### Infant Care (0–18 months)
-_125 of 187 centres projected to have availability by Nov 2026._
+_128 of 187 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -226,7 +226,7 @@ _125 of 187 centres projected to have availability by Nov 2026._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_207 of 342 centres projected to have availability by Nov 2026._
+_210 of 342 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -238,7 +238,7 @@ _207 of 342 centres projected to have availability by Nov 2026._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_202 of 339 centres projected to have availability by Nov 2026._
+_205 of 339 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -276,7 +276,7 @@ _32 of 62 centres projected to have availability by Nov 2026._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_110 of 206 centres projected to have availability by Nov 2026._
+_111 of 206 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -288,7 +288,7 @@ _110 of 206 centres projected to have availability by Nov 2026._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_108 of 207 centres projected to have availability by Nov 2026._
+_109 of 207 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
