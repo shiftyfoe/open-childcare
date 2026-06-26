@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Short-Term (1–3 Months)
 
-_Updated: 25 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
+_Updated: 26 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
 
 ## Legend
 
@@ -18,7 +18,7 @@ _Updated: 25 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. To
 ## Central Region
 
 ### Infant Care (0–18 months)
-_111 of 177 centres with availability now._
+_110 of 177 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -116,7 +116,7 @@ _Brand-new centres with no existing waitlist — register now to be first in que
 ## North Region
 
 ### Infant Care (0–18 months)
-_83 of 134 centres with availability now._
+_82 of 133 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -168,11 +168,11 @@ _154 of 204 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
+| My First Skool | ANC | ✓ | — | ⚠️ | ⚠️ | 🟡 Filling fast | 66349989 · [↗](https://www.myfirstskool.com/rvc03-lifesg) |
 | PCF SPARKLETOTS PRESCHOOL @ KEBUN BARU BLK 180 (CC) | ANC | ✓ | — | ✅ | ✅ | 🟢 Available | 65549509 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | Skool4Kidz Preschool | ANC | ✓ | — | ✅ | ✅ | 🟢 Available | 62802272 · [↗](https://skool4kidz.com.sg/) |
 | PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 999 (DS) | ANC | ✓ | — | ✅ | ⚠️ | 🟢 Available | 69685760 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC) | ANC | ✓ | — | ✅ | ✅ | 🟢 Available | 68344796 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF SPARKLETOTS PRESCHOOL @ BEDOK RESERVOIR-PUNGGOL BLK 470C (CC) | ANC | ✓ | — | ✅ | ✅ | 🟢 Available | 63416906 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)

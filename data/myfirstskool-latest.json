@@ -693,7 +693,7 @@
     "address": "Blk 229 Ang Mo Kio Ave 3 560229",
     "postal_code": "560229",
     "phone": "66349989",
-    "principal": null,
+    "principal": "Arthy Rajendran",
     "programmes": [
       "Childcare"
     ],
@@ -727,12 +727,12 @@
     "address": "80 Marine Parade Road Parkway Parade, #04-08/09 449269",
     "postal_code": "449269",
     "phone": "66349989",
-    "principal": null,
+    "principal": "Sabirah Binte Mohamed Idris",
     "programmes": [
       "Childcare"
     ],
     "operating_hours": "Mon - Fri: 7:00am to 7:00pm",
-    "spark_accredited": false,
+    "spark_accredited": true,
     "year_established": null,
     "mother_tongue": [
       "Chinese Language Curriculum"
@@ -1933,7 +1933,7 @@
     "address": "Block 135 Simei Street 1, #01-54 520135",
     "postal_code": "520135",
     "phone": "66349989",
-    "principal": null,
+    "principal": "Nurhamizah Salehudin",
     "programmes": [
       "Infant Care",
       "Childcare"

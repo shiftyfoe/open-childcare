@@ -10563,13 +10563,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "PW0110",
-    "centre_name": "Little Olive Tree",
-    "level": "PG",
-    "fee_min": 490.0,
-    "fee_max": 1500.0
-  },
-  {
     "centre_code": "PW0120",
     "centre_name": "Little Olive Tree",
     "level": "PG",
@@ -10599,6 +10592,13 @@
   },
   {
     "centre_code": "PW0060",
+    "centre_name": "Little Olive Tree",
+    "level": "PG",
+    "fee_min": 490.0,
+    "fee_max": 1500.0
+  },
+  {
+    "centre_code": "PW0110",
     "centre_name": "Little Olive Tree",
     "level": "PG",
     "fee_min": 490.0,
@@ -15498,13 +15498,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0054",
-    "centre_name": "PCF Sparkletots Preschool @ Kembangan Blk 412 (CC)",
-    "level": "N1",
-    "fee_min": 443.96,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0056",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ FENGSHAN BLK 108 (CC)",
     "level": "N1",
@@ -17630,6 +17623,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ JURONG CENTRAL BLK 404 (CC)",
     "level": "N1",
     "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0054",
+    "centre_name": "PCF Sparkletots Preschool @ Kembangan Blk 412 (CC)",
+    "level": "N1",
+    "fee_min": 443.96,
     "fee_max": 1172.0
   },
   {
@@ -22750,13 +22750,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "PW0110",
-    "centre_name": "Little Olive Tree",
-    "level": "N1",
-    "fee_min": 490.0,
-    "fee_max": 1500.0
-  },
-  {
     "centre_code": "PW0120",
     "centre_name": "Little Olive Tree",
     "level": "N1",
@@ -22800,6 +22793,13 @@
   },
   {
     "centre_code": "PW0020",
+    "centre_name": "Little Olive Tree",
+    "level": "N1",
+    "fee_min": 490.0,
+    "fee_max": 1500.0
+  },
+  {
+    "centre_code": "PW0110",
     "centre_name": "Little Olive Tree",
     "level": "N1",
     "fee_min": 490.0,
@@ -35007,13 +35007,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "PW0110",
-    "centre_name": "Little Olive Tree",
-    "level": "N2",
-    "fee_min": 490.0,
-    "fee_max": 1500.0
-  },
-  {
     "centre_code": "PW0120",
     "centre_name": "Little Olive Tree",
     "level": "N2",
@@ -35040,6 +35033,13 @@
     "level": "N2",
     "fee_min": 720.0,
     "fee_max": 1900.0
+  },
+  {
+    "centre_code": "PW0110",
+    "centre_name": "Little Olive Tree",
+    "level": "N2",
+    "fee_min": 490.0,
+    "fee_max": 1500.0
   },
   {
     "centre_code": "PW0121",
@@ -47201,13 +47201,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "PW0110",
-    "centre_name": "Little Olive Tree",
-    "level": "K1",
-    "fee_min": 490.0,
-    "fee_max": 1500.0
-  },
-  {
     "centre_code": "PW0120",
     "centre_name": "Little Olive Tree",
     "level": "K1",
@@ -47244,6 +47237,13 @@
   },
   {
     "centre_code": "PW0090",
+    "centre_name": "Little Olive Tree",
+    "level": "K1",
+    "fee_min": 490.0,
+    "fee_max": 1500.0
+  },
+  {
+    "centre_code": "PW0110",
     "centre_name": "Little Olive Tree",
     "level": "K1",
     "fee_min": 490.0,
