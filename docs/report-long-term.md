@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Long-Term (6–7 Months)
 
-_Updated: 26 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
+_Updated: 27 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
 
 ## Legend
 
@@ -29,7 +29,7 @@ _115 of 177 centres projected to have availability by Nov 2026._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_205 of 370 centres projected to have availability by Nov 2026._
+_207 of 370 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -41,7 +41,7 @@ _205 of 370 centres projected to have availability by Nov 2026._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_200 of 370 centres projected to have availability by Nov 2026._
+_202 of 370 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -115,7 +115,7 @@ _New centres starting fresh — register as soon as registration opens to skip e
 ## North Region
 
 ### Infant Care (0–18 months)
-_98 of 133 centres projected to have availability by Nov 2026._
+_97 of 133 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -168,15 +168,15 @@ _157 of 204 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| MY FIRST SKOOL | ANC | ✓ | — | ❌ | ⚠️ | ⚠️ | 66349989 · [↗](https://www.myfirstskool.com/pc4-lifesg) |
 | My First Skool | ANC | ✓ | — | ⚠️ | ✅ | ✅ | 66349989 · [↗](https://www.myfirstskool.com/rvc03-lifesg) |
 | PCF SPARKLETOTS PRESCHOOL @ KEBUN BARU BLK 180 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 65549509 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | Skool4Kidz Preschool | ANC | ✓ | — | ✅ | ✅ | ✅ | 62802272 · [↗](https://skool4kidz.com.sg/) |
 | PCF Sparkletots Preschool @ Buangkok-Fernvale South Blk 999 (DS) | ANC | ✓ | — | ✅ | ✅ | ✅ | 69685760 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 210 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 68344796 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_246 of 325 centres projected to have availability by Nov 2026._
+_247 of 325 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -276,7 +276,7 @@ _32 of 62 centres projected to have availability by Nov 2026._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_111 of 206 centres projected to have availability by Nov 2026._
+_112 of 206 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -288,7 +288,7 @@ _111 of 206 centres projected to have availability by Nov 2026._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_109 of 207 centres projected to have availability by Nov 2026._
+_110 of 207 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|

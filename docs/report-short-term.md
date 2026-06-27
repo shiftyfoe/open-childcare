@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Short-Term (1–3 Months)
 
-_Updated: 26 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
+_Updated: 27 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
 
 ## Legend
 
@@ -262,8 +262,8 @@ _38 of 62 centres with availability now._
 | MY FIRST SKOOL | ANC | ✓ | — | ✅ | ✅ | 🟢 Available | 66349989 · [↗](https://www.myfirstskool.com/smc-lifesg) |
 | MY FIRST SKOOL | ANC | ✓ | — | ⚠️ | ⚠️ | 🟡 Filling fast | 66349989 · [↗](https://www.myfirstskool.com/csc-lifesg) |
 | E-Bridge Pre-School Pte Ltd | ANC | ✓ | — | ⚠️ | ⚠️ | 🟡 Filling fast | 68029637 · [↗](https://info.e-bridge.edu.sg/registration-of-interest) |
-| Tinkerland @ Yunnan | PRT | ✓ | — | ✅ | ✅ | 🟢 Available | 67953158 · [↗](https://www.sdmchildcare.sg) |
 | MY WORLD PRESCHOOL LTD. | ANC |  | — | ⚠️ | ⚠️ | 🟡 Filling fast | 66129024 · [↗](https://www.myworld.org.sg) |
+| Tinkerland @ Yunnan | PRT | ✓ | — | ✅ | ✅ | 🟢 Available | 67953158 · [↗](https://www.sdmchildcare.sg) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)
