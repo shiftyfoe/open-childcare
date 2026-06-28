@@ -18,7 +18,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        scraper: [ecda_data_gov, ecda_upcoming, myfirstskool, pcf_sparkletots, my_world_preschool, ebridge, skool4kidz, moe_kindergartens]
+        scraper: [ecda_data_gov, ecda_upcoming, myfirstskool, pcf_sparkletots, my_world_preschool, ebridge, skool4kidz, moe_kindergartens, learning_vision, star_learners]
 
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
