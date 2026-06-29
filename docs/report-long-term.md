@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Long-Term (6–7 Months)
 
-_Updated: 28 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
+_Updated: 29 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
 
 ## Legend
 
@@ -29,7 +29,7 @@ _115 of 177 centres projected to have availability by Nov 2026._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_207 of 370 centres projected to have availability by Nov 2026._
+_207 of 369 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -41,7 +41,7 @@ _207 of 370 centres projected to have availability by Nov 2026._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_202 of 370 centres projected to have availability by Nov 2026._
+_202 of 369 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -214,7 +214,7 @@ _New centres starting fresh — register as soon as registration opens to skip e
 ## West Region
 
 ### Infant Care (0–18 months)
-_128 of 187 centres projected to have availability by Nov 2026._
+_129 of 187 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -226,7 +226,7 @@ _128 of 187 centres projected to have availability by Nov 2026._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_212 of 342 centres projected to have availability by Nov 2026._
+_213 of 342 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -238,7 +238,7 @@ _212 of 342 centres projected to have availability by Nov 2026._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_207 of 339 centres projected to have availability by Nov 2026._
+_208 of 339 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|

@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Short-Term (1–3 Months)
 
-_Updated: 28 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
+_Updated: 29 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
 
 ## Legend
 
@@ -30,7 +30,7 @@ _110 of 177 centres with availability now._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_252 of 370 centres with availability now._
+_252 of 369 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -42,7 +42,7 @@ _252 of 370 centres with availability now._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_253 of 370 centres with availability now._
+_253 of 369 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|

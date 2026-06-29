@@ -1,7 +1,27 @@
 [
   {
+    "url": "https://www.pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-mountbatten-blk-22-cc/",
+    "name": "PCF Sparkletots Preschool  @Mountbatten Blk 22 (CC)",
+    "postal_code": "390022",
+    "phone": "+6562444600",
+    "email": "MB.CC.22@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://www.pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-tengah-blk-244-ey/",
+    "name": "PCF Sparkletots Preschool  @Tengah Blk 244 (EY)",
+    "postal_code": "690244",
+    "phone": "+6569003419",
+    "email": "TA.EY.244@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Mastura Binti Mohamed",
+    "programme_type": "EY"
+  },
+  {
     "url": "https://www.pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-coast-blk-11-cc/",
-    "name": "PCF Sparkletots Preschool  @Punggol Coast Blk 11 (CC)",
+    "name": "PCF Sparkletots Preschool  @Punggol Regional Sports Centre (Punggol Coast) (CC)",
     "postal_code": "828656",
     "phone": "+6562444600",
     "email": "PC.CC.11@pcf.org.sg",
@@ -28,16 +48,6 @@
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
     "principal": "Simarjeet Kaur",
     "programme_type": "EY"
-  },
-  {
-    "url": "https://www.pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-mountbatten-blk-22-cc/",
-    "name": "PCF Sparkletots Preschool  @Mountbatten Blk 22 (CC)",
-    "postal_code": "390022",
-    "phone": "+6562444600",
-    "email": "MB.CC.22@pcf.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
   },
   {
     "url": "https://www.pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-tampines-boulevard-blk-634a-cc/",
@@ -176,7 +186,7 @@
     "phone": "+6562729757",
     "email": "RM.DS.18@pcf.org.sg",
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Kelin Koh",
+    "principal": "Norzaidah Binti Baski",
     "programme_type": "DS"
   },
   {
@@ -606,7 +616,7 @@
     "phone": "+6567799108",
     "email": "BT.CC.305@pcf.org.sg",
     "operating_hours": null,
-    "principal": null,
+    "principal": "Sumitra",
     "programme_type": "CC"
   },
   {
@@ -728,16 +738,6 @@
     "operating_hours": null,
     "principal": null,
     "programme_type": "CC"
-  },
-  {
-    "url": "https://www.pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-tengah-blk-244-ey/",
-    "name": "PCF Sparkletots Preschool  @Tengah Blk 244 (EY)",
-    "postal_code": "690244",
-    "phone": "+6562444600",
-    "email": "TA.EY.244@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Mastura Binti Mohamed",
-    "programme_type": "EY"
   },
   {
     "url": "https://www.pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-tengah-blk-135-cc/",

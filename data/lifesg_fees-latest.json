@@ -7427,13 +7427,6 @@
     "fee_max": 800.0
   },
   {
-    "centre_code": "RC1798",
-    "centre_name": "Newton Kindergarten",
-    "level": "PG",
-    "fee_min": 656.67,
-    "fee_max": 656.67
-  },
-  {
     "centre_code": "RC1829",
     "centre_name": "BARKER ROAD METHODIST CHURCH LITTLE LIGHTS PRESCHOOL - BARKER",
     "level": "PG",
@@ -19563,13 +19556,6 @@
     "level": "N1",
     "fee_min": 600.0,
     "fee_max": 800.0
-  },
-  {
-    "centre_code": "RC1798",
-    "centre_name": "Newton Kindergarten",
-    "level": "N1",
-    "fee_min": 606.67,
-    "fee_max": 1001.67
   },
   {
     "centre_code": "RC1801",
@@ -31729,13 +31715,6 @@
     "level": "N2",
     "fee_min": 600.0,
     "fee_max": 800.0
-  },
-  {
-    "centre_code": "RC1798",
-    "centre_name": "Newton Kindergarten",
-    "level": "N2",
-    "fee_min": 543.34,
-    "fee_max": 1204.0
   },
   {
     "centre_code": "RC1801",
@@ -44023,13 +44002,6 @@
     "fee_max": 1334.81
   },
   {
-    "centre_code": "RC1798",
-    "centre_name": "Newton Kindergarten",
-    "level": "K1",
-    "fee_min": 543.34,
-    "fee_max": 1204.0
-  },
-  {
     "centre_code": "RC1801",
     "centre_name": "Al-Mukminin Mosque Kindergarten",
     "level": "K1",
@@ -56068,13 +56040,6 @@
     "level": "K2",
     "fee_min": 978.0,
     "fee_max": 1265.0
-  },
-  {
-    "centre_code": "RC1798",
-    "centre_name": "Newton Kindergarten",
-    "level": "K2",
-    "fee_min": 543.34,
-    "fee_max": 1204.0
   },
   {
     "centre_code": "RC1801",
