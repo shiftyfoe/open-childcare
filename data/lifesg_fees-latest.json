@@ -5005,6 +5005,13 @@
     "fee_max": 858.9
   },
   {
+    "centre_code": "PT9248",
+    "centre_name": "Brighton Montessori River Valley",
+    "level": "PG",
+    "fee_min": 1830.0,
+    "fee_max": 2320.0
+  },
+  {
     "centre_code": "PT9259",
     "centre_name": "MindChamps PreSchool @ Punggol Digital District",
     "level": "PG",
@@ -6336,7 +6343,7 @@
   },
   {
     "centre_code": "PT8794",
-    "centre_name": "Agape Little Uni Clementi",
+    "centre_name": "AGAPE LITTLE UNI CLEMENTI",
     "level": "PG",
     "fee_min": 650.0,
     "fee_max": 1575.0
@@ -6620,13 +6627,6 @@
     "level": "PG",
     "fee_min": 490.0,
     "fee_max": 858.0
-  },
-  {
-    "centre_code": "PT9248",
-    "centre_name": "Brighton Montessori River Valley",
-    "level": "PG",
-    "fee_min": 1830.0,
-    "fee_max": 2320.0
   },
   {
     "centre_code": "PT9251",
@@ -9373,6 +9373,13 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "PG",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
+  },
+  {
     "centre_code": "SK0036",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "PG",
@@ -9863,6 +9870,13 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0006",
+    "centre_name": "Skool4Kidz Preschool",
+    "level": "PG",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
     "centre_code": "SK0009",
     "centre_name": "Skool4kidz Preschool",
     "level": "PG",
@@ -9872,6 +9886,13 @@
   {
     "centre_code": "SK0011",
     "centre_name": "Skool4Kidz Preschool",
+    "level": "PG",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0013",
+    "centre_name": "SKool4Kidz Preschool",
     "level": "PG",
     "fee_min": 460.0,
     "fee_max": 1175.0
@@ -10108,13 +10129,6 @@
     "fee_max": 1550.0
   },
   {
-    "centre_code": "PT9679",
-    "centre_name": "Morning Glory Preschool",
-    "level": "PG",
-    "fee_min": 550.0,
-    "fee_max": 550.0
-  },
-  {
     "centre_code": "PT9682",
     "centre_name": "SUNFLOWER PRESCHOOL @ WEST ROCK PTE LTD",
     "level": "PG",
@@ -10199,20 +10213,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "SK0006",
-    "centre_name": "Skool4Kidz Preschool",
-    "level": "PG",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0013",
-    "centre_name": "SKool4Kidz Preschool",
-    "level": "PG",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
     "centre_code": "SK0022",
     "centre_name": "Skool4Kidz Preschool",
     "level": "PG",
@@ -10232,13 +10232,6 @@
     "level": "PG",
     "fee_min": 460.0,
     "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "PG",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",
@@ -17010,6 +17003,13 @@
     "fee_max": 858.9
   },
   {
+    "centre_code": "PT9248",
+    "centre_name": "Brighton Montessori River Valley",
+    "level": "N1",
+    "fee_min": 1830.0,
+    "fee_max": 2320.0
+  },
+  {
     "centre_code": "PT9259",
     "centre_name": "MindChamps PreSchool @ Punggol Digital District",
     "level": "N1",
@@ -17372,6 +17372,13 @@
     "level": "N1",
     "fee_min": 1800.0,
     "fee_max": 2000.0
+  },
+  {
+    "centre_code": "PT9861",
+    "centre_name": "Bethesda (Bedok-Tampines) Kindergarten Pte Ltd",
+    "level": "N1",
+    "fee_min": 400.0,
+    "fee_max": 400.0
   },
   {
     "centre_code": "PT9869",
@@ -18488,7 +18495,7 @@
   },
   {
     "centre_code": "PT8794",
-    "centre_name": "Agape Little Uni Clementi",
+    "centre_name": "AGAPE LITTLE UNI CLEMENTI",
     "level": "N1",
     "fee_min": 650.0,
     "fee_max": 1575.0
@@ -18751,13 +18758,6 @@
     "level": "N1",
     "fee_min": 490.0,
     "fee_max": 858.0
-  },
-  {
-    "centre_code": "PT9248",
-    "centre_name": "Brighton Montessori River Valley",
-    "level": "N1",
-    "fee_min": 1830.0,
-    "fee_max": 2320.0
   },
   {
     "centre_code": "PT9251",
@@ -19346,13 +19346,6 @@
     "level": "N1",
     "fee_min": 2600.0,
     "fee_max": 3000.0
-  },
-  {
-    "centre_code": "PT9861",
-    "centre_name": "Bethesda (Bedok-Tampines) Kindergarten Pte Ltd",
-    "level": "N1",
-    "fee_min": 400.0,
-    "fee_max": 400.0
   },
   {
     "centre_code": "PT9864",
@@ -21574,6 +21567,13 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "N1",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
+  },
+  {
     "centre_code": "SK0036",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "N1",
@@ -22106,8 +22106,22 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0006",
+    "centre_name": "Skool4Kidz Preschool",
+    "level": "N1",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
     "centre_code": "SK0009",
     "centre_name": "Skool4kidz Preschool",
+    "level": "N1",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0013",
+    "centre_name": "SKool4Kidz Preschool",
     "level": "N1",
     "fee_min": 460.0,
     "fee_max": 1175.0
@@ -22344,13 +22358,6 @@
     "fee_max": 1483.0
   },
   {
-    "centre_code": "PT9679",
-    "centre_name": "Morning Glory Preschool",
-    "level": "N1",
-    "fee_min": 550.0,
-    "fee_max": 550.0
-  },
-  {
     "centre_code": "PT9752",
     "centre_name": "CHILDREN'S COVE PRESCHOOL PTE. LTD.",
     "level": "N1",
@@ -22400,20 +22407,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "SK0006",
-    "centre_name": "Skool4Kidz Preschool",
-    "level": "N1",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0013",
-    "centre_name": "SKool4Kidz Preschool",
-    "level": "N1",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
     "centre_code": "SK0022",
     "centre_name": "Skool4Kidz Preschool",
     "level": "N1",
@@ -22433,13 +22426,6 @@
     "level": "N1",
     "fee_min": 460.0,
     "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "N1",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",
@@ -26460,13 +26446,6 @@
     "fee_max": 740.0
   },
   {
-    "centre_code": "PT9734",
-    "centre_name": "MapleBear Playworks Pte.Ltd.",
-    "level": "N2",
-    "fee_min": 150.0,
-    "fee_max": 1780.0
-  },
-  {
     "centre_code": "PT9743",
     "centre_name": "MapleBear Early Development Pte Ltd",
     "level": "N2",
@@ -29001,6 +28980,13 @@
     "fee_max": 858.9
   },
   {
+    "centre_code": "PT9248",
+    "centre_name": "Brighton Montessori River Valley",
+    "level": "N2",
+    "fee_min": 1830.0,
+    "fee_max": 2320.0
+  },
+  {
     "centre_code": "PT9259",
     "centre_name": "MindChamps PreSchool @ Punggol Digital District",
     "level": "N2",
@@ -29419,6 +29405,13 @@
     "level": "N2",
     "fee_min": 1098.0,
     "fee_max": 1199.0
+  },
+  {
+    "centre_code": "PT9861",
+    "centre_name": "Bethesda (Bedok-Tampines) Kindergarten Pte Ltd",
+    "level": "N2",
+    "fee_min": 400.0,
+    "fee_max": 400.0
   },
   {
     "centre_code": "PT9866",
@@ -30612,7 +30605,7 @@
   },
   {
     "centre_code": "PT8794",
-    "centre_name": "Agape Little Uni Clementi",
+    "centre_name": "AGAPE LITTLE UNI CLEMENTI",
     "level": "N2",
     "fee_min": 650.0,
     "fee_max": 1575.0
@@ -30896,13 +30889,6 @@
     "level": "N2",
     "fee_min": 490.0,
     "fee_max": 858.0
-  },
-  {
-    "centre_code": "PT9248",
-    "centre_name": "Brighton Montessori River Valley",
-    "level": "N2",
-    "fee_min": 1830.0,
-    "fee_max": 2320.0
   },
   {
     "centre_code": "PT9251",
@@ -31339,6 +31325,13 @@
     "fee_max": 1950.0
   },
   {
+    "centre_code": "PT9734",
+    "centre_name": "MapleBear Playworks Pte.Ltd.",
+    "level": "N2",
+    "fee_min": 150.0,
+    "fee_max": 1780.0
+  },
+  {
     "centre_code": "PT9736",
     "centre_name": "CHATSWORTH PRESCHOOL",
     "level": "N2",
@@ -31498,13 +31491,6 @@
     "level": "N2",
     "fee_min": 2600.0,
     "fee_max": 3000.0
-  },
-  {
-    "centre_code": "PT9861",
-    "centre_name": "Bethesda (Bedok-Tampines) Kindergarten Pte Ltd",
-    "level": "N2",
-    "fee_min": 400.0,
-    "fee_max": 400.0
   },
   {
     "centre_code": "PT9864",
@@ -33824,6 +33810,13 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "N2",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
+  },
+  {
     "centre_code": "SK0036",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "N2",
@@ -34321,6 +34314,20 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0005",
+    "centre_name": "Skool4Kidz Preschool",
+    "level": "N2",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0006",
+    "centre_name": "Skool4Kidz Preschool",
+    "level": "N2",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
     "centre_code": "SK0009",
     "centre_name": "Skool4kidz Preschool",
     "level": "N2",
@@ -34337,6 +34344,13 @@
   {
     "centre_code": "SK0011",
     "centre_name": "Skool4Kidz Preschool",
+    "level": "N2",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0013",
+    "centre_name": "SKool4Kidz Preschool",
     "level": "N2",
     "fee_min": 460.0,
     "fee_max": 1175.0
@@ -34566,13 +34580,6 @@
     "fee_max": 1483.0
   },
   {
-    "centre_code": "PT9679",
-    "centre_name": "Morning Glory Preschool",
-    "level": "N2",
-    "fee_min": 550.0,
-    "fee_max": 550.0
-  },
-  {
     "centre_code": "PT9752",
     "centre_name": "CHILDREN'S COVE PRESCHOOL PTE. LTD.",
     "level": "N2",
@@ -34622,27 +34629,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "SK0005",
-    "centre_name": "Skool4Kidz Preschool",
-    "level": "N2",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0006",
-    "centre_name": "Skool4Kidz Preschool",
-    "level": "N2",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0013",
-    "centre_name": "SKool4Kidz Preschool",
-    "level": "N2",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
     "centre_code": "SK0022",
     "centre_name": "Skool4Kidz Preschool",
     "level": "N2",
@@ -34662,13 +34648,6 @@
     "level": "N2",
     "fee_min": 460.0,
     "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "N2",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",
@@ -41181,6 +41160,13 @@
     "fee_max": 858.9
   },
   {
+    "centre_code": "PT9248",
+    "centre_name": "Brighton Montessori River Valley",
+    "level": "K1",
+    "fee_min": 1830.0,
+    "fee_max": 2320.0
+  },
+  {
     "centre_code": "PT9251",
     "centre_name": "MAPLE BEAR PRESCHOOL PTE. LTD.",
     "level": "K1",
@@ -41634,6 +41620,13 @@
     "level": "K1",
     "fee_min": 2600.0,
     "fee_max": 3000.0
+  },
+  {
+    "centre_code": "PT9861",
+    "centre_name": "Bethesda (Bedok-Tampines) Kindergarten Pte Ltd",
+    "level": "K1",
+    "fee_min": 450.0,
+    "fee_max": 450.0
   },
   {
     "centre_code": "PT9880",
@@ -42855,7 +42848,7 @@
   },
   {
     "centre_code": "PT8794",
-    "centre_name": "Agape Little Uni Clementi",
+    "centre_name": "AGAPE LITTLE UNI CLEMENTI",
     "level": "K1",
     "fee_min": 650.0,
     "fee_max": 1575.0
@@ -43139,13 +43132,6 @@
     "level": "K1",
     "fee_min": 490.0,
     "fee_max": 858.0
-  },
-  {
-    "centre_code": "PT9248",
-    "centre_name": "Brighton Montessori River Valley",
-    "level": "K1",
-    "fee_min": 1830.0,
-    "fee_max": 2320.0
   },
   {
     "centre_code": "PT9255",
@@ -43776,13 +43762,6 @@
     "level": "K1",
     "fee_min": 750.0,
     "fee_max": 1800.0
-  },
-  {
-    "centre_code": "PT9861",
-    "centre_name": "Bethesda (Bedok-Tampines) Kindergarten Pte Ltd",
-    "level": "K1",
-    "fee_min": 450.0,
-    "fee_max": 450.0
   },
   {
     "centre_code": "PT9864",
@@ -46018,6 +45997,13 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "K1",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
+  },
+  {
     "centre_code": "SK0036",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "K1",
@@ -46445,6 +46431,20 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0005",
+    "centre_name": "Skool4Kidz Preschool",
+    "level": "K1",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0006",
+    "centre_name": "Skool4Kidz Preschool",
+    "level": "K1",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
     "centre_code": "SK0009",
     "centre_name": "Skool4kidz Preschool",
     "level": "K1",
@@ -46454,6 +46454,13 @@
   {
     "centre_code": "SK0012",
     "centre_name": "Skool4Kidz Preschool",
+    "level": "K1",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0013",
+    "centre_name": "SKool4Kidz Preschool",
     "level": "K1",
     "fee_min": 460.0,
     "fee_max": 1175.0
@@ -46732,13 +46739,6 @@
     "fee_max": 1483.0
   },
   {
-    "centre_code": "PT9679",
-    "centre_name": "Morning Glory Preschool",
-    "level": "K1",
-    "fee_min": 550.0,
-    "fee_max": 550.0
-  },
-  {
     "centre_code": "PT9752",
     "centre_name": "CHILDREN'S COVE PRESCHOOL PTE. LTD.",
     "level": "K1",
@@ -46795,27 +46795,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "SK0005",
-    "centre_name": "Skool4Kidz Preschool",
-    "level": "K1",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0006",
-    "centre_name": "Skool4Kidz Preschool",
-    "level": "K1",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0013",
-    "centre_name": "SKool4Kidz Preschool",
-    "level": "K1",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
     "centre_code": "SK0022",
     "centre_name": "Skool4Kidz Preschool",
     "level": "K1",
@@ -46835,13 +46814,6 @@
     "level": "K1",
     "fee_min": 460.0,
     "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "K1",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",
@@ -48942,6 +48914,13 @@
     "level": "K2",
     "fee_min": 150.0,
     "fee_max": 1630.0
+  },
+  {
+    "centre_code": "PT8501",
+    "centre_name": "IMAN CHILDCARE (SIMEI) PTE. LTD.",
+    "level": "K2",
+    "fee_min": 40.0,
+    "fee_max": 1050.0
   },
   {
     "centre_code": "PT8509",
@@ -53004,6 +52983,13 @@
     "fee_max": 1758.49
   },
   {
+    "centre_code": "PT9248",
+    "centre_name": "Brighton Montessori River Valley",
+    "level": "K2",
+    "fee_min": 1830.0,
+    "fee_max": 2320.0
+  },
+  {
     "centre_code": "PT9280",
     "centre_name": "MAPLEBEAR KIDS' KINGDOM PTE. LTD.",
     "level": "K2",
@@ -53457,6 +53443,13 @@
     "level": "K2",
     "fee_min": 650.0,
     "fee_max": 869.0
+  },
+  {
+    "centre_code": "PT9861",
+    "centre_name": "Bethesda (Bedok-Tampines) Kindergarten Pte Ltd",
+    "level": "K2",
+    "fee_min": 450.0,
+    "fee_max": 450.0
   },
   {
     "centre_code": "PT9880",
@@ -54579,13 +54572,6 @@
     "fee_max": 1200.0
   },
   {
-    "centre_code": "PT8501",
-    "centre_name": "IMAN CHILDCARE (SIMEI) PTE. LTD.",
-    "level": "K2",
-    "fee_min": 40.0,
-    "fee_max": 1050.0
-  },
-  {
     "centre_code": "PT8508",
     "centre_name": "THE LITTLE SKOOL-HOUSE INTERNATIONAL PTE LTD",
     "level": "K2",
@@ -54748,7 +54734,7 @@
   },
   {
     "centre_code": "PT8794",
-    "centre_name": "Agape Little Uni Clementi",
+    "centre_name": "AGAPE LITTLE UNI CLEMENTI",
     "level": "K2",
     "fee_min": 650.0,
     "fee_max": 1575.0
@@ -55116,13 +55102,6 @@
     "level": "K2",
     "fee_min": 490.0,
     "fee_max": 858.0
-  },
-  {
-    "centre_code": "PT9248",
-    "centre_name": "Brighton Montessori River Valley",
-    "level": "K2",
-    "fee_min": 1830.0,
-    "fee_max": 2320.0
   },
   {
     "centre_code": "PT9251",
@@ -55816,13 +55795,6 @@
     "level": "K2",
     "fee_min": 2270.0,
     "fee_max": 2470.0
-  },
-  {
-    "centre_code": "PT9861",
-    "centre_name": "Bethesda (Bedok-Tampines) Kindergarten Pte Ltd",
-    "level": "K2",
-    "fee_min": 450.0,
-    "fee_max": 450.0
   },
   {
     "centre_code": "PT9865",
@@ -58114,6 +58086,13 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0034",
+    "centre_name": "SKOOL4KIDZ PRESCHOOL",
+    "level": "K2",
+    "fee_min": 460.0,
+    "fee_max": 1079.63
+  },
+  {
     "centre_code": "SK0036",
     "centre_name": "SKOOL4KIDZ PRESCHOOL",
     "level": "K2",
@@ -58583,6 +58562,20 @@
     "fee_max": 1175.0
   },
   {
+    "centre_code": "SK0005",
+    "centre_name": "Skool4Kidz Preschool",
+    "level": "K2",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0006",
+    "centre_name": "Skool4Kidz Preschool",
+    "level": "K2",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
     "centre_code": "SK0009",
     "centre_name": "Skool4kidz Preschool",
     "level": "K2",
@@ -58606,6 +58599,13 @@
   {
     "centre_code": "SK0012",
     "centre_name": "Skool4Kidz Preschool",
+    "level": "K2",
+    "fee_min": 460.0,
+    "fee_max": 1175.0
+  },
+  {
+    "centre_code": "SK0013",
+    "centre_name": "SKool4Kidz Preschool",
     "level": "K2",
     "fee_min": 460.0,
     "fee_max": 1175.0
@@ -58870,13 +58870,6 @@
     "fee_max": 1483.0
   },
   {
-    "centre_code": "PT9679",
-    "centre_name": "Morning Glory Preschool",
-    "level": "K2",
-    "fee_min": 550.0,
-    "fee_max": 550.0
-  },
-  {
     "centre_code": "PT9752",
     "centre_name": "CHILDREN'S COVE PRESCHOOL PTE. LTD.",
     "level": "K2",
@@ -58926,27 +58919,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "SK0005",
-    "centre_name": "Skool4Kidz Preschool",
-    "level": "K2",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0006",
-    "centre_name": "Skool4Kidz Preschool",
-    "level": "K2",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0013",
-    "centre_name": "SKool4Kidz Preschool",
-    "level": "K2",
-    "fee_min": 460.0,
-    "fee_max": 1175.0
-  },
-  {
     "centre_code": "SK0022",
     "centre_name": "Skool4Kidz Preschool",
     "level": "K2",
@@ -58966,13 +58938,6 @@
     "level": "K2",
     "fee_min": 460.0,
     "fee_max": 1175.0
-  },
-  {
-    "centre_code": "SK0034",
-    "centre_name": "SKOOL4KIDZ PRESCHOOL",
-    "level": "K2",
-    "fee_min": 460.0,
-    "fee_max": 1079.63
   },
   {
     "centre_code": "SK0035",

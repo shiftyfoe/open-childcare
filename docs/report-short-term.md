@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Short-Term (1–3 Months)
 
-_Updated: 29 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
+_Updated: 30 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. Top 5 best-value picks per level per region._
 
 ## Legend
 
@@ -18,7 +18,7 @@ _Updated: 29 Jun 2026. Vacancy data covers **Jun 2026** through **Aug 2026**. To
 ## Central Region
 
 ### Infant Care (0–18 months)
-_110 of 177 centres with availability now._
+_111 of 177 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -30,7 +30,7 @@ _110 of 177 centres with availability now._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_252 of 369 centres with availability now._
+_253 of 369 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -42,7 +42,7 @@ _252 of 369 centres with availability now._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_253 of 369 centres with availability now._
+_254 of 369 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -53,21 +53,12 @@ _253 of 369 centres with availability now._
 | MY WORLD PRESCHOOL LTD. | ANC | ✓ | ~~$1,080~~ ≤$800 | ⚠️ | ⚠️ | 🟡 Filling fast | 64733109 · [↗](https://www.myworld.org.sg) |
 
 
-### New Centres Opening This Quarter (Q2 2026)
-_Brand-new centres with no existing waitlist — register now to be first in queue._
-
-| Centre | Est. Opening | Register? | Address | Contact |
-|---|:---:|:---:|---|---|
-| My First Skool | Q2 | ✅ Open | Blk 156C, Bishan Street 11, Bishan Towers, Singapore 573156 | 66349989 |
-| PCF Sparkletots Preschool | Q2 | ✅ Open | Blk 100, Circuit Road, MacPherson Weave, Singapore 370100 | 62444600 |
-
-
 ---
 
 ## East Region
 
 ### Infant Care (0–18 months)
-_61 of 124 centres with availability now._
+_63 of 124 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -79,7 +70,7 @@ _61 of 124 centres with availability now._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_177 of 261 centres with availability now._
+_180 of 261 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -91,7 +82,7 @@ _177 of 261 centres with availability now._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_174 of 263 centres with availability now._
+_177 of 263 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -100,15 +91,6 @@ _174 of 263 centres with availability now._
 | PCF Sparkletots Preschool @ Kaki Bukit Blk 519 (KN) | ANC | ✓ | $364 | ✅ | ✅ | 🟢 Available | 64495242 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Changi Blk 216 (KN) | ANC | ✓ | $364 | ✅ | ✅ | 🟢 Available | 65840236 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Eunos Blk 616 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | 🟡 Filling fast | 62420636 · [↗](https://www.pcf.org.sg/sparkletots/) |
-
-
-### New Centres Opening This Quarter (Q2 2026)
-_Brand-new centres with no existing waitlist — register now to be first in queue._
-
-| Centre | Est. Opening | Register? | Address | Contact |
-|---|:---:|:---:|---|---|
-| Artemis Preskool @ Tampines West | Q2 | ✅ Open | Blk 957A Tampines Street 96, Singapore 521957 | 87582957 |
-| My First Skool | Q2 | ✅ Open | Blk 972D Tampines Street 96, Singapore 524972 | 66349989 |
 
 
 ---
@@ -149,14 +131,6 @@ _161 of 226 centres with availability now._
 | PCF Sparkletots Preschool @ Woodgrove Blk 899B (KN) | ANC | ✓ | $364 | ✅ | ✅ | 🟢 Available | 63651958 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF SPARKLETOTS PRESCHOOL @ CHONG PANG BLK 288 (CC) | ANC | ✓ | ~~$987~~ ≤$800 | ✅ | ✅ | 🟢 Available | 67561170 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | MY WORLD PRESCHOOL LTD. | ANC | ✓ | ~~$1,080~~ ≤$800 | ⚠️ | ⚠️ | 🟡 Filling fast | 64812905 · [↗](https://www.myworld.org.sg/) |
-
-
-### New Centres Opening This Quarter (Q2 2026)
-_Brand-new centres with no existing waitlist — register now to be first in queue._
-
-| Centre | Est. Opening | Register? | Address | Contact |
-|---|:---:|:---:|---|---|
-| My First Skool | Q2 | ✅ Open | 80 Woodlands Drive 16, Singapore 738951 | 66349989 |
 
 
 ---
@@ -204,7 +178,7 @@ _253 of 326 centres with availability now._
 ## West Region
 
 ### Infant Care (0–18 months)
-_103 of 187 centres with availability now._
+_104 of 187 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -216,7 +190,7 @@ _103 of 187 centres with availability now._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_251 of 342 centres with availability now._
+_252 of 341 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -228,7 +202,7 @@ _251 of 342 centres with availability now._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_246 of 339 centres with availability now._
+_248 of 338 centres with availability now._
 
 | Centre | Sch | ★ | Max fee | Now | Aug 2026 | Action | Contact |
 |---|:---:|:---:|---:|:---:|:---:|---|---|
@@ -237,17 +211,6 @@ _246 of 339 centres with availability now._
 | PCF Sparkletots Preschool @ Jurong Spring-Gek Poh Blk 276D (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | 🟡 Filling fast | 62679003 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ West Coast Blk 728 (KN) | ANC | ✓ | $364 | ✅ | ✅ | 🟢 Available | 67782677 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Bukit Batok Blk 148 (KN) | ANC | ✓ | $364 | ⚠️ | ⚠️ | 🟡 Filling fast | 65614656 · [↗](https://www.pcf.org.sg/sparkletots/) |
-
-
-### New Centres Opening This Quarter (Q2 2026)
-_Brand-new centres with no existing waitlist — register now to be first in queue._
-
-| Centre | Est. Opening | Register? | Address | Contact |
-|---|:---:|:---:|---|---|
-| PCF Sparkletots Preschool | Q2 | ✅ Open | Blk 126B, Tengah Drive, #02-319 and #02-337, Plantation Village, Singapore 692126 | 62444600 |
-| PCF Sparkletots Preschool | Q2 | ✅ Open | Blk 244, Tengah Central, #01-01, Garden Bloom @ Tengah, Singapore 690244 | 62444600 |
-| PCF Sparkletots Preschool | Q2 | ✅ Open | Blk 300 Tengah Drive #01-01 and #01-02, Parc Residence @ Tengah, Singapore 690300 Blk 300C Tengah Drive #01-136, Parc Residence @ Tengah, Singapore 693300 | 62444600 |
-| My First Skool | Q2 | ✅ Open | 10 Bukit Batok West Avenue 9, Singapore 659839 | 66349989 |
 
 
 ---
@@ -262,8 +225,8 @@ _38 of 62 centres with availability now._
 | MY FIRST SKOOL | ANC | ✓ | — | ✅ | ✅ | 🟢 Available | 66349989 · [↗](https://www.myfirstskool.com/smc-lifesg) |
 | MY FIRST SKOOL | ANC | ✓ | — | ⚠️ | ⚠️ | 🟡 Filling fast | 66349989 · [↗](https://www.myfirstskool.com/csc-lifesg) |
 | E-Bridge Pre-School Pte Ltd | ANC | ✓ | — | ⚠️ | ⚠️ | 🟡 Filling fast | 68029637 · [↗](https://info.e-bridge.edu.sg/registration-of-interest) |
-| MY WORLD PRESCHOOL LTD. | ANC |  | — | ⚠️ | ⚠️ | 🟡 Filling fast | 66129024 · [↗](https://www.myworld.org.sg) |
 | Tinkerland @ Yunnan | PRT | ✓ | — | ✅ | ✅ | 🟢 Available | 67953158 · [↗](https://www.sdmchildcare.sg) |
+| MY WORLD PRESCHOOL LTD. | ANC |  | — | ⚠️ | ⚠️ | 🟡 Filling fast | 66129024 · [↗](https://www.myworld.org.sg) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)

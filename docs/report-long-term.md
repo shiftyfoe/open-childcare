@@ -1,6 +1,6 @@
 # Singapore Childcare Value Report — Long-Term (6–7 Months)
 
-_Updated: 29 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
+_Updated: 30 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. New openings pipeline: Q3–Q4 2026. Top 5 best-value picks per level per region._
 
 ## Legend
 
@@ -17,7 +17,7 @@ _Updated: 29 Jun 2026. Vacancy projections for **Nov 2026** and **Dec 2026**. Ne
 ## Central Region
 
 ### Infant Care (0–18 months)
-_115 of 177 centres projected to have availability by Nov 2026._
+_117 of 177 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -29,7 +29,7 @@ _115 of 177 centres projected to have availability by Nov 2026._
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_207 of 369 centres projected to have availability by Nov 2026._
+_210 of 369 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -41,7 +41,7 @@ _207 of 369 centres projected to have availability by Nov 2026._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_202 of 369 centres projected to have availability by Nov 2026._
+_205 of 369 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -57,7 +57,8 @@ _New centres starting fresh — register as soon as registration opens to skip e
 
 | Centre | Est. Opening | Register? | Address | Contact |
 |---|:---:|:---:|---|---|
-| Skool4Kidz Preschool | Q3 | ✅ Open | Blk 533 Bishan Street 14, Bishan Ridges, Singapore 570533 | 6450 0070 |
+| PCF Sparkletots Preschool | Q3 | ✅ Open | Blk 100, Circuit Road, MacPherson Weave, Singapore 370100 | 62444600 |
+| Skool4Kidz Preschool | Q3 | ✅ Open | Blk 533 Bishan Street 14, Bishan Ridges, Singapore 570533 | 64500070 |
 | PCF Sparkletots Preschool | Q3 | ✅ Open | Blk 140 McNair Road, McNair Heights Singapore 320140 | 62444600 |
 
 
@@ -70,15 +71,15 @@ _78 of 124 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| Skool4Kidz Preschool | ANC | ✓ | — | ❌ | ⚠️ | ⚠️ | 69312961 · [↗](https://skool4kidz.com.sg/) |
 | PCF Sparkletots Preschool @ Tampines West Blk 140 (DS) | ANC | ✓ | — | ✅ | ✅ | ✅ | 67821177 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Tampines West Blk 151 (EY) | ANC | ✓ | — | ❌ | ⚠️ | ⚠️ | 67856155 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Tampines Central Blk 878 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 67858586 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Pasir Ris West Blk 650 (EY) | ANC | ✓ | — | ⚠️ | ⚠️ | ⚠️ | 65853071 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF SPARKLETOTS PRESCHOOL @ FENGSHAN BLK 184 (CC) | ANC | ✓ | — | ✅ | ✅ | ✅ | 62429044 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_148 of 261 centres projected to have availability by Nov 2026._
+_150 of 261 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -90,7 +91,7 @@ _148 of 261 centres projected to have availability by Nov 2026._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_143 of 263 centres projected to have availability by Nov 2026._
+_145 of 263 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -155,8 +156,9 @@ _New centres starting fresh — register as soon as registration opens to skip e
 
 | Centre | Est. Opening | Register? | Address | Contact |
 |---|:---:|:---:|---|---|
-| UrbanVille (Woodlands) | Q4 | Not yet | Blk 909 Woodlands Square, Singapore 730909 Blk 905 Woodlands Square Singapore 730905 | TBC |
-| Yishun Beacon | Q4 | Not yet | Blk 936 Yishun Central, Singapore 760936 | TBC |
+| My First Skool | Q3 | ✅ Open | 80 Woodlands Drive 16, Singapore 738951 | 66349989 |
+| PCF Sparkletots Preschool | Q3 | ✅ Open | Blk 909 Woodlands Square, UrbanVille (Woodlands)Singapore 730909 Blk 905 Woodlands Square, UrbanVille (Woodlands) Singapore 730905 | 62444600 |
+| My First Skool | Q4 | ✅ Open | Blk 936 Yishun Central, Yishun Beacon Singapore 760936 | 66349989 |
 
 
 ---
@@ -204,7 +206,7 @@ _New centres starting fresh — register as soon as registration opens to skip e
 
 | Centre | Est. Opening | Register? | Address | Contact |
 |---|:---:|:---:|---|---|
-| Punggol Digital District | Q3 | Not yet | 84, Punggol Way, Singapore 829911 | TBC |
+| E-Bridge Pre-school | Q4 | ✅ Open | 82 Punggol Way #03-27 to #03-37, Punggol Digital District, Singapore 829910 | 63363322 |
 | Kovan Wellspring | Q4 | Not yet | Blk 214A Tampines Road, Singapore 531214 | TBC |
 | Tanjong Tree Residences | Q4 | Not yet | Blk 182B, Hougang Street 13, Singapore 532182 | TBC |
 
@@ -218,15 +220,15 @@ _129 of 187 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
+| MY FIRST SKOOL | ANC | ✓ | — | ❌ | ❌ | ⚠️ | 66349989 · [↗](https://www.myfirstskool.com/jpc-lifesg) |
 | PCF Sparkletots Preschool @ Jurong Spring-Gek Poh Blk 528 (DS) | ANC | ✓ | — | ✅ | ✅ | ✅ | 65691645 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF SPARKLETOTS PRESCHOOL @ CLEMENTI BLK 462A (EY) | ANC | ✓ | — | ❌ | ❌ | ⚠️ | 67793135 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Clementi Blk 330 (DS) | ANC | ✓ | — | ✅ | ✅ | ⚠️ | 67731958 · [↗](https://www.pcf.org.sg/sparkletots/) |
 | PCF Sparkletots Preschool @ Brickland Blk 810 (CC) | ANC | ✓ | — | ⚠️ | ✅ | ✅ | 69837591 · [↗](https://www.pcf.org.sg/sparkletots/) |
-| PCF SPARKLETOTS PRESCHOOL @ BUKIT GOMBAK BLK 512 (CC) | ANC | ✓ | — | ⚠️ | ✅ | ✅ | 65620141 · [↗](https://www.pcf.org.sg/sparkletots/) |
 
 
 ### Nursery N1/N2 (18 months – 4 years)
-_213 of 342 centres projected to have availability by Nov 2026._
+_214 of 341 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -238,7 +240,7 @@ _213 of 342 centres projected to have availability by Nov 2026._
 
 
 ### Kindergarten K1/K2 (4–6 years)
-_208 of 339 centres projected to have availability by Nov 2026._
+_209 of 338 centres projected to have availability by Nov 2026._
 
 | Centre | Sch | ★ | Max fee | Now | Nov 2026 | Dec 2026 | Contact |
 |---|:---:|:---:|---:|:---:|:---:|:---:|---|
@@ -254,9 +256,12 @@ _New centres starting fresh — register as soon as registration opens to skip e
 
 | Centre | Est. Opening | Register? | Address | Contact |
 |---|:---:|:---:|---|---|
-| Plantation Creek @ Tengah | Q3 | Not yet | Blk 135 Tengah Garden Avenue, #01-01, Singapore 691135 | TBC |
-| Garden Waterfront II @ Tengah | Q3 | Not yet | Blk 216D Tengah Garden Avenue, #01-457, Garden Waterfront II @ Tengah, Singapore 694216 Blk 217A Tengah Garden Avenue, #01-473, Garden Waterfront II @ Tengah, Singapore 681217 | TBC |
-| Parc Meadow | Q4 | Not yet | Blk 327 Tengah Park Avenue, Parc Meadow @ Tengah, Singapore 690327 Blk 332 Tengah Park Avenue, Parc Meadow @ Tengah, Singapore 690332 | TBC |
+| PCF Sparkletots Preschool | Q3 | ✅ Open | Blk 126B, Tengah Drive, #02-319 and #02-337, Plantation Village, Singapore 692126 | 62444600 |
+| PCF Sparkletots Preschool | Q3 | ✅ Open | Blk 244, Tengah Central, #01-01, Garden Bloom @ Tengah, Singapore 690244 | 62444600 |
+| PCF Sparkletots Preschool | Q3 | ✅ Open | Blk 300 Tengah Drive #01-01 and #01-02, Parc Residence @ Tengah, Singapore 690300 Blk 300C Tengah Drive #01-136, Parc Residence @ Tengah, Singapore 693300 | 62444600 |
+| My First Skool | Q3 | ✅ Open | 10 Bukit Batok West Avenue 9, Singapore 659839 | 66349989 |
+| Plantation Creek @ Tengah | Q4 | Not yet | Blk 135 Tengah Garden Avenue, #01-01, Singapore 691135 | TBC |
+| Garden Waterfront II @ Tengah | Q4 | Not yet | Blk 216D Tengah Garden Avenue, #01-457, Garden Waterfront II @ Tengah, Singapore 694216 Blk 217A Tengah Garden Avenue, #01-473, Garden Waterfront II @ Tengah, Singapore 681217 | TBC |
 
 
 ---
@@ -297,6 +302,14 @@ _110 of 207 centres projected to have availability by Nov 2026._
 | MY WORLD PRESCHOOL LTD. | ANC | ✓ | ~~$1,080~~ ≤$800 | ⚠️ | ⚠️ | ⚠️ | 62982543 · [↗](https://www.myworld.org.sg) |
 | E-Bridge Pre-School Pte Ltd | ANC | ✓ | ~~$1,125~~ ≤$800 | ❌ | ⚠️ | ⚠️ | 68029637 · [↗](https://info.e-bridge.edu.sg/registration-of-interest) |
 | PCF Sparkletots Preschool @ Kampong Glam Blk 462 (DS) | ANC | ✓ | ~~$1,172~~ ≤$800 | ✅ | ✅ | ✅ | 62984206 · [↗](https://www.pcf.org.sg/sparkletots/) |
+
+
+### Upcoming New Centres Pipeline
+_New centres starting fresh — register as soon as registration opens to skip existing waitlists._
+
+| Centre | Est. Opening | Register? | Address | Contact |
+|---|:---:|:---:|---|---|
+| Lakeside View | Q4 | Not yet | Blk 342 Kang Ching Road, Singapore 610342 Blk 342A Kang Ching Road, Singapore 611342 | TBC |
 
 
 ---

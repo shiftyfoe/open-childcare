@@ -3,7 +3,7 @@
     "no": "1",
     "name": "PCF Sparkletots Preschool",
     "address": "Blk 126B, Tengah Drive, #02-319 and #02-337, Plantation Village, Singapore 692126",
-    "estimated_commencement_date": "Q2",
+    "estimated_commencement_date": "Q3",
     "open_for_registration": "Yes",
     "contact_number": "62444600",
     "email_address": "TA.CC.126B@pcf.org.sg",
@@ -13,7 +13,7 @@
     "no": "2",
     "name": "PCF Sparkletots Preschool",
     "address": "Blk 244, Tengah Central, #01-01, Garden Bloom @ Tengah, Singapore 690244",
-    "estimated_commencement_date": "Q2",
+    "estimated_commencement_date": "Q3",
     "open_for_registration": "Yes",
     "contact_number": "62444600",
     "email_address": "TA.EY.244@pcf.org.sg",
@@ -23,7 +23,7 @@
     "no": "3",
     "name": "PCF Sparkletots Preschool",
     "address": "Blk 300 Tengah Drive #01-01 and #01-02, Parc Residence @ Tengah, Singapore 690300 Blk 300C Tengah Drive #01-136, Parc Residence @ Tengah, Singapore 693300",
-    "estimated_commencement_date": "Q2",
+    "estimated_commencement_date": "Q3",
     "open_for_registration": "Yes",
     "contact_number": "62444600",
     "email_address": "BC.CC.300@pcf.org.sg",
@@ -31,29 +31,29 @@
   },
   {
     "no": "4",
+    "name": "PCF Sparkletots Preschool",
+    "address": "Blk 100, Circuit Road, MacPherson Weave, Singapore 370100",
+    "estimated_commencement_date": "Q3",
+    "open_for_registration": "Yes",
+    "contact_number": "62444600",
+    "email_address": "pcfhq@pcf.org.sg",
+    "website": "www.myfirstskool.com"
+  },
+  {
+    "no": "5",
     "name": "My First Skool",
-    "address": "Blk 156C, Bishan Street 11, Bishan Towers, Singapore 573156",
-    "estimated_commencement_date": "Q2",
+    "address": "80 Woodlands Drive 16, Singapore 738951",
+    "estimated_commencement_date": "Q3",
     "open_for_registration": "Yes",
     "contact_number": "66349989",
     "email_address": "info@myfirstskool.com",
     "website": "www.myfirstskool.com"
   },
   {
-    "no": "5",
-    "name": "PCF Sparkletots Preschool",
-    "address": "Blk 100, Circuit Road, MacPherson Weave, Singapore 370100",
-    "estimated_commencement_date": "Q2",
-    "open_for_registration": "Yes",
-    "contact_number": "62444600",
-    "email_address": "pcfhq@pcf.org.sg",
-    "website": "www.pcf.org.sg/sparkletots"
-  },
-  {
     "no": "6",
     "name": "My First Skool",
-    "address": "80 Woodlands Drive 16, Singapore 738951",
-    "estimated_commencement_date": "Q2",
+    "address": "10 Bukit Batok West Avenue 9, Singapore 659839",
+    "estimated_commencement_date": "Q3",
     "open_for_registration": "Yes",
     "contact_number": "66349989",
     "email_address": "info@myfirstskool.com",
@@ -61,46 +61,16 @@
   },
   {
     "no": "7",
-    "name": "My First Skool",
-    "address": "10 Bukit Batok West Avenue 9, Singapore 659839",
-    "estimated_commencement_date": "Q2",
-    "open_for_registration": "Yes",
-    "contact_number": "66349989",
-    "email_address": "info@myfirstskool.com",
-    "website": "www.myfirstskool.com"
-  },
-  {
-    "no": "8",
-    "name": "Artemis Preskool @ Tampines West",
-    "address": "Blk 957A Tampines Street 96, Singapore 521957",
-    "estimated_commencement_date": "Q2",
-    "open_for_registration": "Yes",
-    "contact_number": "87582957",
-    "email_address": "tpwest.artemis@gmail.com",
-    "website": "https://artemispreskool.com/contact"
-  },
-  {
-    "no": "9",
-    "name": "My First Skool",
-    "address": "Blk 972D Tampines Street 96, Singapore 524972",
-    "estimated_commencement_date": "Q2",
-    "open_for_registration": "Yes",
-    "contact_number": "66349989",
-    "email_address": "info@myfirstskool.com",
-    "website": "www.myfirstskool.com"
-  },
-  {
-    "no": "10",
     "name": "Skool4Kidz Preschool",
     "address": "Blk 533 Bishan Street 14, Bishan Ridges, Singapore 570533",
     "estimated_commencement_date": "Q3",
     "open_for_registration": "Yes",
-    "contact_number": "6450 0070",
+    "contact_number": "64500070",
     "email_address": "enquiry@skool4kidz.com.sg",
     "website": "https://skool4kidz.com.sg/skool4kidz-upcoming-new-centres/"
   },
   {
-    "no": "11",
+    "no": "8",
     "name": "PCF Sparkletots Preschool",
     "address": "Blk 140 McNair Road, McNair Heights Singapore 320140",
     "estimated_commencement_date": "Q3",
@@ -110,10 +80,40 @@
     "website": "www.pcf.org.sg/sparkletots"
   },
   {
+    "no": "9",
+    "name": "PCF Sparkletots Preschool",
+    "address": "Blk 909 Woodlands Square, UrbanVille (Woodlands)Singapore 730909 Blk 905 Woodlands Square, UrbanVille (Woodlands) Singapore 730905",
+    "estimated_commencement_date": "Q3",
+    "open_for_registration": "Yes",
+    "contact_number": "62444600",
+    "email_address": "MS.CC.909@pcf.org.sg",
+    "website": "www.pcf.org.sg/sparkletots"
+  },
+  {
+    "no": "10",
+    "name": "My First Skool",
+    "address": "Blk 936 Yishun Central, Yishun Beacon Singapore 760936",
+    "estimated_commencement_date": "Q4",
+    "open_for_registration": "Yes",
+    "contact_number": "66349989",
+    "email_address": "info@myfirstskool.com",
+    "website": "www.myfirstskool.com"
+  },
+  {
+    "no": "11",
+    "name": "E-Bridge Pre-school",
+    "address": "82 Punggol Way #03-27 to #03-37, Punggol Digital District, Singapore 829910",
+    "estimated_commencement_date": "Q4",
+    "open_for_registration": "Yes",
+    "contact_number": "63363322",
+    "email_address": "pdd@e-bridge.edu.sg",
+    "website": "https://info.e-bridge.edu.sg/registration-of-interest"
+  },
+  {
     "no": "12",
     "name": "Plantation Creek @ Tengah",
     "address": "Blk 135 Tengah Garden Avenue, #01-01, Singapore 691135",
-    "estimated_commencement_date": "Q3",
+    "estimated_commencement_date": "Q4",
     "open_for_registration": "No",
     "contact_number": "-",
     "email_address": "-",
@@ -123,26 +123,6 @@
     "no": "13",
     "name": "Garden Waterfront II @ Tengah",
     "address": "Blk 216D Tengah Garden Avenue, #01-457, Garden Waterfront II @ Tengah, Singapore 694216 Blk 217A Tengah Garden Avenue, #01-473, Garden Waterfront II @ Tengah, Singapore 681217",
-    "estimated_commencement_date": "Q3",
-    "open_for_registration": "No",
-    "contact_number": "-",
-    "email_address": "-",
-    "website": "-"
-  },
-  {
-    "no": "14",
-    "name": "Punggol Digital District",
-    "address": "84, Punggol Way, Singapore 829911",
-    "estimated_commencement_date": "Q3",
-    "open_for_registration": "No",
-    "contact_number": "-",
-    "email_address": "-",
-    "website": "-"
-  },
-  {
-    "no": "15",
-    "name": "Parc Meadow",
-    "address": "Blk 327 Tengah Park Avenue, Parc Meadow @ Tengah, Singapore 690327 Blk 332 Tengah Park Avenue, Parc Meadow @ Tengah, Singapore 690332",
     "estimated_commencement_date": "Q4",
     "open_for_registration": "No",
     "contact_number": "-",
@@ -150,7 +130,7 @@
     "website": "-"
   },
   {
-    "no": "16",
+    "no": "14",
     "name": "Kovan Wellspring",
     "address": "Blk 214A Tampines Road, Singapore 531214",
     "estimated_commencement_date": "Q4",
@@ -160,7 +140,7 @@
     "website": "-"
   },
   {
-    "no": "17",
+    "no": "15",
     "name": "Tanjong Tree Residences",
     "address": "Blk 182B, Hougang Street 13, Singapore 532182",
     "estimated_commencement_date": "Q4",
@@ -170,27 +150,7 @@
     "website": "-"
   },
   {
-    "no": "18",
-    "name": "UrbanVille (Woodlands)",
-    "address": "Blk 909 Woodlands Square, Singapore 730909 Blk 905 Woodlands Square Singapore 730905",
-    "estimated_commencement_date": "Q4",
-    "open_for_registration": "No",
-    "contact_number": "-",
-    "email_address": "-",
-    "website": "-"
-  },
-  {
-    "no": "19",
-    "name": "Yishun Beacon",
-    "address": "Blk 936 Yishun Central, Singapore 760936",
-    "estimated_commencement_date": "Q4",
-    "open_for_registration": "No",
-    "contact_number": "-",
-    "email_address": "-",
-    "website": "-"
-  },
-  {
-    "no": "20",
+    "no": "16",
     "name": "Sun Plaza Spring",
     "address": "Blk 400 Tampines Street 41, Singapore 521400",
     "estimated_commencement_date": "Q4",
@@ -200,9 +160,19 @@
     "website": "-"
   },
   {
-    "no": "21",
+    "no": "17",
     "name": "Tampines GreenCourt",
     "address": "Blk 634A Tampines North Drive 2, Singapore 521634 Blk 633B Tampines North Drive 2, Singapore 522633",
+    "estimated_commencement_date": "Q4",
+    "open_for_registration": "No",
+    "contact_number": "-",
+    "email_address": "-",
+    "website": "-"
+  },
+  {
+    "no": "18",
+    "name": "Lakeside View",
+    "address": "Blk 342 Kang Ching Road, Singapore 610342 Blk 342A Kang Ching Road, Singapore 611342",
     "estimated_commencement_date": "Q4",
     "open_for_registration": "No",
     "contact_number": "-",
