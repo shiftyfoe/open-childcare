@@ -1,12 +1,5 @@
 [
   {
-    "name": "Kim Keat Ripples",
-    "address": "269 Toa Payoh East #01-01 S(310269)",
-    "postal_code": "310269",
-    "phone": "+6569293295",
-    "email": "kimkeatripples@myworld.org.sg"
-  },
-  {
     "name": "Admiralty",
     "address": "787B Woodlands Crescent #01-82 S(732787)",
     "postal_code": "732787",
@@ -138,6 +131,13 @@
     "postal_code": "140040",
     "phone": "+6566129024",
     "email": "dawson@myworld.org.sg"
+  },
+  {
+    "name": "Kim Keat Ripples",
+    "address": "269 Toa Payoh East #01-01 S(310269)",
+    "postal_code": "310269",
+    "phone": "+6569293295",
+    "email": "kimkeatripples@myworld.org.sg"
   },
   {
     "name": "Leng Kee",

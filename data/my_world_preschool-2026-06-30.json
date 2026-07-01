@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Admiralty",
+    "address": "787B Woodlands Crescent #01-82 S(732787)",
+    "postal_code": "732787",
+    "phone": "+6563621566",
+    "email": "admiralty@myworld.org.sg"
+  },
+  {
+    "name": "Canberra",
+    "address": "350C Canberra Road #01-223 S(753350)",
+    "postal_code": "753350",
+    "phone": "+6564815569",
+    "email": "canberra@myworld.org.sg"
+  },
+  {
+    "name": "Canberra Eastlink",
+    "address": "132 Canberra View #03-31 S(750132)",
+    "postal_code": "750132",
+    "phone": "+6569963171",
+    "email": "canberraeastlink@myworld.org.sg"
+  },
+  {
+    "name": "Marsiling Greenview",
+    "address": "183A Woodlands Street 13 #02-635 S(731183)",
+    "postal_code": "731183",
+    "phone": "+6568037893",
+    "email": "marsilinggreenview@myworld.org.sg"
+  },
+  {
+    "name": "Sembawang Drive",
+    "address": "462 Sembawang Drive #01-223 S(750462)",
+    "postal_code": "750462",
+    "phone": "+6564812905",
+    "email": "sembawangdrive@myworld.org.sg"
+  },
+  {
+    "name": "Sun Natura",
+    "address": "362C Sembawang Crescent #01-811 S(753362)",
+    "postal_code": "753362",
+    "phone": "+6566556853",
+    "email": "sunnatura@myworld.org.sg"
+  },
+  {
+    "name": "Woodlands",
+    "address": "863 Woodlands Street 83 #01-190 S(730863)",
+    "postal_code": "730863",
+    "phone": "+6562694829",
+    "email": "woodlands@myworld.org.sg"
+  },
+  {
+    "name": "Woodlands Champions Green",
+    "address": "567 Champions Way #01-02 S(730567)",
+    "postal_code": "730567",
+    "phone": "+6566101893",
+    "email": "wdlchampionsgreen@myworld.org.sg"
+  },
+  {
+    "name": "Woodlands Circle",
+    "address": "725 Woodlands Avenue 6 #01-494 S(730725)",
+    "postal_code": "730725",
+    "phone": "+6563622913",
+    "email": "woodlandscircle@myworld.org.sg"
+  },
+  {
+    "name": "Woodlands Glade",
+    "address": "781B Woodlands Avenue 9 #01-512 S(732781)",
+    "postal_code": "732781",
+    "phone": "+6566124755",
+    "email": "woodlandsglade@myworld.org.sg"
+  },
+  {
+    "name": "Yishun",
+    "address": "760 Yishun Street 72 #01-314 S(760760)",
+    "postal_code": "760760",
+    "phone": "+6562576770",
+    "email": "yishun@myworld.org.sg"
+  },
+  {
+    "name": "Yishun Fern Grove",
+    "address": "675 Yishun Avenue 4 #02-01 S(760675)",
+    "postal_code": "760675",
+    "phone": "+6567536883",
+    "email": "yishunferngrove@myworld.org.sg"
+  },
+  {
+    "name": "Yishun Northland",
+    "address": "270 Yishun Street 22 #01-58 S(760270)",
+    "postal_code": "760270",
+    "phone": "+6567560729",
+    "email": "yishunnorthland@myworld.org.sg"
+  },
+  {
+    "name": "Yishun Palm Breeze",
+    "address": "502D Yishun Street 51 #01-460 S(764502)",
+    "postal_code": "764502",
+    "phone": "+6562572101",
+    "email": "yishunpalmbreeze@myworld.org.sg"
+  },
+  {
+    "name": "Yishun Valley Spring",
+    "address": "478 Yishun Street 42 #01-01 S(760478)",
+    "postal_code": "760478",
+    "phone": "+6569294709",
+    "email": "yishunvalleyspring@myworld.org.sg"
+  },
+  {
+    "name": "Bidadari Alkaff Vista",
+    "address": "106B Bidadari Park Drive #01-68 S(342106)",
+    "postal_code": "342106",
+    "phone": "+6562084513",
+    "email": "bidadarialkaffvista@myworld.org.sg"
+  },
+  {
+    "name": "Bishan",
+    "address": "171 Bishan Street 13 #01-13 S(570171)",
+    "postal_code": "570171",
+    "phone": "+6562590071",
+    "email": "bishan@myworld.org.sg"
+  },
+  {
+    "name": "Boon Keng",
+    "address": "4 Boon Keng Road #01-110 S(330004)",
+    "postal_code": "330004",
+    "phone": "+6562930279",
+    "email": "boonkeng@myworld.org.sg"
+  },
+  {
+    "name": "Dawson",
+    "address": "40 Margaret Drive #01-06 S(140040)",
+    "postal_code": "140040",
+    "phone": "+6566129024",
+    "email": "dawson@myworld.org.sg"
+  },
+  {
+    "name": "Kim Keat Ripples",
+    "address": "269 Toa Payoh East #01-01 S(310269)",
+    "postal_code": "310269",
+    "phone": "+6569293295",
+    "email": "kimkeatripples@myworld.org.sg"
+  },
+  {
+    "name": "Leng Kee",
+    "address": "52 Lengkok Bahru #01-301 S(150052)",
+    "postal_code": "150052",
+    "phone": "+6564733109",
+    "email": "lengkee@myworld.org.sg"
+  },
+  {
+    "name": "McNair Towers",
+    "address": "113 McNair Road #01-02 S(321113)",
+    "postal_code": "321113",
+    "phone": "+6562913166",
+    "email": "mcnairtowers@myworld.org.sg"
+  },
+  {
+    "name": "St. George’s",
+    "address": "14 St George’s Road #01-70 S(320014)",
+    "postal_code": "320014",
+    "phone": "+6562982543",
+    "email": "stgeorges@myworld.org.sg"
+  },
+  {
+    "name": "Telok Blangah Rise",
+    "address": "29 Telok Blangah Rise #01-231 S(090029)",
+    "postal_code": "090029",
+    "phone": "+6562711216",
+    "email": "telokblangahrise@myworld.org.sg"
+  },
+  {
+    "name": "Tenteram Peak",
+    "address": "116 Jalan Tenteram #01-07 S(320116)",
+    "postal_code": "320116",
+    "phone": "+6563974927",
+    "email": "tenterampeak@myworld.org.sg"
+  },
+  {
+    "name": "Tiong Bahru View",
+    "address": "9B Boon Tiong Road #01-515 S(163009)",
+    "postal_code": "163009",
+    "phone": "+6562710355",
+    "email": "tiongbahruview@myworld.org.sg"
+  },
+  {
+    "name": "Pasir Ris",
+    "address": "575 Pasir Ris Street 53 #01-06 S(510575)",
+    "postal_code": "510575",
+    "phone": "+65851260",
+    "email": "pasirris@myworld.org.sg"
+  },
+  {
+    "name": "Simei",
+    "address": "123 Simei Street 1 #01-402 S(520123)",
+    "postal_code": "520123",
+    "phone": "+6567842674",
+    "email": "simei@myworld.org.sg"
+  },
+  {
+    "name": "Tampines Central",
+    "address": "855 Tampines Street 83 #01-262 S(520855)",
+    "postal_code": "520855",
+    "phone": "+6567863590",
+    "email": "tampinescentral@myworld.org.sg"
+  },
+  {
+    "name": "Tampines Changkat",
+    "address": "113 Tampines Street 11 #01-151 S(521113)",
+    "postal_code": "521113",
+    "phone": "+6567827200",
+    "email": "tampineschangkat@myworld.org.sg"
+  },
+  {
+    "name": "Tampines GreenView",
+    "address": "613 Tampines North Drive 1 #01-21 S(520613)",
+    "postal_code": "520613",
+    "phone": "+6569884549",
+    "email": "tampinesgreenview@myworld.org.sg"
+  },
+  {
+    "name": "Tampines North",
+    "address": "428 Tampines Street 41 #01-459 S(520428)",
+    "postal_code": "520428",
+    "phone": "+6567810592",
+    "email": "tampinesnorth@myworld.org.sg"
+  },
+  {
+    "name": "Tampines GreenWeave",
+    "address": "610 Tampines North Drive 1 #02-01 & 02 S(520610)",
+    "postal_code": "520610",
+    "phone": "+6568021156",
+    "email": "tampinesgreenweave@myworld.org.sg"
+  },
+  {
+    "name": "Anchorvale Parkview",
+    "address": "338 Anchorvale Crescent #01-12 S(540338)",
+    "postal_code": "540338",
+    "phone": "+6562827059",
+    "email": "anchorvaleparkview@myworld.org.sg"
+  },
+  {
+    "name": "Ang Mo Kio",
+    "address": "584 Ang Mo Kio Street 51 #01-3107 S(560584)",
+    "postal_code": "560584",
+    "phone": "+6564511207",
+    "email": "angmokio@myworld.org.sg"
+  },
+  {
+    "name": "Ang Mo Kio Central",
+    "address": "700B Ang Mo Kio Ave 6 #01-320 S(562700)",
+    "postal_code": "562700",
+    "phone": "+6564813254",
+    "email": "angmokiocentral@myworld.org.sg"
+  },
+  {
+    "name": "Buangkok Woods",
+    "address": "993 Buangkok Link #01-01 S(530993)",
+    "postal_code": "530993",
+    "phone": "+6566773496",
+    "email": "buangkokwoods@myworld.org.sg"
+  },
+  {
+    "name": "Compassvale Ancilla",
+    "address": "281B Sengkang East Ave #01-605 S(542281)",
+    "postal_code": "542281",
+    "phone": "+6563842870",
+    "email": "compassvaleancilla@myworld.org.sg"
+  },
+  {
+    "name": "Hougang",
+    "address": "373 Hougang Street 31 #01-65 S(530373)",
+    "postal_code": "530373",
+    "phone": "+6562808744",
+    "email": "hougang@myworld.org.sg"
+  },
+  {
+    "name": "Hougang DewCourt",
+    "address": "376A Hougang Street 32 #01-06 S(531376)",
+    "postal_code": "531376",
+    "phone": "+6562800827",
+    "email": "hougangdewcourt@myworld.org.sg"
+  },
+  {
+    "name": "Matilda Court",
+    "address": "232A Sumang Lane #01-385 S(821232)",
+    "postal_code": "821232",
+    "phone": "+6569001052",
+    "email": "matildacourt@myworld.org.sg"
+  },
+  {
+    "name": "Punggol Edge",
+    "address": "121 Edgedale Plains #01-01 S(820121)",
+    "postal_code": "820121",
+    "phone": "+6563863002",
+    "email": "punggoledge@myworld.org.sg"
+  },
+  {
+    "name": "Punggol Northshore",
+    "address": "#01-05 S(820420)",
+    "postal_code": "820420",
+    "phone": "+6566106208",
+    "email": "punggolnorthshore@myworld.org.sg"
+  },
+  {
+    "name": "Punggol Point Woods",
+    "address": "433B Northshore Drive #01-920 S(822433)",
+    "postal_code": "822433",
+    "phone": "+6569967624",
+    "email": "punggolpointwoods@myworld.org.sg"
+  },
+  {
+    "name": "Rivervale Shores",
+    "address": "#03-14 S(540172)",
+    "postal_code": "540172",
+    "phone": "+6566776216",
+    "email": "rivervaleshores@myworld.org.sg"
+  },
+  {
+    "name": "Serangoon North",
+    "address": "504 Serangoon North Avenue 4 #01-470 S(550504)",
+    "postal_code": "550504",
+    "phone": "+656481845569967941",
+    "email": "serangoonnorth@myworld.org.sg"
+  },
+  {
+    "name": "Upper Serangoon View",
+    "address": "476C Upper Serangoon View #01-534 S(533476)",
+    "postal_code": "533476",
+    "phone": "+6563853461",
+    "email": "upperserangoonview@myworld.org.sg"
+  },
+  {
+    "name": "Waterway SunDew",
+    "address": "661B Edgedale Plains #01-616 S(822661)",
+    "postal_code": "822661",
+    "phone": "+6566552362",
+    "email": "waterwaysundew@myworld.org.sg"
+  },
+  {
+    "name": "Waterway Sunrise",
+    "address": "#01–136 S(823654)",
+    "postal_code": "823654",
+    "phone": "+6568029274",
+    "email": "waterwaysunrise@myworld.org.sg"
+  },
+  {
+    "name": "Boon Lay Glade",
+    "address": "239 Boon Lay Drive #02-01 S(640239)",
+    "postal_code": "640239",
+    "phone": "+6569172148",
+    "email": "boonlayglade@myworld.org.sg"
+  },
+  {
+    "name": "Bukit Batok West Plains 1",
+    "address": "463 Bukit Batok Street 41 #01-01 & 02 S(650463)",
+    "postal_code": "650463",
+    "phone": "+6569884513",
+    "email": "bbwestplains1@myworld.org.sg"
+  },
+  {
+    "name": "Bukit Batok West Plains 2",
+    "address": "463A Bukit Batok Street 41 #01-13 S(651463)",
+    "postal_code": "651463",
+    "phone": "+6569963498",
+    "email": "bbwestplains2@myworld.org.sg"
+  },
+  {
+    "name": "Bukit Batok West Quarry",
+    "address": "460 Bukit Batok West Avenue 9 #01-01 S(650460)",
+    "postal_code": "650460",
+    "phone": "+6569178944",
+    "email": "bbwestquarry@myworld.org.sg"
+  },
+  {
+    "name": "Bukit Panjang",
+    "address": "217 Petir Road #01-385 S(670217)",
+    "postal_code": "670217",
+    "phone": "+6567633763",
+    "email": "bukitpanjang@myworld.org.sg"
+  },
+  {
+    "name": "Keat Hong Verge",
+    "address": "819 Keat Hong Link #01-01 S(680819)",
+    "postal_code": "680819",
+    "phone": "+6566109254",
+    "email": "keathongverge@myworld.org.sg"
+  },
+  {
+    "name": "Teban Gardens",
+    "address": "55 Teban Gardens Road #01-455 S(600055)",
+    "postal_code": "600055",
+    "phone": "+6562624688",
+    "email": "tebangardens@myworld.org.sg"
+  },
+  {
+    "name": "Tengah Garden Court",
+    "address": "219 Tengah Garden Walk #01-01 S(690219)",
+    "postal_code": "690219",
+    "phone": "+6566558036",
+    "email": "tengahgardencourt@myworld.org.sg"
+  },
+  {
+    "name": "Tengah Garden Terrace",
+    "address": "224 Tengah Garden Avenue #01-01 S(690224)",
+    "postal_code": "690224",
+    "phone": "+6566554206",
+    "email": "tengahgardenterrace@myworld.org.sg"
+  }
+]

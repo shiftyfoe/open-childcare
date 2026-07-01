@@ -1,0 +1,342 @@
+[
+  {
+    "url": "https://starlearners.com.sg/our-centres/fernvale/",
+    "name": "Star Learners at Sengkang Fernvale",
+    "address": "12 Fernvale Street, #01-10 Parc BotanniaSingapore 797391",
+    "postal_code": "797391",
+    "fees_citizen_monthly": null,
+    "fees_pr_monthly": null
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/tampines-west/",
+    "name": "Star Learners at Tampines West",
+    "address": "823 Tampines Street 81, #02-00, Singapore 520823(Right above Prime Supermarket)",
+    "postal_code": "520823",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1100
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/thomson/",
+    "name": "Star Learners at Thomson",
+    "address": "30 Sin Ming Lane, Midview City, Singapore 573953",
+    "postal_code": "573953",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/boon-keng/",
+    "name": "Star Learners at Boon Keng",
+    "address": "5 Boon Keng Road, #01-84, Singapore 330005(Near Jalan Besar Boon Keng RC)",
+    "postal_code": "330005",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/bishan-central/",
+    "name": "Star Learners at Bishan Central",
+    "address": "510 Bishan Street 13, #03-02, Singapore 570510",
+    "postal_code": "570510",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/bishan/",
+    "name": "Star Learners at Bishan",
+    "address": "114 Bishan Street 12, #01-96, Singapore 570114",
+    "postal_code": "570114",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/yishun/",
+    "name": "Star Learners at Yishun",
+    "address": "2 Yishun Industrial St 1, #01-16/17/18, Northpoint Bizhub, Singapore 768159",
+    "postal_code": "768159",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/yio-chu-kang/",
+    "name": "Star Learners at Yio Chu Kang",
+    "address": "645 Ang Mo Kio Ave 6, #01-4991, Singapore 560645(Near Yio Chu Kang Secondary School)",
+    "postal_code": "560645",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/woodlands-888/",
+    "name": "Star Learners at Woodlands 888",
+    "address": "888 Woodlands Drive 50, #02-741, Singapore 730888(Woodlands 888 Plaza)",
+    "postal_code": "730888",
+    "fees_citizen_monthly": 1630,
+    "fees_pr_monthly": 1290
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/woodlands-circle/",
+    "name": "Star Learners at Woodlands Circle",
+    "address": "764A Woodlands Circle, #01-300, Singapore 731764(Near Woodlands Mart)",
+    "postal_code": "731764",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/woodlands/",
+    "name": "Preschool in Woodlands",
+    "address": "11 Woodlands Close, #01-22/23, Singapore 737853(Woodlands 11)",
+    "postal_code": "737853",
+    "fees_citizen_monthly": null,
+    "fees_pr_monthly": null
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/toa-payoh/",
+    "name": "Star Learners at Toa Payoh",
+    "address": "259 Kim Keat Avenue, #01-04, Singapore 310259",
+    "postal_code": "310259",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/sembawang-way/",
+    "name": "Star Learners at Sembawang Way",
+    "address": "355 Sembawang Way, #02-02, Singapore 750355(Across from Sembawang MRT station)",
+    "postal_code": "750355",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/sembawang-place/",
+    "name": "Star Learners at Sembawang Place",
+    "address": "587 Sembawang Place, Singapore 758440",
+    "postal_code": "758440",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/gambas/",
+    "name": "Star Learners at Gambas",
+    "address": "7 Gambas Crescent #01-18/19/20, Ark @ Gambas, Singapore 757087",
+    "postal_code": "757087",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/ang-mo-kio/",
+    "name": "Star Learners at Ang Mo Kio",
+    "address": "320 Ang Mo Kio Ave 1, #01-1521, Singapore 560320 (Near Teck Ghee Court Market & Food Centre)",
+    "postal_code": "560320",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/telok-blangah/",
+    "name": "Star Learners at Telok Blangah",
+    "address": "78B Telok Blangah Street 32, #02-16, Singapore 102078(Beside Telok Blangah Market and Telok Blangah Food Centre)",
+    "postal_code": "102078",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/tanjong-pagar/",
+    "name": "Star Learners at Tanjong Pagar",
+    "address": "1 Tanjong Pagar Plaza, #02-01A, Singapore 082001 (Across 100 AM Mall)",
+    "postal_code": "082001",
+    "fees_citizen_monthly": 1630,
+    "fees_pr_monthly": 1290
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/one-north/",
+    "name": "Star Learners at one-north",
+    "address": "10 Ayer Rajah Crescent, Singapore 139940(Near one-north Business Park)",
+    "postal_code": "139940",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/bukit-merah/",
+    "name": "Star Learners at Bukit Merah",
+    "address": "134 Jalan Bukit Merah, #01-1420, Singapore 160134(Near Kampong Tiong Bahru East RC Centre)",
+    "postal_code": "160134",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/sengkang-west/",
+    "name": "Star Learners at Sengkang West",
+    "address": "38 Dedap Road, Singapore 809442(Near Greenwich V)",
+    "postal_code": "809442",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/sengkang-sports-centre/",
+    "name": "Star Learners at Sengkang Sports Centre",
+    "address": "57 Anchorvale Road, #01-04/05, Sengkang Sports Centre, Singapore 544964",
+    "postal_code": "544964",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/sengkang-rivervale/",
+    "name": "Star Learners at Sengkang Rivervale",
+    "address": "195 Rivervale Drive, #01-743, Singapore 540195(Near Rivervale Mall)",
+    "postal_code": "540195",
+    "fees_citizen_monthly": 1230,
+    "fees_pr_monthly": 1290
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/sengkang-compassvale/",
+    "name": "Star Learners at Sengkang Compassvale",
+    "address": "266 Compassvale Bow, #01-04, Singapore 540266(Beside Sengkang Town Council)",
+    "postal_code": "540266",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/hougang-central/",
+    "name": "Star Learners at Hougang Central",
+    "address": "434 Hougang Avenue 8, #01-904, Singapore 530434",
+    "postal_code": "530434",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/hougang/",
+    "name": "Star Learners in Hougang",
+    "address": "8 St. Xavier’s Lane, Singapore 535736",
+    "postal_code": "535736",
+    "fees_citizen_monthly": null,
+    "fees_pr_monthly": null
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/ubi/",
+    "name": "Star Learners at Ubi",
+    "address": "315 Ubi Avenue 1, #01-409, Singapore 400315(Across Maha Bodhi Sch)",
+    "postal_code": "400315",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/telok-kurau/",
+    "name": "Star Learners at Telok Kurau",
+    "address": "3 Lorong G Telok Kurau, Singapore 426165",
+    "postal_code": "426165",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/tampines/",
+    "name": "Star Learners at Tampines",
+    "address": "241 Tampines Street 21, #01-435, Singapore 520241(Across Tampines Skate Park)",
+    "postal_code": "520241",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/tampines-east/",
+    "name": "Star Learners at Tampines East",
+    "address": "297 Tampines St 22, #01-576, Singapore 520297",
+    "postal_code": "520297",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/simei/",
+    "name": "Star Learners at Simei",
+    "address": "9 Harvey Avenue, Singapore 489480(Near ITE College East)",
+    "postal_code": "489480",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/siglap/",
+    "name": "Star Learners at Siglap",
+    "address": "94 Dido Street, Singapore 459509",
+    "postal_code": "459509",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/pasir-ris/",
+    "name": "Star Learners at Pasir Ris",
+    "address": "76 Pasir Ris Heights, Singapore 519282(Near Pasir Ris Park, Carpark F)",
+    "postal_code": "519282",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/elias/",
+    "name": "Star Learners at Elias",
+    "address": "146 Pasir Ris Road, Pasir Ris Beach Park, Singapore 519132(Near Carpark D)",
+    "postal_code": "519132",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1100
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/changi-simei/",
+    "name": "Star Learners at Changi Simei",
+    "address": "114 Simei Street 1, #01-614, Singapore 520114",
+    "postal_code": "520114",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/bukit-panjang/",
+    "name": "Star Learners at Bukit Panjang",
+    "address": "522 Jelapang Rd, #01-301, Singapore 670522(Near Greenridge Shopping Centre)",
+    "postal_code": "670522",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/bukit-batok/",
+    "name": "Star Learners at Bukit Batok",
+    "address": "501 Bukit Batok Street 52, #01-71, Singapore 650501",
+    "postal_code": "650501",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/choa-chu-kang-central/",
+    "name": "Star Learners at Choa Chu Kang Central",
+    "address": "229 Choa Chu Kang Central, #01-139, Singapore 680229(Across South View Primary School)",
+    "postal_code": "680229",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/choa-chu-kang-sports-centre-1/",
+    "error": "HTTP Error 404: "
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/yung-ho/",
+    "name": "Star Learners at Yung Ho",
+    "address": "21 Yung Ho Road, THE AGAPE, #01-01/02, Singapore 618593(Across SuperBowl Jurong)",
+    "postal_code": "618593",
+    "fees_citizen_monthly": 1630,
+    "fees_pr_monthly": 1290
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/bedok/",
+    "name": "Star Learners at Bedok",
+    "address": "64 New Upper Changi Road, #01-1158, Singapore 460064(Across Bedok Sports Complex)",
+    "postal_code": "460064",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1230
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/upper-bukit-timah/",
+    "name": "Star Learners at Upper Bukit Timah",
+    "address": "25 Almond Crescent Singapore, Singapore 677781",
+    "postal_code": "677781",
+    "fees_citizen_monthly": 650,
+    "fees_pr_monthly": 1630
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/star-learners-jurong-west-2/",
+    "error": "HTTP Error 404: "
+  },
+  {
+    "url": "https://starlearners.com.sg/our-centres/star-learners-jurong-west/",
+    "error": "HTTP Error 404: "
+  }
+]
