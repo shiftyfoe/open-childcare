@@ -1,5 +1,945 @@
 [
   {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-fernvale-blk-455-cc/",
+    "name": "PCF Sparkletots Preschool  @Jalan Kayu Blk 455 (CC)",
+    "postal_code": "790455",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Faizah Hanim",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-zhenghua-blk-455a/",
+    "name": "PCF Sparkletots Preschool  @Zhenghua Blk 455A (KN)",
+    "postal_code": "671455",
+    "phone": "+6566848755",
+    "email": "ZH.KN.455A@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Nicole Toh Sor Yi",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-jurong-spring-blk/",
+    "name": "PCF Sparkletots Preschool  @Jurong Spring-Gek Poh Blk 455 (CC)",
+    "postal_code": "640455",
+    "phone": "+6566659528",
+    "email": "JS.CC.455@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Salina Bte Amin",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-yuhua-blk-251/",
+    "name": "PCF Sparkletots Preschool  @Yuhua Blk 251 (KN)",
+    "postal_code": "600251",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Gloria Seah",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-yuhua-blk-264/",
+    "name": "PCF Sparkletots Preschool  @Yuhua Blk 264 (CC)",
+    "postal_code": "600264",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-yuhua-blk-108/",
+    "name": "PCF Sparkletots Preschool  @Yuhua Blk 108 (CC)",
+    "postal_code": "600108",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-ulu-pandan-blk-24/",
+    "name": "PCF Sparkletots Preschool  @Ulu Pandan Blk 24 (DS)",
+    "postal_code": "270024",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Nirmala V",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-ulu-pandan-blk-15/",
+    "name": "PCF Sparkletots Preschool  @Ulu Pandan Blk 15 (CC)",
+    "postal_code": "270015",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Neelima Rai​",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-942/",
+    "name": "PCF Sparkletots Preschool  @Tampines West Blk 942 (EY)",
+    "postal_code": "520942",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": null,
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-151/",
+    "name": "PCF Sparkletots Preschool  @Tampines West Blk 151 (EY)",
+    "postal_code": "521151",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Maslinda Ibrahim",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-140/",
+    "name": "PCF Sparkletots Preschool  @Tampines West Blk 140 (DS)",
+    "postal_code": "520140",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Naseem Sultanah Bte Abdul Gaffoor",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-890a/",
+    "name": "PCF Sparkletots Preschool  @Tampines West Blk 890A (CC)",
+    "postal_code": "521890",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Nur Sulastri Binte Mohamad Riway",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-henderson-dawson-blk-59/",
+    "name": "PCF Sparkletots Preschool  @Henderson-Dawson Blk 59 (CC)",
+    "postal_code": "142059",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-887/",
+    "name": "PCF Sparkletots Preschool  @Tampines West Blk 887 (CC)",
+    "postal_code": "520887",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-tanjong-pagar-tiong-bahru-blk-1e-ds/",
+    "name": "PCF Sparkletots Preschool  @Tanjong Pagar-Tiong Bahru Blk 1E (DS)",
+    "postal_code": "085501",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Poomahdevi d/o Somasundram",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tanjong-pagar-tiong-bahru-blk-125/",
+    "name": "PCF Sparkletots  @Tanjong Pagar-Tiong Bahru Blk 125 (CC)",
+    "postal_code": "160125",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Poomahdevi d/o Somasundram",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-868a/",
+    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 868A (KN)",
+    "postal_code": "521868",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Junainah",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-856/",
+    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 856 (KN)",
+    "postal_code": "520856",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Norliana Binte Ahmad",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-725/",
+    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 725 (DS)",
+    "postal_code": "520725",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Choo Buay Ngor",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-tampines-central-blk-878-cc/",
+    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 878 (CC)",
+    "postal_code": "520878",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Emily Lee",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-867a/",
+    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 867A (CC)",
+    "postal_code": "521867",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-858/",
+    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 858 (CC)",
+    "postal_code": "520858",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Norellyna Binte Hamid",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-713/",
+    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 713 (CC)",
+    "postal_code": "520713",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-serangoon-blk-226/",
+    "name": "PCF Sparkletots Preschool  @Serangoon Blk 226 (KN)",
+    "postal_code": "550226",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Vengadasalam Parmeswari",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-queenstown-blk-3/",
+    "name": "PCF Sparkletots Preschool  @Queenstown Blk 3 (KN)",
+    "postal_code": "150003",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "R Janita Jaya",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-queenstown-blk/",
+    "name": "PCF Sparkletots Preschool  @Queenstown Blk 30A (CC)",
+    "postal_code": "142030",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Yasmin Sani",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-queenstown-blk-145/",
+    "name": "PCF Sparkletots Preschool  @Queenstown Blk 145 (CC)",
+    "postal_code": "140145",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Norhayati DO Mohd Samsulhok",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-pasir-ris-west-blk-650/",
+    "name": "PCF Sparkletots Preschool  @Pasir Ris West Blk 650 (EY)",
+    "postal_code": "510650",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": null,
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-fernvale-blk-401-ey/",
+    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 401 (EY)",
+    "postal_code": "790401",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Valery Toh",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jalan-kayu-blk-999/",
+    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 999 (DS)",
+    "postal_code": "530999",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Bunny Lo",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jalan-kayu-blk-987c/",
+    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 987C (DS)",
+    "postal_code": "533987",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Forina Ng",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-paya-lebar-blk-125-ds/",
+    "name": "PCF Sparkletots Preschool  @Paya Lebar Blk 125 (DS)",
+    "postal_code": "530125",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Shirley Thilaga",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-paya-lebar-blk-23-cc/",
+    "name": "PCF Sparkletots Preschool  @Paya Lebar Blk 23 (CC)",
+    "postal_code": "530023",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Faridah Razali",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-shore-blk-105d/",
+    "name": "PCF Sparkletots Preschool  @Punggol Coast Blk 105D (DS)",
+    "postal_code": "824105",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Fathi Zahara",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-central-blk-737/",
+    "name": "PCF Sparkletots Preschool  @Nee Soon Central Blk 737 (DS)",
+    "postal_code": "760737",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Zita Song Zhen",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-central-blk-671/",
+    "name": "PCF Sparkletots Preschool  @Nee Soon Central Blk 671 (DS)",
+    "postal_code": "760671",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Aw Yong Beng Lee Esther",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-central-blk-646/",
+    "name": "PCF Sparkletots Preschool  @Nee Soon Central Blk 646 (DS)",
+    "postal_code": "760646",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Sulasteri Bte Sakiman",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-digital-hub-punggol-north-cc/",
+    "name": "PCF Sparkletots Preschool  @Punggol Digital Hub (Punggol North) (CC)",
+    "postal_code": "829910",
+    "phone": "+6562444600",
+    "email": "PH.CC.82@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-central-blk-723/",
+    "name": "PCF Sparkletots Preschool  @Nee Soon Central Blk 723 (CC)",
+    "postal_code": "760723",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Cindy Lim Peck Hiah",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-713/",
+    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 713 (DS)",
+    "postal_code": "470713",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Nazahiyah Wahid",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-475c/",
+    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 475C (DS)",
+    "postal_code": "533475",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Chin",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-414/",
+    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 414 (DS)",
+    "postal_code": "530414",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Malika Krishnan",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-508/",
+    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 508 (CC)",
+    "postal_code": "530508",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Nuzurul Ashikin Bte Shafi’ai",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-470c/",
+    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 470C (CC)",
+    "postal_code": "533470",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Shield Wang",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-kaki-bukit-blk-519/",
+    "name": "PCF Sparkletots Preschool  @Kaki Bukit Blk 519 (KN)",
+    "postal_code": "460519",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Tay So Kim",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-central-blk-490/",
+    "name": "PCF Sparkletots Preschool  @Jurong Central Blk 490 (KN)",
+    "postal_code": "640490",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Valerie Wong",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-spring-blk-465/",
+    "name": "PCF Sparkletots Preschool  @Jurong Central Blk 465 (KN)",
+    "postal_code": "640465",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Tey Poi Hoon",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-central-blk-308/",
+    "name": "PCF Sparkletots Preschool  @Jurong Central Blk 308 (CC)",
+    "postal_code": "600308",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Nur Shaheila Binte Kaspan",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-spring-blk-515/",
+    "name": "PCF Sparkletots Preschool  @Jurong Spring-Gek Poh Blk 515 (EY)",
+    "postal_code": "640515",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Jacqueline Chin",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-ayer-rajah-gek-poh-blk-750/",
+    "name": "PCF Sparkletots Preschool  @Jurong Spring-Gek Poh Blk 750 (DS)",
+    "postal_code": "640750",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Amanda Ang",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-spring-blk-528/",
+    "name": "PCF Sparkletots Preschool  @Jurong Spring-Gek Poh Blk 528 (DS)",
+    "postal_code": "640528",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Nur Amirah Roslee",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fernvale-blk-469b/",
+    "name": "PCF Sparkletots Preschool  @Jalan Kayu Blk 469B (EY)",
+    "postal_code": "792469",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Raudah",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fernvale-blk-443/",
+    "name": "PCF Sparkletots Preschool  @Jalan Kayu Blk 443 (EY)",
+    "postal_code": "791443",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Lee Geraldine Shalimah",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fernvale-blk-436d/",
+    "name": "PCF Sparkletots Preschool  @Jalan Kayu Blk 436D (EY)",
+    "postal_code": "794436",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Suhaila Binte Mohamed Idris",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-hougang-blk-328/",
+    "name": "PCF Sparkletots Preschool  @Hougang Blk 328 (DS)",
+    "postal_code": "530328",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Khadijah Yashin",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fengshan-blk-184/",
+    "name": "PCF Sparkletots Preschool  @Fengshan Blk 184 (CC)",
+    "postal_code": "460184",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Cheng Cheng Nyo",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fengshan-blk-115/",
+    "name": "PCF Sparkletots Preschool  @Fengshan Blk 115 (CC)",
+    "postal_code": "460115",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Dian Farhana Binte Suhaimi",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fengshan-blk-108/",
+    "name": "PCF Sparkletots Preschool  @Fengshan Blk 108 (CC)",
+    "postal_code": "460108",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Kylyn Chia",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-clementi-blk-462a/",
+    "name": "PCF Sparkletots Preschool  @Clementi Blk 462A (EY)",
+    "postal_code": "121462",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Chen Qiurong",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-clementi-blk-445/",
+    "name": "PCF Sparkletots Preschool  @Clementi Blk 445 (EY)",
+    "postal_code": "120445",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Prehma Balakrishnan",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-clementi-blk-330/",
+    "name": "PCF Sparkletots Preschool  @Clementi Blk 330 (DS)",
+    "postal_code": "120330",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Halimah Binte Othman",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-marymount-blk-257/",
+    "name": "PCF Sparkletots Preschool  @Marymount Blk 257 (CC)",
+    "postal_code": "570257",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Vithiya Murthy",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-marymount-blk-309/",
+    "name": "PCF Sparkletots Preschool  @Marymount Blk 309 (DS)",
+    "postal_code": "570309",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": null,
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-clementi-blk-420a/",
+    "name": "PCF Sparkletots  @Clementi Blk 420A (CC)",
+    "postal_code": "121420",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Cheah Geok Hoon",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-west-blk-351/",
+    "name": "PCF Sparkletots Preschool  @Sengkang West Blk 351 (EY)",
+    "postal_code": "540351",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Serene Yap",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-coast-blk-303a/",
+    "name": "PCF Sparkletots Preschool  @Punggol Coast Blk 303A (DS)",
+    "postal_code": "821303",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Angeline Goh",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-west-blk-303a/",
+    "name": "PCF Sparkletots Preschool  @Sengkang West Blk 303A (EY)",
+    "postal_code": "541303",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Jolin Soh",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-west-blk-330a/",
+    "name": "PCF Sparkletots Preschool  @Sengkang West Blk 330A (DS)",
+    "postal_code": "541330",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": null,
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-292b/",
+    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 292B (KN)",
+    "postal_code": "542292",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Stella Lim",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-206a/",
+    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 206A (EY)",
+    "postal_code": "541206",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": null,
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-231/",
+    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 231 (DS)",
+    "postal_code": "540231",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": null,
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-298b/",
+    "name": "PCF Sparkletots  @Sengkang North Blk 298B (CC)",
+    "postal_code": "542298",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Meei",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-290a/",
+    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 290A (CC)",
+    "postal_code": "541290",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Vanitha Hariram",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-262a/",
+    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 262A (CC)",
+    "postal_code": "541262",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-serangoon-blk-141/",
+    "name": "PCF Sparkletots Preschool  @Serangoon Blk 141 (CC)",
+    "postal_code": "550141",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Michelle Kek",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-serangoon-blk-125/",
+    "name": "PCF Sparkletots Preschool  @Serangoon Blk 125 (CC)",
+    "postal_code": "550125",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-west-blk-271a/",
+    "name": "PCF Sparkletots Preschool  @Punggol West Blk 271A (KN)",
+    "postal_code": "821271",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": null,
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-west-blk-308b/",
+    "name": "PCF Sparkletots Preschool  @Punggol West Blk 308B (DS)",
+    "postal_code": "822308",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Rahilah Binte Md Hassan",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-west-blk-222/",
+    "name": "PCF Sparkletots Preschool  @Punggol West Blk 222 (CC)",
+    "postal_code": "820222",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Natasha Lee",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-fernvale-blk-402/",
+    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 402 (EY)",
+    "postal_code": "790402",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Revathy Pillai",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fernvale-blk-416a/",
+    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 416A (DS)",
+    "postal_code": "791416",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Ambiga Varadarajan",
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-paya-lebar-blk-221/",
+    "name": "PCF Sparkletots Preschool  @Paya Lebar Blk 221 (CC)",
+    "postal_code": "530221",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Kavitha Panjarselon",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-coast-blk-410a/",
+    "name": "PCF Sparkletots Preschool  @Punggol North Blk 410A (EY)",
+    "postal_code": "821410",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Kit Yee Kitty Chan",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-coast-blk-402/",
+    "name": "PCF Sparkletots Preschool  @Punggol North Blk 402 (EY)",
+    "postal_code": "820402",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Norafizah Rahman (Ann)",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-coast-blk-326/",
+    "name": "PCF Sparkletots Preschool  @Punggol North Blk 326 (CC)",
+    "postal_code": "820326",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Lim Wei Ni",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-central-blk-277b/",
+    "name": "PCF Sparkletots Preschool  @Sengkang Central Blk 277B (EY)",
+    "postal_code": "542277",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "Tan Li Gueh",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-central-blk-270/",
+    "name": "PCF Sparkletots Preschool  @Sengkang Central Blk 270 (CC)",
+    "postal_code": "540270",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Ong Siok Bee Grace",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-central-blk-208/",
+    "name": "PCF Sparkletots Preschool  @Sengkang Central Blk 208 (CC)",
+    "postal_code": "540208",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": null,
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-east-blk-143/",
+    "name": "PCF Sparkletots Preschool  @Sengkang East Blk 143 (KN)",
+    "postal_code": "540143",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
+    "principal": "Wirda Alkhatib",
+    "programme_type": "KN"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-east-blk-103/",
+    "name": "PCF Sparkletots Preschool  @Sengkang East Blk 103 (EY)",
+    "postal_code": "540103",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": "D Jaya",
+    "programme_type": "EY"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-east-blk-194/",
+    "name": "PCF Sparkletots Preschool  @Sengkang East Blk 194 (CC)",
+    "postal_code": "540194",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Siti Noorazlinna Binti Yaacob",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-east-blk-123a/",
+    "name": "PCF Sparkletots Preschool  @Sengkang East Blk 123A (CC)",
+    "postal_code": "541123",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Noor Hidayah",
+    "programme_type": "CC"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-coast-blk-676b/",
+    "name": "PCF Sparkletots Preschool  @Punggol Coast Blk 676B (DS)",
+    "postal_code": "822676",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
+    "principal": null,
+    "programme_type": "DS"
+  },
+  {
+    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-kaki-bukit-blk-525/",
+    "name": "PCF Sparkletots Preschool  @Kaki Bukit Blk 525 (CC)",
+    "postal_code": "460525",
+    "phone": "+6564853300",
+    "email": "email@pcf.org.sg",
+    "operating_hours": null,
+    "principal": "Nadiah Gani",
+    "programme_type": "CC"
+  },
+  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-tengah-blk-244-ey/",
     "name": "PCF Sparkletots Preschool  @Tengah Blk 244 (EY)",
     "postal_code": "690244",
@@ -15,16 +955,6 @@
     "postal_code": "828656",
     "phone": "+6562444600",
     "email": "PC.CC.11@pcf.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-digital-hub-punggol-north-cc/",
-    "name": "PCF Sparkletots Preschool  @Punggol Digital Hub (Punggol North) (CC)",
-    "postal_code": "829910",
-    "phone": "+6562444600",
-    "email": "PH.CC.82@pcf.org.sg",
     "operating_hours": null,
     "principal": null,
     "programme_type": "CC"
@@ -78,26 +1008,6 @@
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
     "principal": null,
     "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-paya-lebar-blk-125-ds/",
-    "name": "PCF Sparkletots Preschool  @Paya Lebar Blk 125 (DS)",
-    "postal_code": "530125",
-    "phone": "+6564870285",
-    "email": "PL.KN.125@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Shirley Thilaga",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-central-blk-723/",
-    "name": "PCF Sparkletots Preschool  @Nee Soon Central Blk 723 (CC)",
-    "postal_code": "760723",
-    "phone": "+6567560735",
-    "email": "NC.CC.723@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Cindy Lim Peck Hiah",
-    "programme_type": "CC"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-chong-pang-blk-115b/",
@@ -190,26 +1100,6 @@
     "programme_type": "DS"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-yuhua-blk-264/",
-    "name": "PCF Sparkletots Preschool  @Yuhua Blk 264 (CC)",
-    "postal_code": "600264",
-    "phone": "+6565632427",
-    "email": "YH.CC.264@pcf.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-paya-lebar-blk-221/",
-    "name": "PCF Sparkletots Preschool  @Paya Lebar Blk 221 (CC)",
-    "postal_code": "530221",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Kavitha Panjarselon",
-    "programme_type": "CC"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-link-blk-461/",
     "name": "PCF Sparkletots Preschool  @Nee Soon Link Blk 461 (EY)",
     "postal_code": "760461",
@@ -290,56 +1180,6 @@
     "programme_type": "DS"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-serangoon-blk-141/",
-    "name": "PCF Sparkletots Preschool  @Serangoon Blk 141 (CC)",
-    "postal_code": "550141",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Michelle Kek",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-262a/",
-    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 262A (CC)",
-    "postal_code": "541262",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-fernvale-blk-402/",
-    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 402 (EY)",
-    "postal_code": "790402",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Revathy Pillai",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-central-blk-270/",
-    "name": "PCF Sparkletots Preschool  @Sengkang Central Blk 270 (CC)",
-    "postal_code": "540270",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Ong Siok Bee Grace",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-290a/",
-    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 290A (CC)",
-    "postal_code": "541290",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Vanitha Hariram",
-    "programme_type": "CC"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-queenstown-blk-53a/",
     "name": "PCF Sparkletots Preschool  @Queenstown Blk 53A (CC)",
     "postal_code": "143053",
@@ -358,16 +1198,6 @@
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
     "principal": "Shirley Soh",
     "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-queenstown-blk-145/",
-    "name": "PCF Sparkletots Preschool  @Queenstown Blk 145 (CC)",
-    "postal_code": "140145",
-    "phone": "+6564716606",
-    "email": "QT.CC.145@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Norhayati DO Mohd Samsulhok",
-    "programme_type": "CC"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-buona-vista-blk-43-cc/",
@@ -390,36 +1220,6 @@
     "programme_type": "CC"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-coast-blk-676b/",
-    "name": "PCF Sparkletots Preschool  @Punggol Coast Blk 676B (DS)",
-    "postal_code": "822676",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": null,
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-coast-blk-326/",
-    "name": "PCF Sparkletots Preschool  @Punggol North Blk 326 (CC)",
-    "postal_code": "820326",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Lim Wei Ni",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-shore-blk-105d/",
-    "name": "PCF Sparkletots Preschool  @Punggol Coast Blk 105D (DS)",
-    "postal_code": "824105",
-    "phone": "+6563154294",
-    "email": "PC.DS.105D@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Fathi Zahara",
-    "programme_type": "DS"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-shore-blk-171c/",
     "name": "PCF Sparkletots Preschool  @Punggol Shore Blk 171C (EY)",
     "postal_code": "823171",
@@ -427,46 +1227,6 @@
     "email": "PN.EY.171C@pcf.org.sg",
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
     "principal": "Normala Binte Othman",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-coast-blk-303a/",
-    "name": "PCF Sparkletots Preschool  @Punggol Coast Blk 303A (DS)",
-    "postal_code": "821303",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Angeline Goh",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-west-blk-308b/",
-    "name": "PCF Sparkletots Preschool  @Punggol West Blk 308B (DS)",
-    "postal_code": "822308",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Rahilah Binte Md Hassan",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-punggol-west-blk-222/",
-    "name": "PCF Sparkletots Preschool  @Punggol West Blk 222 (CC)",
-    "postal_code": "820222",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Natasha Lee",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-coast-blk-410a/",
-    "name": "PCF Sparkletots Preschool  @Punggol North Blk 410A (EY)",
-    "postal_code": "821410",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Kit Yee Kitty Chan",
     "programme_type": "EY"
   },
   {
@@ -478,16 +1238,6 @@
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
     "principal": "Ong Lin Nah",
     "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-coast-blk-402/",
-    "name": "PCF Sparkletots Preschool  @Punggol North Blk 402 (EY)",
-    "postal_code": "820402",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Norafizah Rahman (Ann)",
-    "programme_type": "EY"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-coast-blk-447a-ds/",
@@ -550,16 +1300,6 @@
     "programme_type": "CC"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-spring-blk-515/",
-    "name": "PCF Sparkletots Preschool  @Jurong Spring-Gek Poh Blk 515 (EY)",
-    "postal_code": "640515",
-    "phone": "+6565656500",
-    "email": "JS.EY.515@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Jacqueline Chin",
-    "programme_type": "EY"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-pioneer-blk-694/",
     "name": "PCF Sparkletots Preschool  @Pioneer Blk 694 (CC)",
     "postal_code": "640694",
@@ -578,36 +1318,6 @@
     "operating_hours": null,
     "principal": null,
     "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-central-blk-308/",
-    "name": "PCF Sparkletots Preschool  @Jurong Central Blk 308 (CC)",
-    "postal_code": "600308",
-    "phone": "+6565609622",
-    "email": "JT.CC.308@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Nur Shaheila Binte Kaspan",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-paya-lebar-blk-23-cc/",
-    "name": "PCF Sparkletots Preschool  @Paya Lebar Blk 23 (CC)",
-    "postal_code": "530023",
-    "phone": "+6562882522",
-    "email": "PL.CC.23@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Faridah Razali",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-clementi-blk-330/",
-    "name": "PCF Sparkletots Preschool  @Clementi Blk 330 (DS)",
-    "postal_code": "120330",
-    "phone": "+6567731958",
-    "email": "CL.DS.330@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Halimah Binte Othman",
-    "programme_type": "DS"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bukit-timah-blk-305/",
@@ -648,16 +1358,6 @@
     "operating_hours": null,
     "principal": "Felicia Foo",
     "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-tanjong-pagar-tiong-bahru-blk-1e-ds/",
-    "name": "PCF Sparkletots Preschool  @Tanjong Pagar-Tiong Bahru Blk 1E (DS)",
-    "postal_code": "085501",
-    "phone": "+6566348341",
-    "email": "TG.DS.1E@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Poomahdevi d/o Somasundram",
-    "programme_type": "DS"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-radin-mas/",
@@ -970,16 +1670,6 @@
     "programme_type": "EY"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-231/",
-    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 231 (DS)",
-    "postal_code": "540231",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": null,
-    "programme_type": "DS"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-marymount-blk-231/",
     "name": "PCF Sparkletots Preschool  @Marymount Blk 231 (DS)",
     "postal_code": "570231",
@@ -1040,16 +1730,6 @@
     "programme_type": "EY"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-punggol-west-blk-271a/",
-    "name": "PCF Sparkletots Preschool  @Punggol West Blk 271A (KN)",
-    "postal_code": "821271",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": null,
-    "programme_type": "KN"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-east-blk-367/",
     "name": "PCF Sparkletots Preschool  @Nee Soon East Blk 367 (EY)",
     "postal_code": "760367",
@@ -1097,16 +1777,6 @@
     "email": "GB.CC.378@pcf.org.sg",
     "operating_hours": null,
     "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-tampines-central-blk-878-cc/",
-    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 878 (CC)",
-    "postal_code": "520878",
-    "phone": "+6567858586",
-    "email": "TC.CC.878@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Emily Lee",
     "programme_type": "CC"
   },
   {
@@ -1250,46 +1920,6 @@
     "programme_type": "DS"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-713/",
-    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 713 (DS)",
-    "postal_code": "470713",
-    "phone": "+6564428657",
-    "email": "KP.DS.713@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Nazahiyah Wahid",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-414/",
-    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 414 (DS)",
-    "postal_code": "530414",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Malika Krishnan",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-508/",
-    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 508 (CC)",
-    "postal_code": "530508",
-    "phone": "+6563869844",
-    "email": "KP.CC.508@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Nuzurul Ashikin Bte Shafi’ai",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-475c/",
-    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 475C (DS)",
-    "postal_code": "533475",
-    "phone": "+6563855687",
-    "email": "KP.DS.475C@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Chin",
-    "programme_type": "DS"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bishan-east-sin-ming-blk-197/",
     "name": "PCF Sparkletots Preschool  @Bishan East-Sin Ming Blk 197 (KN)",
     "postal_code": "570197",
@@ -1298,26 +1928,6 @@
     "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
     "principal": "Grace Chan",
     "programme_type": "KN"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-marymount-blk-309/",
-    "name": "PCF Sparkletots Preschool  @Marymount Blk 309 (DS)",
-    "postal_code": "570309",
-    "phone": "+6563562647",
-    "email": "BH.DS.309@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": null,
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-marymount-blk-257/",
-    "name": "PCF Sparkletots Preschool  @Marymount Blk 257 (CC)",
-    "postal_code": "570257",
-    "phone": "+6564584348",
-    "email": "BH.CC.257@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Vithiya Murthy",
-    "programme_type": "CC"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bishan-east-sin-ming-blk-409/",
@@ -1580,26 +2190,6 @@
     "programme_type": "CC"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-clementi-blk-420a/",
-    "name": "PCF Sparkletots  @Clementi Blk 420A (CC)",
-    "postal_code": "121420",
-    "phone": "+6566844166",
-    "email": "CL.CC.420A@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Cheah Geok Hoon",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-clementi-blk-462a/",
-    "name": "PCF Sparkletots Preschool  @Clementi Blk 462A (EY)",
-    "postal_code": "121462",
-    "phone": "+6567793135",
-    "email": "CL.EY.462A@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Chen Qiurong",
-    "programme_type": "EY"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-eunos-blk-616/",
     "name": "PCF Sparkletots Preschool  @Eunos Blk 616 (KN)",
     "postal_code": "470616",
@@ -1740,36 +2330,6 @@
     "programme_type": "DS"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fengshan-blk-115/",
-    "name": "PCF Sparkletots Preschool  @Fengshan Blk 115 (CC)",
-    "postal_code": "460115",
-    "phone": "+6564430230",
-    "email": "FS.CC.115@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Dian Farhana Binte Suhaimi",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fengshan-blk-184/",
-    "name": "PCF Sparkletots Preschool  @Fengshan Blk 184 (CC)",
-    "postal_code": "460184",
-    "phone": "+6562429044",
-    "email": "FS.CC.184@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Cheng Cheng Nyo",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fengshan-blk-108/",
-    "name": "PCF Sparkletots Preschool  @Fengshan Blk 108 (CC)",
-    "postal_code": "460108",
-    "phone": "+6562464026",
-    "email": "FS.CC.108@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Kylyn Chia",
-    "programme_type": "CC"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-link-blk-446/",
     "name": "PCF Sparkletots Preschool  @Nee Soon Link Blk 446 (CC)",
     "postal_code": "760446",
@@ -1788,16 +2348,6 @@
     "operating_hours": null,
     "principal": "Noorlinda Binte Mohamed Yatim",
     "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-hougang-blk-328/",
-    "name": "PCF Sparkletots Preschool  @Hougang Blk 328 (DS)",
-    "postal_code": "530328",
-    "phone": "+6562825856",
-    "email": "HG.DS.328@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Khadijah Yashin",
-    "programme_type": "DS"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jalan-kayu-blk-518/",
@@ -1840,16 +2390,6 @@
     "programme_type": "CC"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-henderson-dawson-blk-59/",
-    "name": "PCF Sparkletots Preschool  @Henderson-Dawson Blk 59 (CC)",
-    "postal_code": "142059",
-    "phone": "+6564795402",
-    "email": "TR.CC.59@pcf.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-hong-kah-north-blk-338/",
     "name": "PCF Sparkletots Preschool  @Hong Kah North Blk 338 (CC)",
     "postal_code": "650338",
@@ -1858,16 +2398,6 @@
     "operating_hours": null,
     "principal": "Yong Shu Wen",
     "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-ayer-rajah-gek-poh-blk-750/",
-    "name": "PCF Sparkletots Preschool  @Jurong Spring-Gek Poh Blk 750 (DS)",
-    "postal_code": "640750",
-    "phone": "+6567944957",
-    "email": "JS.DS.750@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Amanda Ang",
-    "programme_type": "DS"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-ayer-rajah-gek-poh-blk-276d/",
@@ -1890,66 +2420,6 @@
     "programme_type": "CC"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-spring-blk-528/",
-    "name": "PCF Sparkletots Preschool  @Jurong Spring-Gek Poh Blk 528 (DS)",
-    "postal_code": "640528",
-    "phone": "+6565691645",
-    "email": "JS.DS.528@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Nur Amirah Roslee",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-spring-blk-465/",
-    "name": "PCF Sparkletots Preschool  @Jurong Central Blk 465 (KN)",
-    "postal_code": "640465",
-    "phone": "+6565612603",
-    "email": "JT.KN.465@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Tey Poi Hoon",
-    "programme_type": "KN"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-fernvale-blk-455-cc/",
-    "name": "PCF Sparkletots Preschool  @Jalan Kayu Blk 455 (CC)",
-    "postal_code": "790455",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Faizah Hanim",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-kaki-bukit-blk-519/",
-    "name": "PCF Sparkletots Preschool  @Kaki Bukit Blk 519 (KN)",
-    "postal_code": "460519",
-    "phone": "+6564495242",
-    "email": "KB.KN.519@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Tay So Kim",
-    "programme_type": "KN"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jalan-kayu-blk-987c/",
-    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 987C (DS)",
-    "postal_code": "533987",
-    "phone": "+6566363655",
-    "email": "PT.DS.987C@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Forina Ng",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jalan-kayu-blk-999/",
-    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 999 (DS)",
-    "postal_code": "530999",
-    "phone": "+6569685760",
-    "email": "PT.DS.999@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Bunny Lo",
-    "programme_type": "DS"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-joo-chiat/",
     "name": "PCF Sparkletots Preschool  @Joo Chiat (DS)",
     "postal_code": "425611",
@@ -1960,16 +2430,6 @@
     "programme_type": "DS"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-central-blk-490/",
-    "name": "PCF Sparkletots Preschool  @Jurong Central Blk 490 (KN)",
-    "postal_code": "640490",
-    "phone": "+6565691448",
-    "email": "JT.KN.490@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Valerie Wong",
-    "programme_type": "KN"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-jurong-central-blk-403/",
     "name": "PCF Sparkletots Preschool  @Jurong Central Blk 403 (CC)",
     "postal_code": "640403",
@@ -1977,16 +2437,6 @@
     "email": "JT.CC.403@pcf.org.sg",
     "operating_hours": null,
     "principal": "Nalini Sivaperumal",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-kaki-bukit-blk-525/",
-    "name": "PCF Sparkletots Preschool  @Kaki Bukit Blk 525 (CC)",
-    "postal_code": "460525",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Nadiah Gani",
     "programme_type": "CC"
   },
   {
@@ -2260,26 +2710,6 @@
     "programme_type": "CC"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-central-blk-646/",
-    "name": "PCF Sparkletots Preschool  @Nee Soon Central Blk 646 (DS)",
-    "postal_code": "760646",
-    "phone": "+6562571146",
-    "email": "NC.DS.646@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Sulasteri Bte Sakiman",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-central-blk-737/",
-    "name": "PCF Sparkletots Preschool  @Nee Soon Central Blk 737 (DS)",
-    "postal_code": "760737",
-    "phone": "+6567537558",
-    "email": "NC.DS.737@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Zita Song Zhen",
-    "programme_type": "DS"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-east-blk-223/",
     "name": "PCF Sparkletots Preschool  @Nee Soon East Blk 223 (EY)",
     "postal_code": "760223",
@@ -2298,16 +2728,6 @@
     "operating_hours": null,
     "principal": "Idayu Abdul Rahman",
     "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-central-blk-671/",
-    "name": "PCF Sparkletots Preschool  @Nee Soon Central Blk 671 (DS)",
-    "postal_code": "760671",
-    "phone": "+6564813512",
-    "email": "NC.DS.671@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Aw Yong Beng Lee Esther",
-    "programme_type": "DS"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-nee-soon-south-blk-875/",
@@ -2357,16 +2777,6 @@
     "email": "NS.EY.879@pcf.org.sg",
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
     "principal": "Nur Ainina Binte Ahmad",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-pasir-ris-west-blk-650/",
-    "name": "PCF Sparkletots Preschool  @Pasir Ris West Blk 650 (EY)",
-    "postal_code": "510650",
-    "phone": "+6565853071",
-    "email": "PW.EY.650@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": null,
     "programme_type": "EY"
   },
   {
@@ -2460,56 +2870,6 @@
     "programme_type": "CC"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-206a/",
-    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 206A (EY)",
-    "postal_code": "541206",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": null,
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-central-blk-208/",
-    "name": "PCF Sparkletots Preschool  @Sengkang Central Blk 208 (CC)",
-    "postal_code": "540208",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-292b/",
-    "name": "PCF Sparkletots Preschool  @Sengkang North Blk 292B (KN)",
-    "postal_code": "542292",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Stella Lim",
-    "programme_type": "KN"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-north-blk-298b/",
-    "name": "PCF Sparkletots  @Sengkang North Blk 298B (CC)",
-    "postal_code": "542298",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Meei",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-queenstown-blk-3/",
-    "name": "PCF Sparkletots Preschool  @Queenstown Blk 3 (KN)",
-    "postal_code": "150003",
-    "phone": "+6562720556",
-    "email": "QT.KN.3@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "R Janita Jaya",
-    "programme_type": "KN"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-queenstown-blk-78b/",
     "name": "PCF Sparkletots Preschool  @Queenstown Blk 78B (CC)",
     "postal_code": "143078",
@@ -2540,16 +2900,6 @@
     "programme_type": "CC"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-central-blk-277b/",
-    "name": "PCF Sparkletots Preschool  @Sengkang Central Blk 277B (EY)",
-    "postal_code": "542277",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Tan Li Gueh",
-    "programme_type": "EY"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-ang-mo-kio-hougang-blk-535/",
     "name": "PCF Sparkletots Preschool  @Ang Mo Kio-Hougang Blk 535 (DS)",
     "postal_code": "530535",
@@ -2570,96 +2920,6 @@
     "programme_type": "DS"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fernvale-blk-443/",
-    "name": "PCF Sparkletots Preschool  @Jalan Kayu Blk 443 (EY)",
-    "postal_code": "791443",
-    "phone": "+6566366816",
-    "email": "JK.EY.443@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Lee Geraldine Shalimah",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-west-blk-303a/",
-    "name": "PCF Sparkletots Preschool  @Sengkang West Blk 303A (EY)",
-    "postal_code": "541303",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Jolin Soh",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-west-blk-330a/",
-    "name": "PCF Sparkletots Preschool  @Sengkang West Blk 330A (DS)",
-    "postal_code": "541330",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": null,
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-west-blk-351/",
-    "name": "PCF Sparkletots Preschool  @Sengkang West Blk 351 (EY)",
-    "postal_code": "540351",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Serene Yap",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fernvale-blk-436d/",
-    "name": "PCF Sparkletots Preschool  @Jalan Kayu Blk 436D (EY)",
-    "postal_code": "794436",
-    "phone": "+6562420807",
-    "email": "JK.EY.436D@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Suhaila Binte Mohamed Idris",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fernvale-blk-416a/",
-    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 416A (DS)",
-    "postal_code": "791416",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Ambiga Varadarajan",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-fernvale-blk-469b/",
-    "name": "PCF Sparkletots Preschool  @Jalan Kayu Blk 469B (EY)",
-    "postal_code": "792469",
-    "phone": "+6564436772",
-    "email": "JK.EY.469B@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Raudah",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-serangoon-blk-125/",
-    "name": "PCF Sparkletots Preschool  @Serangoon Blk 125 (CC)",
-    "postal_code": "550125",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-serangoon-blk-226/",
-    "name": "PCF Sparkletots Preschool  @Serangoon Blk 226 (KN)",
-    "postal_code": "550226",
-    "phone": "+6562846683",
-    "email": "SN.KN.226@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Vengadasalam Parmeswari",
-    "programme_type": "KN"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-siglap-blk-172/",
     "name": "PCF Sparkletots Preschool  @Bedok Blk 172 (CC)",
     "postal_code": "460172",
@@ -2668,66 +2928,6 @@
     "operating_hours": null,
     "principal": "Joyce SM Koh",
     "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-856/",
-    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 856 (KN)",
-    "postal_code": "520856",
-    "phone": "+6567894598",
-    "email": "TC.KN.856@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Norliana Binte Ahmad",
-    "programme_type": "KN"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-868a/",
-    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 868A (KN)",
-    "postal_code": "521868",
-    "phone": "+6563416820",
-    "email": "TC.KN.868A@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Junainah",
-    "programme_type": "KN"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-867a/",
-    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 867A (CC)",
-    "postal_code": "521867",
-    "phone": "+6567837868",
-    "email": "TC.CC.867A@pcf.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-713/",
-    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 713 (CC)",
-    "postal_code": "520713",
-    "phone": "+6562601386",
-    "email": "TC.CC.713@pcf.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-858/",
-    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 858 (CC)",
-    "postal_code": "520858",
-    "phone": "+6567885737",
-    "email": "TC.CC.858@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Norellyna Binte Hamid",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-central-blk-725/",
-    "name": "PCF Sparkletots Preschool  @Tampines Central Blk 725 (DS)",
-    "postal_code": "520725",
-    "phone": "+6567893677",
-    "email": "TC.DS.725@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Choo Buay Ngor",
-    "programme_type": "DS"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-changkat-blk-106/",
@@ -2748,66 +2948,6 @@
     "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
     "principal": "Janelle Wong",
     "programme_type": "KN"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-140/",
-    "name": "PCF Sparkletots Preschool  @Tampines West Blk 140 (DS)",
-    "postal_code": "520140",
-    "phone": "+6567821177",
-    "email": "TW.DS.140@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Naseem Sultanah Bte Abdul Gaffoor",
-    "programme_type": "DS"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-887/",
-    "name": "PCF Sparkletots Preschool  @Tampines West Blk 887 (CC)",
-    "postal_code": "520887",
-    "phone": "+6567836365",
-    "email": "TW.CC.887@pcf.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-942/",
-    "name": "PCF Sparkletots Preschool  @Tampines West Blk 942 (EY)",
-    "postal_code": "520942",
-    "phone": "+6567849448",
-    "email": "TW.EY.942@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": null,
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-890a/",
-    "name": "PCF Sparkletots Preschool  @Tampines West Blk 890A (CC)",
-    "postal_code": "521890",
-    "phone": "+6562600316",
-    "email": "TW.CC.890A@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Nur Sulastri Binte Mohamad Riway",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-west-blk-151/",
-    "name": "PCF Sparkletots Preschool  @Tampines West Blk 151 (EY)",
-    "postal_code": "521151",
-    "phone": "+6567856155",
-    "email": "TW.EY.151@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Maslinda Ibrahim",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tanjong-pagar-tiong-bahru-blk-125/",
-    "name": "PCF Sparkletots  @Tanjong Pagar-Tiong Bahru Blk 125 (CC)",
-    "postal_code": "160125",
-    "phone": "+6562708485",
-    "email": "TG.CC.125@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Poomahdevi d/o Somasundram",
-    "programme_type": "CC"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-teck-ghee-blk-301/",
@@ -2920,16 +3060,6 @@
     "programme_type": "CC"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-clementi-blk-445/",
-    "name": "PCF Sparkletots Preschool  @Clementi Blk 445 (EY)",
-    "postal_code": "120445",
-    "phone": "+6569723847",
-    "email": "CL.EY.445@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Prehma Balakrishnan",
-    "programme_type": "EY"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-toa-payoh-east-blk-45/",
     "name": "PCF Sparkletots Preschool  @Toa Payoh East Blk 45 (DS)",
     "postal_code": "310045",
@@ -2950,26 +3080,6 @@
     "programme_type": "DS"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-ulu-pandan-blk-15/",
-    "name": "PCF Sparkletots Preschool  @Ulu Pandan Blk 15 (CC)",
-    "postal_code": "270015",
-    "phone": "+6567625650",
-    "email": "UP.CC.15@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Neelima Rai​",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-ulu-pandan-blk-24/",
-    "name": "PCF Sparkletots Preschool  @Ulu Pandan Blk 24 (DS)",
-    "postal_code": "270024",
-    "phone": "+6565702996",
-    "email": "UP.DS.24@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Nirmala V",
-    "programme_type": "DS"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-west-coast-blk-611/",
     "name": "PCF Sparkletots Preschool  @West Coast Blk 611 (CC)",
     "postal_code": "120611",
@@ -2987,26 +3097,6 @@
     "email": "GB.CC.105@pcf.org.sg",
     "operating_hours": null,
     "principal": "Buvaneswari Mary",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-east-blk-103/",
-    "name": "PCF Sparkletots Preschool  @Sengkang East Blk 103 (EY)",
-    "postal_code": "540103",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "D Jaya",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-queenstown-blk/",
-    "name": "PCF Sparkletots Preschool  @Queenstown Blk 30A (CC)",
-    "postal_code": "142030",
-    "phone": "+6560180207",
-    "email": "QT.CC.30A@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Yasmin Sani",
     "programme_type": "CC"
   },
   {
@@ -3037,16 +3127,6 @@
     "email": "TK.EY.227@pcf.org.sg",
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
     "principal": "Kamariah Binte Sani",
-    "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-fernvale-blk-401-ey/",
-    "name": "PCF Sparkletots Preschool  @Buangkok-Fernvale South Blk 401 (EY)",
-    "postal_code": "790401",
-    "phone": "+6568026775",
-    "email": "PT.EY.401@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
-    "principal": "Valery Toh",
     "programme_type": "EY"
   },
   {
@@ -3220,26 +3300,6 @@
     "programme_type": "KN"
   },
   {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-yuhua-blk-108/",
-    "name": "PCF Sparkletots Preschool  @Yuhua Blk 108 (CC)",
-    "postal_code": "600108",
-    "phone": "+6565620866",
-    "email": "YH.CC.108@pcf.org.sg",
-    "operating_hours": null,
-    "principal": null,
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-yuhua-blk-251/",
-    "name": "PCF Sparkletots Preschool  @Yuhua Blk 251 (KN)",
-    "postal_code": "600251",
-    "phone": "+6565656401",
-    "email": "YH.KN.251@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Gloria Seah",
-    "programme_type": "KN"
-  },
-  {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-zhenghua-blk-632a/",
     "name": "PCF Sparkletots Preschool  @Zhenghua Blk 632A (CC)",
     "postal_code": "671632",
@@ -3258,26 +3318,6 @@
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
     "principal": "Ng Lian See",
     "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-zhenghua-blk-455a/",
-    "name": "PCF Sparkletots Preschool  @Zhenghua Blk 455A (KN)",
-    "postal_code": "671455",
-    "phone": "+6566848755",
-    "email": "ZH.KN.455A@pcf.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Nicole Toh Sor Yi",
-    "programme_type": "KN"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-jurong-spring-blk/",
-    "name": "PCF Sparkletots Preschool  @Jurong Spring-Gek Poh Blk 455 (CC)",
-    "postal_code": "640455",
-    "phone": "+6566659528",
-    "email": "JS.CC.455@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Salina Bte Amin",
-    "programme_type": "CC"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-preschool-kolam-ayer-blk-52/",
@@ -3308,46 +3348,6 @@
     "operating_hours": "Monday to Friday: 7:00am - 7:00pm",
     "principal": "Hurul-A’in Binte Mohd Yusoff",
     "programme_type": "EY"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-bedok-reservoir-punggol-blk-470c/",
-    "name": "PCF Sparkletots Preschool  @Bedok Reservoir-Punggol Blk 470C (CC)",
-    "postal_code": "533470",
-    "phone": "+6563416906",
-    "email": "KP.CC.470C@pcf.org.sg",
-    "operating_hours": null,
-    "principal": "Shield Wang",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-east-blk-143/",
-    "name": "PCF Sparkletots Preschool  @Sengkang East Blk 143 (KN)",
-    "postal_code": "540143",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": "Monday to Friday: 8:00am - 5:00pm",
-    "principal": "Wirda Alkhatib",
-    "programme_type": "KN"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-east-blk-123a/",
-    "name": "PCF Sparkletots Preschool  @Sengkang East Blk 123A (CC)",
-    "postal_code": "541123",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Noor Hidayah",
-    "programme_type": "CC"
-  },
-  {
-    "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-sengkang-east-blk-194/",
-    "name": "PCF Sparkletots Preschool  @Sengkang East Blk 194 (CC)",
-    "postal_code": "540194",
-    "phone": "+6564853300",
-    "email": "PCF.SparkletotsDA02@PCF.org.sg",
-    "operating_hours": null,
-    "principal": "Siti Noorazlinna Binti Yaacob",
-    "programme_type": "CC"
   },
   {
     "url": "https://pcfsparkletots.org.sg/our-preschools/pcf-sparkletots-tampines-changkat-blk-112/",

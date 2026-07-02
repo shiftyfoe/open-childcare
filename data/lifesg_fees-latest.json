@@ -2425,8 +2425,8 @@
     "centre_code": "PT9732",
     "centre_name": "Milagros de Montessori School - Queens Close",
     "level": "PG",
-    "fee_min": 740.0,
-    "fee_max": 740.0
+    "fee_min": 1200.0,
+    "fee_max": 1500.0
   },
   {
     "centre_code": "PT9734",
@@ -3692,7 +3692,7 @@
     "centre_code": "ST0122",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
     "level": "PG",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -3748,7 +3748,7 @@
     "centre_code": "ST0151",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CHONG PANG BLK 277 (CC)",
     "level": "PG",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -4634,13 +4634,6 @@
     "fee_max": 1022.94
   },
   {
-    "centre_code": "PT8672",
-    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
-    "level": "PG",
-    "fee_min": 150.0,
-    "fee_max": 1230.0
-  },
-  {
     "centre_code": "PT8690",
     "centre_name": "Lorna Whiston (Kallang Wave)",
     "level": "PG",
@@ -4767,13 +4760,6 @@
     "fee_max": 1280.0
   },
   {
-    "centre_code": "PT8993",
-    "centre_name": "Star Learners @ Elias Pte Ltd",
-    "level": "PG",
-    "fee_min": 490.0,
-    "fee_max": 1100.0
-  },
-  {
     "centre_code": "PT9027",
     "centre_name": "Kiddiwinkie Schoolhouse Singapore Pte Ltd",
     "level": "PG",
@@ -4813,14 +4799,14 @@
     "centre_name": "Small Wonder Preschool Punggol",
     "level": "PG",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9067",
     "centre_name": "SMALL WONDER PRESCHOOL YISHUN (ADORA GREEN)",
     "level": "PG",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9079",
@@ -5122,13 +5108,6 @@
     "level": "PG",
     "fee_min": 3500.0,
     "fee_max": 3900.0
-  },
-  {
-    "centre_code": "PT9511",
-    "centre_name": "THE LITTLE SKOOL-HOUSE INTERNATIONAL PTE LTD",
-    "level": "PG",
-    "fee_min": 650.0,
-    "fee_max": 1900.0
   },
   {
     "centre_code": "PT9514",
@@ -5537,13 +5516,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0103",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ BOON LAY BLK 627 (CC)",
-    "level": "PG",
-    "fee_min": 459.48,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0111",
     "centre_name": "PCF Sparkletots Preschool @ Jurong Spring-Gek Poh Blk 275A (CC)",
     "level": "PG",
@@ -5600,6 +5572,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0161",
+    "centre_name": "PCF Sparkletots Preschool @ Toa Payoh East Blk 247 (CC)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0165",
     "centre_name": "PCF Sparkletots Preschool @ Tampines West Blk 151 (EY)",
     "level": "PG",
@@ -5610,7 +5589,7 @@
     "centre_code": "ST0173",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KEAT HONG BLK 484 (CC)",
     "level": "PG",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -5656,13 +5635,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0223",
-    "centre_name": "PCF Sparkletots Preschool @ Toa Payoh East Blk 45 (DS)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0226",
     "centre_name": "PCF Sparkletots Preschool @ Toa Payoh West-Thomson Blk 205 (DS)",
     "level": "PG",
@@ -5679,13 +5651,6 @@
   {
     "centre_code": "ST0230",
     "centre_name": "PCF Sparkletots Preschool @ Potong Pasir Blk 143 (DS)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0247",
-    "centre_name": "PCF Sparkletots Preschool @ Bedok Blk 30 (DS)",
     "level": "PG",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -6076,13 +6041,6 @@
     "fee_max": 2000.0
   },
   {
-    "centre_code": "PT7080",
-    "centre_name": "SWEETLANDS CHILDCARE WOODLANDS 643 PTE. LTD.",
-    "level": "PG",
-    "fee_min": 100.0,
-    "fee_max": 900.0
-  },
-  {
     "centre_code": "PT7140",
     "centre_name": "Character Montessori AMK",
     "level": "PG",
@@ -6221,6 +6179,13 @@
     "level": "PG",
     "fee_min": 2740.0,
     "fee_max": 3250.0
+  },
+  {
+    "centre_code": "PT8672",
+    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
+    "level": "PG",
+    "fee_min": 150.0,
+    "fee_max": 1230.0
   },
   {
     "centre_code": "PT8676",
@@ -6403,6 +6368,13 @@
     "level": "PG",
     "fee_min": 1129.0,
     "fee_max": 2250.0
+  },
+  {
+    "centre_code": "PT8993",
+    "centre_name": "Star Learners @ Elias Pte Ltd",
+    "level": "PG",
+    "fee_min": 490.0,
+    "fee_max": 1100.0
   },
   {
     "centre_code": "PT8995",
@@ -6816,6 +6788,13 @@
     "level": "PG",
     "fee_min": 1480.0,
     "fee_max": 1780.0
+  },
+  {
+    "centre_code": "PT9511",
+    "centre_name": "THE LITTLE SKOOL-HOUSE INTERNATIONAL PTE LTD",
+    "level": "PG",
+    "fee_min": 650.0,
+    "fee_max": 1900.0
   },
   {
     "centre_code": "PT9512",
@@ -7290,7 +7269,7 @@
     "centre_code": "PT9954",
     "centre_name": "Marist Preschool Pte Ltd",
     "level": "PG",
-    "fee_min": 1467.89,
+    "fee_min": 1700.0,
     "fee_max": 2000.0
   },
   {
@@ -7453,13 +7432,6 @@
     "level": "PG",
     "fee_min": 650.0,
     "fee_max": 650.0
-  },
-  {
-    "centre_code": "RC1914",
-    "centre_name": "New Life Preschool @ Ang Mo Kio",
-    "level": "PG",
-    "fee_min": 80.0,
-    "fee_max": 1080.0
   },
   {
     "centre_code": "RC1924",
@@ -7637,6 +7609,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0103",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ BOON LAY BLK 627 (CC)",
+    "level": "PG",
+    "fee_min": 459.48,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0106",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ ULU PANDAN BLK 15 (CC)",
     "level": "PG",
@@ -7767,13 +7746,6 @@
     "centre_name": "PCF Sparkletots Preschool @ Sembawang West Blk 755 (CC)",
     "level": "PG",
     "fee_min": 460.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0161",
-    "centre_name": "PCF Sparkletots Preschool @ Toa Payoh East Blk 247 (CC)",
-    "level": "PG",
-    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -7924,6 +7896,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0223",
+    "centre_name": "PCF Sparkletots Preschool @ Toa Payoh East Blk 45 (DS)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0225",
     "centre_name": "PCF Sparkletots Preschool @ Toa Payoh Central Blk 157 (DS)",
     "level": "PG",
@@ -7954,6 +7933,13 @@
   {
     "centre_code": "ST0240",
     "centre_name": "PCF Sparkletots Preschool @ Marine Parade Blk 46 (DS)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0247",
+    "centre_name": "PCF Sparkletots Preschool @ Bedok Blk 30 (DS)",
     "level": "PG",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -8239,6 +8225,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0415",
+    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
+    "level": "PG",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "WP0280",
     "centre_name": "Learning Vision Tan Tock Seng Hospital",
     "level": "PG",
@@ -8297,13 +8290,6 @@
   {
     "centre_code": "TP0953",
     "centre_name": "PCF Sparkletots Preschool @ Marsiling Blk 909 (CC)",
-    "level": "PG",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "TP1037",
-    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
     "level": "PG",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -9968,13 +9954,6 @@
     "fee_max": 1080.0
   },
   {
-    "centre_code": "YM0201",
-    "centre_name": "MY WORLD PRESCHOOL LTD.",
-    "level": "PG",
-    "fee_min": 50.0,
-    "fee_max": 1080.0
-  },
-  {
     "centre_code": "PT5170",
     "centre_name": "The Schoolhouse Ridgewood",
     "level": "PG",
@@ -10129,6 +10108,13 @@
     "fee_max": 1500.0
   },
   {
+    "centre_code": "RC1914",
+    "centre_name": "New Life Preschool @ Newton",
+    "level": "PG",
+    "fee_min": 80.0,
+    "fee_max": 1080.0
+  },
+  {
     "centre_code": "SK0022",
     "centre_name": "Skool4Kidz Preschool",
     "level": "PG",
@@ -10235,6 +10221,13 @@
   },
   {
     "centre_code": "YM0197",
+    "centre_name": "MY WORLD PRESCHOOL LTD.",
+    "level": "PG",
+    "fee_min": 50.0,
+    "fee_max": 1080.0
+  },
+  {
+    "centre_code": "YM0201",
     "centre_name": "MY WORLD PRESCHOOL LTD.",
     "level": "PG",
     "fee_min": 50.0,
@@ -10535,13 +10528,6 @@
     "fee_max": 1500.0
   },
   {
-    "centre_code": "NT0030",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0180",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
@@ -10550,13 +10536,6 @@
   },
   {
     "centre_code": "NT0200",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0230",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -10626,13 +10605,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0581",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0594",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
@@ -10654,28 +10626,7 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0060",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0110",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0190",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0210",
+    "centre_code": "NT0030",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -10683,6 +10634,20 @@
   },
   {
     "centre_code": "NT0220",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0230",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0240",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -10718,6 +10683,13 @@
   },
   {
     "centre_code": "NT0440",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0460",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -10955,21 +10927,7 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0560",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0563",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0564",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -10990,13 +10948,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0575",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0576",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
@@ -11004,7 +10955,7 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0579",
+    "centre_code": "NT0581",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -11025,13 +10976,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0584",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0590",
     "centre_name": "My First Skool",
     "level": "PG",
@@ -11039,8 +10983,8 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0601",
-    "centre_name": "MY FIRST SKOOL",
+    "centre_code": "NT0593",
+    "centre_name": "My First Skool",
     "level": "PG",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -11055,20 +10999,6 @@
   {
     "centre_code": "NT0608",
     "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0612",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0617",
-    "centre_name": "My First Skool",
     "level": "PG",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -11095,6 +11025,13 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0060",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0070",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
@@ -11109,7 +11046,21 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0240",
+    "centre_code": "NT0110",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0190",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0210",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -11180,13 +11131,6 @@
   },
   {
     "centre_code": "NT0450",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0460",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -11494,7 +11438,21 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0560",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0561",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0564",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -11557,6 +11515,13 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0575",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0577",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
@@ -11565,6 +11530,20 @@
   },
   {
     "centre_code": "NT0578",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0579",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0584",
     "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
@@ -11580,13 +11559,6 @@
   {
     "centre_code": "NT0592",
     "centre_name": "MY FIRST SKOOL",
-    "level": "PG",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0593",
-    "centre_name": "My First Skool",
     "level": "PG",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -11629,6 +11601,13 @@
   {
     "centre_code": "NT0600",
     "centre_name": "My First Skool",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0601",
+    "centre_name": "MY FIRST SKOOL",
     "level": "PG",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -11690,7 +11669,21 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0612",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0616",
+    "centre_name": "My First Skool",
+    "level": "PG",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0617",
     "centre_name": "My First Skool",
     "level": "PG",
     "fee_min": 52.92,
@@ -11779,6 +11772,13 @@
     "level": "N1",
     "fee_min": 1555.05,
     "fee_max": 2151.38
+  },
+  {
+    "centre_code": "PT3000",
+    "centre_name": "BRIGHT KIDS @ PASIR RIS PTE LTD",
+    "level": "N1",
+    "fee_min": 45.0,
+    "fee_max": 1320.0
   },
   {
     "centre_code": "PT3150",
@@ -11926,13 +11926,6 @@
     "level": "N1",
     "fee_min": 100.0,
     "fee_max": 1300.0
-  },
-  {
-    "centre_code": "PT6940",
-    "centre_name": "SUNFLOWER CHILDCARE & DEVELOPMENT CENTRE PTE LTD",
-    "level": "N1",
-    "fee_min": 490.0,
-    "fee_max": 1000.0
   },
   {
     "centre_code": "PT6950",
@@ -14171,8 +14164,8 @@
     "centre_code": "PT9732",
     "centre_name": "Milagros de Montessori School - Queens Close",
     "level": "N1",
-    "fee_min": 740.0,
-    "fee_max": 740.0
+    "fee_min": 1200.0,
+    "fee_max": 1500.0
   },
   {
     "centre_code": "PT9734",
@@ -16261,13 +16254,6 @@
     "fee_max": 2291.0
   },
   {
-    "centre_code": "PT3000",
-    "centre_name": "BRIGHT KIDS @ PASIR RIS PTE LTD",
-    "level": "N1",
-    "fee_min": 45.0,
-    "fee_max": 1320.0
-  },
-  {
     "centre_code": "PT3100",
     "centre_name": "LITTLE FOOTPRINTS PRESCHOOL ASIA PTE. LTD.",
     "level": "N1",
@@ -16315,6 +16301,13 @@
     "level": "N1",
     "fee_min": 10.0,
     "fee_max": 1740.0
+  },
+  {
+    "centre_code": "PT6940",
+    "centre_name": "SUNFLOWER CHILDCARE & DEVELOPMENT CENTRE PTE LTD",
+    "level": "N1",
+    "fee_min": 490.0,
+    "fee_max": 1000.0
   },
   {
     "centre_code": "PT7180",
@@ -16476,13 +16469,6 @@
     "level": "N1",
     "fee_min": 490.0,
     "fee_max": 1022.94
-  },
-  {
-    "centre_code": "PT8672",
-    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
-    "level": "N1",
-    "fee_min": 150.0,
-    "fee_max": 1230.0
   },
   {
     "centre_code": "PT8690",
@@ -16671,7 +16657,7 @@
     "centre_name": "SMALL WONDER PRESCHOOL YISHUN (ADORA GREEN)",
     "level": "N1",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9068",
@@ -16987,13 +16973,6 @@
     "level": "N1",
     "fee_min": 3500.0,
     "fee_max": 3900.0
-  },
-  {
-    "centre_code": "PT9511",
-    "centre_name": "THE LITTLE SKOOL-HOUSE INTERNATIONAL PTE LTD",
-    "level": "N1",
-    "fee_min": 650.0,
-    "fee_max": 1900.0
   },
   {
     "centre_code": "PT9512",
@@ -17538,7 +17517,7 @@
     "centre_code": "ST0122",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
     "level": "N1",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -17580,7 +17559,7 @@
     "centre_code": "ST0151",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CHONG PANG BLK 277 (CC)",
     "level": "N1",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -17608,7 +17587,7 @@
     "centre_code": "ST0173",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KEAT HONG BLK 484 (CC)",
     "level": "N1",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -17663,13 +17642,6 @@
   {
     "centre_code": "ST0220",
     "centre_name": "PCF Sparkletots Preschool @ Kampong Glam Blk 462 (DS)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "ST0223",
-    "centre_name": "PCF Sparkletots Preschool @ Toa Payoh East Blk 45 (DS)",
     "level": "N1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -18144,13 +18116,6 @@
     "fee_max": 2000.0
   },
   {
-    "centre_code": "PT7080",
-    "centre_name": "SWEETLANDS CHILDCARE WOODLANDS 643 PTE. LTD.",
-    "level": "N1",
-    "fee_min": 100.0,
-    "fee_max": 900.0
-  },
-  {
     "centre_code": "PT7140",
     "centre_name": "Character Montessori AMK",
     "level": "N1",
@@ -18275,6 +18240,13 @@
     "level": "N1",
     "fee_min": 650.0,
     "fee_max": 1600.0
+  },
+  {
+    "centre_code": "PT8672",
+    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
+    "level": "N1",
+    "fee_min": 150.0,
+    "fee_max": 1230.0
   },
   {
     "centre_code": "PT8676",
@@ -18519,7 +18491,7 @@
     "centre_name": "Small Wonder Preschool Punggol",
     "level": "N1",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9072",
@@ -18863,6 +18835,13 @@
     "level": "N1",
     "fee_min": 650.0,
     "fee_max": 1600.0
+  },
+  {
+    "centre_code": "PT9511",
+    "centre_name": "THE LITTLE SKOOL-HOUSE INTERNATIONAL PTE LTD",
+    "level": "N1",
+    "fee_min": 650.0,
+    "fee_max": 1900.0
   },
   {
     "centre_code": "PT9518",
@@ -19358,7 +19337,7 @@
     "centre_code": "PT9954",
     "centre_name": "Marist Preschool Pte Ltd",
     "level": "N1",
-    "fee_min": 1467.89,
+    "fee_min": 1700.0,
     "fee_max": 2000.0
   },
   {
@@ -19584,13 +19563,6 @@
     "level": "N1",
     "fee_min": 490.0,
     "fee_max": 940.0
-  },
-  {
-    "centre_code": "RC1914",
-    "centre_name": "New Life Preschool @ Ang Mo Kio",
-    "level": "N1",
-    "fee_min": 80.0,
-    "fee_max": 1080.0
   },
   {
     "centre_code": "RC1920",
@@ -20013,6 +19985,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0223",
+    "centre_name": "PCF Sparkletots Preschool @ Toa Payoh East Blk 45 (DS)",
+    "level": "N1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0225",
     "centre_name": "PCF Sparkletots Preschool @ Toa Payoh Central Blk 157 (DS)",
     "level": "N1",
@@ -20349,6 +20328,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0415",
+    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
+    "level": "N1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "WP0280",
     "centre_name": "Learning Vision Tan Tock Seng Hospital",
     "level": "N1",
@@ -20386,13 +20372,6 @@
   {
     "centre_code": "TP0953",
     "centre_name": "PCF Sparkletots Preschool @ Marsiling Blk 909 (CC)",
-    "level": "N1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "TP1037",
-    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
     "level": "N1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -22246,6 +22225,13 @@
     "fee_max": 1500.0
   },
   {
+    "centre_code": "RC1914",
+    "centre_name": "New Life Preschool @ Newton",
+    "level": "N1",
+    "fee_min": 80.0,
+    "fee_max": 1080.0
+  },
+  {
     "centre_code": "SK0022",
     "centre_name": "Skool4Kidz Preschool",
     "level": "N1",
@@ -22925,13 +22911,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0612",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0615",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
@@ -23030,20 +23009,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0340",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0390",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0400",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
@@ -23080,13 +23045,6 @@
   },
   {
     "centre_code": "NT0471",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0474",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
     "fee_min": 52.92,
@@ -23345,13 +23303,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0566",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0570",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
@@ -23373,6 +23324,20 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0577",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0578",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0583",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
@@ -23380,14 +23345,14 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0592",
-    "centre_name": "MY FIRST SKOOL",
+    "centre_code": "NT0600",
+    "centre_name": "My First Skool",
     "level": "N1",
     "fee_min": 52.92,
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0602",
+    "centre_code": "NT0607",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
     "fee_min": 52.92,
@@ -23436,7 +23401,28 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0340",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0370",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0390",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0474",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
     "fee_min": 52.92,
@@ -23632,6 +23618,13 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0566",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0568",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
@@ -23660,20 +23653,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0577",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0578",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0579",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
@@ -23690,6 +23669,13 @@
   {
     "centre_code": "NT0591",
     "centre_name": "My First Skool",
+    "level": "N1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0592",
+    "centre_name": "MY FIRST SKOOL",
     "level": "N1",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -23730,8 +23716,8 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0600",
-    "centre_name": "My First Skool",
+    "centre_code": "NT0602",
+    "centre_name": "MY FIRST SKOOL",
     "level": "N1",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -23758,13 +23744,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0607",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0609",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
@@ -23780,6 +23759,13 @@
   },
   {
     "centre_code": "NT0611",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0612",
     "centre_name": "MY FIRST SKOOL",
     "level": "N1",
     "fee_min": 52.92,
@@ -23882,6 +23868,13 @@
     "level": "N2",
     "fee_min": 1555.05,
     "fee_max": 2151.38
+  },
+  {
+    "centre_code": "PT3000",
+    "centre_name": "BRIGHT KIDS @ PASIR RIS PTE LTD",
+    "level": "N2",
+    "fee_min": 45.0,
+    "fee_max": 1280.0
   },
   {
     "centre_code": "PT3150",
@@ -26253,8 +26246,8 @@
     "centre_code": "PT9732",
     "centre_name": "Milagros de Montessori School - Queens Close",
     "level": "N2",
-    "fee_min": 350.0,
-    "fee_max": 740.0
+    "fee_min": 1200.0,
+    "fee_max": 1500.0
   },
   {
     "centre_code": "PT9743",
@@ -27230,13 +27223,6 @@
     "fee_max": 700.0
   },
   {
-    "centre_code": "RC1867",
-    "centre_name": "Little Shepherds' Schoolhouse@Church of St Francis Xavier",
-    "level": "N2",
-    "fee_min": 720.0,
-    "fee_max": 1250.0
-  },
-  {
     "centre_code": "RC1870",
     "centre_name": "Calvary Pandan Kindergarten",
     "level": "N2",
@@ -27499,7 +27485,7 @@
     "centre_code": "ST0151",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CHONG PANG BLK 277 (CC)",
     "level": "N2",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -28231,13 +28217,6 @@
     "fee_max": 2291.0
   },
   {
-    "centre_code": "PT3000",
-    "centre_name": "BRIGHT KIDS @ PASIR RIS PTE LTD",
-    "level": "N2",
-    "fee_min": 45.0,
-    "fee_max": 1280.0
-  },
-  {
     "centre_code": "PT3100",
     "centre_name": "LITTLE FOOTPRINTS PRESCHOOL ASIA PTE. LTD.",
     "level": "N2",
@@ -28406,13 +28385,6 @@
     "fee_max": 1022.94
   },
   {
-    "centre_code": "PT8672",
-    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
-    "level": "N2",
-    "fee_min": 150.0,
-    "fee_max": 1230.0
-  },
-  {
     "centre_code": "PT8690",
     "centre_name": "Lorna Whiston (Kallang Wave)",
     "level": "N2",
@@ -28550,13 +28522,6 @@
     "centre_name": "Star Learners @ Tampines West Pte. Ltd.",
     "level": "N2",
     "fee_min": 650.0,
-    "fee_max": 1100.0
-  },
-  {
-    "centre_code": "PT8993",
-    "centre_name": "Star Learners @ Elias Pte Ltd",
-    "level": "N2",
-    "fee_min": 490.0,
     "fee_max": 1100.0
   },
   {
@@ -29302,6 +29267,13 @@
     "fee_max": 220.0
   },
   {
+    "centre_code": "RC1867",
+    "centre_name": "Little Shepherds' Schoolhouse@Church of St Francis Xavier",
+    "level": "N2",
+    "fee_min": 720.0,
+    "fee_max": 1250.0
+  },
+  {
     "centre_code": "RC1875",
     "centre_name": "Jurong Calvary Kindergarten",
     "level": "N2",
@@ -29564,7 +29536,7 @@
     "centre_code": "ST0122",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
     "level": "N2",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -30128,13 +30100,6 @@
     "fee_max": 2000.0
   },
   {
-    "centre_code": "PT7080",
-    "centre_name": "SWEETLANDS CHILDCARE WOODLANDS 643 PTE. LTD.",
-    "level": "N2",
-    "fee_min": 100.0,
-    "fee_max": 900.0
-  },
-  {
     "centre_code": "PT7140",
     "centre_name": "Character Montessori AMK",
     "level": "N2",
@@ -30280,6 +30245,13 @@
     "level": "N2",
     "fee_min": 650.0,
     "fee_max": 1600.0
+  },
+  {
+    "centre_code": "PT8672",
+    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
+    "level": "N2",
+    "fee_min": 150.0,
+    "fee_max": 1230.0
   },
   {
     "centre_code": "PT8676",
@@ -30464,6 +30436,13 @@
     "fee_max": 2150.0
   },
   {
+    "centre_code": "PT8993",
+    "centre_name": "Star Learners @ Elias Pte Ltd",
+    "level": "N2",
+    "fee_min": 490.0,
+    "fee_max": 1100.0
+  },
+  {
     "centre_code": "PT8995",
     "centre_name": "Learning Vision Lifelong Learning Institute (Paya Lebar)",
     "level": "N2",
@@ -30517,14 +30496,14 @@
     "centre_name": "Small Wonder Preschool Punggol",
     "level": "N2",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9067",
     "centre_name": "SMALL WONDER PRESCHOOL YISHUN (ADORA GREEN)",
     "level": "N2",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9072",
@@ -31391,7 +31370,7 @@
     "centre_code": "PT9954",
     "centre_name": "Marist Preschool Pte Ltd",
     "level": "N2",
-    "fee_min": 1467.89,
+    "fee_min": 1700.0,
     "fee_max": 2000.0
   },
   {
@@ -31666,13 +31645,6 @@
     "level": "N2",
     "fee_min": 650.0,
     "fee_max": 650.0
-  },
-  {
-    "centre_code": "RC1914",
-    "centre_name": "New Life Preschool @ Ang Mo Kio",
-    "level": "N2",
-    "fee_min": 80.0,
-    "fee_max": 1080.0
   },
   {
     "centre_code": "RC1920",
@@ -32042,7 +32014,7 @@
     "centre_code": "ST0173",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KEAT HONG BLK 484 (CC)",
     "level": "N2",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -32494,6 +32466,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0415",
+    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
+    "level": "N2",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "WP0280",
     "centre_name": "Learning Vision Tan Tock Seng Hospital",
     "level": "N2",
@@ -32531,13 +32510,6 @@
   {
     "centre_code": "TP0953",
     "centre_name": "PCF Sparkletots Preschool @ Marsiling Blk 909 (CC)",
-    "level": "N2",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "TP1037",
-    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
     "level": "N2",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -34391,6 +34363,13 @@
     "fee_max": 1500.0
   },
   {
+    "centre_code": "RC1914",
+    "centre_name": "New Life Preschool @ Newton",
+    "level": "N2",
+    "fee_min": 80.0,
+    "fee_max": 1080.0
+  },
+  {
     "centre_code": "SK0022",
     "centre_name": "Skool4Kidz Preschool",
     "level": "N2",
@@ -34832,13 +34811,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0370",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0430",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
@@ -34854,13 +34826,6 @@
   },
   {
     "centre_code": "NT0460",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0470",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
     "fee_min": 52.92,
@@ -35035,13 +35000,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0030",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0090",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
@@ -35057,13 +35015,6 @@
   },
   {
     "centre_code": "NT0270",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0280",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
     "fee_min": 52.92,
@@ -35112,6 +35063,13 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0370",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0390",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
@@ -35140,7 +35098,21 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0470",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0472",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0474",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
     "fee_min": 52.92,
@@ -35476,13 +35448,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0567",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0570",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
@@ -35518,13 +35483,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0577",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0581",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
@@ -35546,21 +35504,7 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0596",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0597",
-    "centre_name": "My First Skool",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0598",
     "centre_name": "My First Skool",
     "level": "N2",
     "fee_min": 52.92,
@@ -35576,6 +35520,13 @@
   {
     "centre_code": "NT0601",
     "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0603",
+    "centre_name": "My First Skool",
     "level": "N2",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -35602,13 +35553,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0610",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0612",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
@@ -35616,21 +35560,14 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0616",
-    "centre_name": "My First Skool",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0617",
-    "centre_name": "My First Skool",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NC0002",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0030",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
     "fee_min": 52.92,
@@ -35658,6 +35595,13 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0280",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0330",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
@@ -35666,13 +35610,6 @@
   },
   {
     "centre_code": "NT0471",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0474",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
     "fee_min": 52.92,
@@ -35847,6 +35784,13 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0567",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0568",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
@@ -35855,6 +35799,13 @@
   },
   {
     "centre_code": "NT0571",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0577",
     "centre_name": "MY FIRST SKOOL",
     "level": "N2",
     "fee_min": 52.92,
@@ -35896,6 +35847,20 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0596",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0598",
+    "centre_name": "My First Skool",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0599",
     "centre_name": "My First Skool",
     "level": "N2",
@@ -35905,13 +35870,6 @@
   {
     "centre_code": "NT0602",
     "centre_name": "MY FIRST SKOOL",
-    "level": "N2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0603",
-    "centre_name": "My First Skool",
     "level": "N2",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -35931,8 +35889,29 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0610",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0611",
     "centre_name": "MY FIRST SKOOL",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0616",
+    "centre_name": "My First Skool",
+    "level": "N2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0617",
+    "centre_name": "My First Skool",
     "level": "N2",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -37317,13 +37296,6 @@
     "fee_max": 2080.0
   },
   {
-    "centre_code": "PT9085",
-    "centre_name": "Small Wonder Preschool Bukit Gombak",
-    "level": "K1",
-    "fee_min": 650.0,
-    "fee_max": 1600.0
-  },
-  {
     "centre_code": "PT9086",
     "centre_name": "LITTLE GREENHOUSE @ RIVERVALE WK PTE LTD",
     "level": "K1",
@@ -38426,8 +38398,8 @@
     "centre_code": "PT9732",
     "centre_name": "Milagros de Montessori School - Queens Close",
     "level": "K1",
-    "fee_min": 320.0,
-    "fee_max": 740.0
+    "fee_min": 1200.0,
+    "fee_max": 1500.0
   },
   {
     "centre_code": "PT9743",
@@ -39382,13 +39354,6 @@
     "fee_max": 700.0
   },
   {
-    "centre_code": "RC1867",
-    "centre_name": "Little Shepherds' Schoolhouse@Church of St Francis Xavier",
-    "level": "K1",
-    "fee_min": 720.0,
-    "fee_max": 1250.0
-  },
-  {
     "centre_code": "RC1870",
     "centre_name": "Calvary Pandan Kindergarten",
     "level": "K1",
@@ -39571,13 +39536,6 @@
     "fee_max": 1172.0
   },
   {
-    "centre_code": "ST0103",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ BOON LAY BLK 627 (CC)",
-    "level": "K1",
-    "fee_min": 422.63,
-    "fee_max": 1172.0
-  },
-  {
     "centre_code": "ST0107",
     "centre_name": "PCF Sparkletots Preschool @ Jurong Spring-Gek Poh Blk 528 (DS)",
     "level": "K1",
@@ -39602,7 +39560,7 @@
     "centre_code": "ST0122",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
     "level": "K1",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -40383,13 +40341,6 @@
     "fee_max": 2470.0
   },
   {
-    "centre_code": "PT8529",
-    "centre_name": "STAR LEARNERS @ PASIR RIS PTE. LTD.",
-    "level": "K1",
-    "fee_min": 150.0,
-    "fee_max": 1630.0
-  },
-  {
     "centre_code": "PT8531",
     "centre_name": "PRE-SCHOOL BY-THE-PARK (DUNEARN) PTE LTD",
     "level": "K1",
@@ -40437,13 +40388,6 @@
     "level": "K1",
     "fee_min": 1650.0,
     "fee_max": 1750.0
-  },
-  {
-    "centre_code": "PT8672",
-    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
-    "level": "K1",
-    "fee_min": 150.0,
-    "fee_max": 1230.0
   },
   {
     "centre_code": "PT8689",
@@ -40646,7 +40590,7 @@
     "centre_name": "SMALL WONDER PRESCHOOL YISHUN (ADORA GREEN)",
     "level": "K1",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9071",
@@ -41438,6 +41382,13 @@
     "level": "K1",
     "fee_min": 220.0,
     "fee_max": 220.0
+  },
+  {
+    "centre_code": "RC1867",
+    "centre_name": "Little Shepherds' Schoolhouse@Church of St Francis Xavier",
+    "level": "K1",
+    "fee_min": 720.0,
+    "fee_max": 1250.0
   },
   {
     "centre_code": "RC1875",
@@ -42308,13 +42259,6 @@
     "fee_max": 2000.0
   },
   {
-    "centre_code": "PT7080",
-    "centre_name": "SWEETLANDS CHILDCARE WOODLANDS 643 PTE. LTD.",
-    "level": "K1",
-    "fee_min": 100.0,
-    "fee_max": 900.0
-  },
-  {
     "centre_code": "PT7140",
     "centre_name": "Character Montessori AMK",
     "level": "K1",
@@ -42413,6 +42357,13 @@
     "fee_max": 1900.0
   },
   {
+    "centre_code": "PT8529",
+    "centre_name": "STAR LEARNERS @ PASIR RIS PTE. LTD.",
+    "level": "K1",
+    "fee_min": 150.0,
+    "fee_max": 1630.0
+  },
+  {
     "centre_code": "PT8546",
     "centre_name": "Small Wonder Preschool Tampines East (Changkat)",
     "level": "K1",
@@ -42453,6 +42404,13 @@
     "level": "K1",
     "fee_min": 650.0,
     "fee_max": 1600.0
+  },
+  {
+    "centre_code": "PT8672",
+    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
+    "level": "K1",
+    "fee_min": 150.0,
+    "fee_max": 1230.0
   },
   {
     "centre_code": "PT8676",
@@ -42697,7 +42655,7 @@
     "centre_name": "Small Wonder Preschool Punggol",
     "level": "K1",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9072",
@@ -42705,6 +42663,13 @@
     "level": "K1",
     "fee_min": 150.0,
     "fee_max": 1630.0
+  },
+  {
+    "centre_code": "PT9085",
+    "centre_name": "Small Wonder Preschool Bukit Gombak",
+    "level": "K1",
+    "fee_min": 650.0,
+    "fee_max": 1600.0
   },
   {
     "centre_code": "PT9087",
@@ -43578,7 +43543,7 @@
     "centre_code": "PT9954",
     "centre_name": "Marist Preschool Pte Ltd",
     "level": "K1",
-    "fee_min": 1467.89,
+    "fee_min": 1700.0,
     "fee_max": 2000.0
   },
   {
@@ -43883,13 +43848,6 @@
     "fee_max": 940.0
   },
   {
-    "centre_code": "RC1914",
-    "centre_name": "New Life Preschool @ Ang Mo Kio",
-    "level": "K1",
-    "fee_min": 80.0,
-    "fee_max": 1080.0
-  },
-  {
     "centre_code": "RC1924",
     "centre_name": "Kindle Garden @Pasir Ris",
     "level": "K1",
@@ -44072,6 +44030,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0103",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ BOON LAY BLK 627 (CC)",
+    "level": "K1",
+    "fee_min": 422.63,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "ST0111",
     "centre_name": "PCF Sparkletots Preschool @ Jurong Spring-Gek Poh Blk 275A (CC)",
     "level": "K1",
@@ -44215,7 +44180,7 @@
     "centre_code": "ST0151",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CHONG PANG BLK 277 (CC)",
     "level": "K1",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -44257,7 +44222,7 @@
     "centre_code": "ST0173",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KEAT HONG BLK 484 (CC)",
     "level": "K1",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -44604,6 +44569,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0415",
+    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
+    "level": "K1",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "TP0502",
     "centre_name": "Skool4Kidz @ Bishan Ridges",
     "level": "K1",
@@ -44655,13 +44627,6 @@
   {
     "centre_code": "TP0953",
     "centre_name": "PCF Sparkletots Preschool @ Marsiling Blk 909 (CC)",
-    "level": "K1",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "TP1037",
-    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
     "level": "K1",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -45092,6 +45057,13 @@
     "level": "K1",
     "fee_min": 600.0,
     "fee_max": 800.0
+  },
+  {
+    "centre_code": "PT1900",
+    "centre_name": "LITTLE FOOTPRINTS PRESCHOOL PTE. LTD.",
+    "level": "K1",
+    "fee_min": 490.0,
+    "fee_max": 1300.0
   },
   {
     "centre_code": "PT5460",
@@ -45871,13 +45843,6 @@
     "fee_max": 1080.0
   },
   {
-    "centre_code": "PT1900",
-    "centre_name": "LITTLE FOOTPRINTS PRESCHOOL PTE. LTD.",
-    "level": "K1",
-    "fee_min": 490.0,
-    "fee_max": 1300.0
-  },
-  {
     "centre_code": "PT5280",
     "centre_name": "KIDDIWINKIE SCHOOLHOUSE PTE LTD",
     "level": "K1",
@@ -46471,6 +46436,13 @@
     "level": "K1",
     "fee_min": 490.0,
     "fee_max": 1500.0
+  },
+  {
+    "centre_code": "RC1914",
+    "centre_name": "New Life Preschool @ Newton",
+    "level": "K1",
+    "fee_min": 80.0,
+    "fee_max": 1080.0
   },
   {
     "centre_code": "SK0022",
@@ -47068,13 +47040,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0575",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0576",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
@@ -47103,20 +47068,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0598",
-    "centre_name": "My First Skool",
-    "level": "K1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0599",
-    "centre_name": "My First Skool",
-    "level": "K1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0601",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
@@ -47132,13 +47083,6 @@
   },
   {
     "centre_code": "NT0615",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NC0001",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
@@ -47166,13 +47110,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0110",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0190",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
@@ -47194,13 +47131,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0270",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0290",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
@@ -47215,7 +47145,7 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0310",
+    "centre_code": "NT0320",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
@@ -47243,14 +47173,14 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0400",
+    "centre_code": "NT0390",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0410",
+    "centre_code": "NT0400",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
@@ -47586,13 +47516,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0561",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0563",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
@@ -47607,13 +47530,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0568",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0569",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
@@ -47622,6 +47538,13 @@
   },
   {
     "centre_code": "NT0572",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0575",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
@@ -47670,8 +47593,8 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0596",
-    "centre_name": "MY FIRST SKOOL",
+    "centre_code": "NT0597",
+    "centre_name": "My First Skool",
     "level": "K1",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -47686,13 +47609,6 @@
   {
     "centre_code": "NT0605",
     "centre_name": "My First Skool",
-    "level": "K1",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0607",
-    "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -47719,6 +47635,13 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NC0001",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NC0002",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
@@ -47733,6 +47656,13 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0110",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0180",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
@@ -47740,14 +47670,21 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0320",
+    "centre_code": "NT0270",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0390",
+    "centre_code": "NT0310",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0410",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
@@ -47929,7 +47866,21 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0561",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0566",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0568",
     "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
@@ -47971,7 +47922,21 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0597",
+    "centre_code": "NT0596",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0598",
+    "centre_name": "My First Skool",
+    "level": "K1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0599",
     "centre_name": "My First Skool",
     "level": "K1",
     "fee_min": 52.92,
@@ -47994,6 +47959,13 @@
   {
     "centre_code": "NT0604",
     "centre_name": "My First Skool",
+    "level": "K1",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0607",
+    "centre_name": "MY FIRST SKOOL",
     "level": "K1",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -50186,8 +50158,8 @@
     "centre_code": "PT9732",
     "centre_name": "Milagros de Montessori School - Queens Close",
     "level": "K2",
-    "fee_min": 320.0,
-    "fee_max": 740.0
+    "fee_min": 1200.0,
+    "fee_max": 1500.0
   },
   {
     "centre_code": "PT9734",
@@ -51369,7 +51341,7 @@
     "centre_code": "ST0122",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ SENGKANG CENTRAL BLK 208 (CC)",
     "level": "K2",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -52171,13 +52143,6 @@
     "fee_max": 1750.0
   },
   {
-    "centre_code": "PT8672",
-    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
-    "level": "K2",
-    "fee_min": 150.0,
-    "fee_max": 1230.0
-  },
-  {
     "centre_code": "PT8702",
     "centre_name": "Brighton Montessori Sunset Way",
     "level": "K2",
@@ -52371,7 +52336,7 @@
     "centre_name": "SMALL WONDER PRESCHOOL YISHUN (ADORA GREEN)",
     "level": "K2",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9071",
@@ -53162,6 +53127,13 @@
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KEBUN BARU BLK 109 (CC)",
     "level": "K2",
     "fee_min": 413.95,
+    "fee_max": 1172.0
+  },
+  {
+    "centre_code": "ST0003",
+    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ FENGSHAN BLK 184 (CC)",
+    "level": "K2",
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -54040,13 +54012,6 @@
     "fee_max": 2000.0
   },
   {
-    "centre_code": "PT7080",
-    "centre_name": "SWEETLANDS CHILDCARE WOODLANDS 643 PTE. LTD.",
-    "level": "K2",
-    "fee_min": 100.0,
-    "fee_max": 900.0
-  },
-  {
     "centre_code": "PT7140",
     "centre_name": "Character Montessori AMK",
     "level": "K2",
@@ -54241,6 +54206,13 @@
     "level": "K2",
     "fee_min": 650.0,
     "fee_max": 1600.0
+  },
+  {
+    "centre_code": "PT8672",
+    "centre_name": "STAR LEARNERS @ BUKIT BATOK PTE. LTD.",
+    "level": "K2",
+    "fee_min": 150.0,
+    "fee_max": 1230.0
   },
   {
     "centre_code": "PT8676",
@@ -54513,7 +54485,7 @@
     "centre_name": "Small Wonder Preschool Punggol",
     "level": "K2",
     "fee_min": 650.0,
-    "fee_max": 890.0
+    "fee_max": 934.0
   },
   {
     "centre_code": "PT9072",
@@ -55520,7 +55492,7 @@
     "centre_code": "PT9954",
     "centre_name": "Marist Preschool Pte Ltd",
     "level": "K2",
-    "fee_min": 1467.89,
+    "fee_min": 1700.0,
     "fee_max": 2000.0
   },
   {
@@ -55818,13 +55790,6 @@
     "fee_max": 650.0
   },
   {
-    "centre_code": "RC1914",
-    "centre_name": "New Life Preschool @ Ang Mo Kio",
-    "level": "K2",
-    "fee_min": 80.0,
-    "fee_max": 1080.0
-  },
-  {
     "centre_code": "RC1920",
     "centre_name": "New Life Preschool @ Bukit Gombak",
     "level": "K2",
@@ -55837,13 +55802,6 @@
     "level": "K2",
     "fee_min": 802.2,
     "fee_max": 1146.08
-  },
-  {
-    "centre_code": "ST0003",
-    "centre_name": "PCF SPARKLETOTS PRESCHOOL @ FENGSHAN BLK 184 (CC)",
-    "level": "K2",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
   },
   {
     "centre_code": "ST0004",
@@ -56220,7 +56178,7 @@
     "centre_code": "ST0151",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ CHONG PANG BLK 277 (CC)",
     "level": "K2",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -56255,7 +56213,7 @@
     "centre_code": "ST0173",
     "centre_name": "PCF SPARKLETOTS PRESCHOOL @ KEAT HONG BLK 484 (CC)",
     "level": "K2",
-    "fee_min": 460.0,
+    "fee_min": 610.0,
     "fee_max": 1172.0
   },
   {
@@ -56679,6 +56637,13 @@
     "fee_max": 1172.0
   },
   {
+    "centre_code": "ST0415",
+    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
+    "level": "K2",
+    "fee_min": 610.0,
+    "fee_max": 1172.0
+  },
+  {
     "centre_code": "WP0210",
     "centre_name": "Learning Vision Nanyang Technological University",
     "level": "K2",
@@ -56737,13 +56702,6 @@
   {
     "centre_code": "TP0953",
     "centre_name": "PCF Sparkletots Preschool @ Marsiling Blk 909 (CC)",
-    "level": "K2",
-    "fee_min": 610.0,
-    "fee_max": 1172.0
-  },
-  {
-    "centre_code": "TP1037",
-    "centre_name": "PCF Sparkletots Preschool @ Tengah Blk 126B (CC)",
     "level": "K2",
     "fee_min": 610.0,
     "fee_max": 1172.0
@@ -58499,6 +58457,13 @@
     "fee_max": 1500.0
   },
   {
+    "centre_code": "RC1914",
+    "centre_name": "New Life Preschool @ Newton",
+    "level": "K2",
+    "fee_min": 80.0,
+    "fee_max": 1080.0
+  },
+  {
     "centre_code": "SK0014",
     "centre_name": "Skool4Kidz Preschool",
     "level": "K2",
@@ -58982,13 +58947,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0200",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0220",
     "centre_name": "MY FIRST SKOOL",
     "level": "K2",
@@ -59129,6 +59087,13 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0200",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0230",
     "centre_name": "MY FIRST SKOOL",
     "level": "K2",
@@ -59207,13 +59172,6 @@
   },
   {
     "centre_code": "NT0450",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0460",
     "centre_name": "MY FIRST SKOOL",
     "level": "K2",
     "fee_min": 52.92,
@@ -59500,13 +59458,6 @@
     "fee_max": 1188.0
   },
   {
-    "centre_code": "NT0561",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
     "centre_code": "NT0563",
     "centre_name": "MY FIRST SKOOL",
     "level": "K2",
@@ -59529,13 +59480,6 @@
   },
   {
     "centre_code": "NT0567",
-    "centre_name": "MY FIRST SKOOL",
-    "level": "K2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0568",
     "centre_name": "MY FIRST SKOOL",
     "level": "K2",
     "fee_min": 52.92,
@@ -59572,13 +59516,6 @@
   {
     "centre_code": "NT0592",
     "centre_name": "MY FIRST SKOOL",
-    "level": "K2",
-    "fee_min": 52.92,
-    "fee_max": 1188.0
-  },
-  {
-    "centre_code": "NT0598",
-    "centre_name": "My First Skool",
     "level": "K2",
     "fee_min": 52.92,
     "fee_max": 1188.0
@@ -59711,6 +59648,13 @@
   },
   {
     "centre_code": "NT0400",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0460",
     "centre_name": "MY FIRST SKOOL",
     "level": "K2",
     "fee_min": 52.92,
@@ -59962,6 +59906,20 @@
     "fee_max": 1188.0
   },
   {
+    "centre_code": "NT0561",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0568",
+    "centre_name": "MY FIRST SKOOL",
+    "level": "K2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
     "centre_code": "NT0569",
     "centre_name": "MY FIRST SKOOL",
     "level": "K2",
@@ -60047,6 +60005,13 @@
   },
   {
     "centre_code": "NT0597",
+    "centre_name": "My First Skool",
+    "level": "K2",
+    "fee_min": 52.92,
+    "fee_max": 1188.0
+  },
+  {
+    "centre_code": "NT0598",
     "centre_name": "My First Skool",
     "level": "K2",
     "fee_min": 52.92,
